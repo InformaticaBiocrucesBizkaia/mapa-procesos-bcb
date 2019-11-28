@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mapa Procesos - IIS Biocruces Bizkaia</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="Mining Responsive web template, Bootstrap Web Templates " />
+
+		<!-- favicon -->
+			<link rel="icon" href="./images/icon/logo_i+_azul2.png" />
+		
+		<!-- css -->
+			<!-- bootstarp-css -->
+			<link rel="stylesheet" href="./css/bootstrap.min.css" type="text/css" media="all" />
+
+			<!-- my-css -->
+			<link rel="stylesheet" href="./css/bc_css.css" type="text/css" media="all" />
+		<!-- //css -->
+
+		<!-- js -->
+			<script src="./js/jquery-1.11.1.min.js"></script>
+			<script src="./js/modernizr.custom.js"></script>
+		<!-- //js -->
+
+		<script src="js/mp_myjs_01.js"></script>
+		
+	</head>
+	<body onload="iniciando()">
+		<!-- Header -->
+			<div class="banner">
+				<div class="header-web-content">
+					<div class="bc_mp_titulo_ppal">
+						<span id="titulo_ppal" onclick="func_ver_mapa_principal()">Mapa de Procesos</span>
+					</div>
+				</div>
+			</div>
+		<!-- //Header -->
+		
+		<!-- Body -->
+			<section>
+				<div class="intro-content">
+					<!-- Información -->
+					<div class="contenedor" id="contenedor_esquema">
+						<div id="bc_mp_esquema">
+							<div id="bc_mp_esquema_central">
+								<div id="bc_mp_procesos"></div>
+								<div id="bc_mp_procesos_subprocesos"></div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</section>
+		<!-- //Body -->
+
+		<!-- Footer -->
+			<div class="footer" id="footer">
+				<div class="footer-info footer-imagonbar">
+					<p class="f-address-developer">© 2019 IIS Biocruces Bizkaia</p>
+					<p class="f-address-developer-sinmargin"> Desarrollado por la <a href="https://www.biocrucesbizkaia.org/web/biocruces/plataformas/bioinformatica-biomedicina-cuantitativa" target="_blank" class="url_imagonbar bc_negrita">Unidad de Bioinformática y biomedicina cuantitativa</a>
+					</p>
+				</div>	
+			</div>
+		<!-- //Footer -->
+
+		<!-- <script src="js/mp_functions_04.js"></script> -->
+		<script src="js/mp_functions_mapa_nivel0.js"></script>
+		<script src="js/mp_functions_mapa_nivel1.js"></script>
+		<script src="js/mp_functions_mapa_3_28.js"></script>
+		<script src="js/mp_functions_mapa_3_29.js"></script>
+		<script src="js/mp_functions_mapa_3_30.js"></script>
+		<script src="js/mp_functions_mapa_3_31.js"></script>
+
+		<script>
+			function iniciando(){
+				$("#bc_mp_procesos").show();
+		    	$(".contenedor_interno").hide();
+		    }
+		</script>
+	</body>	
+</html>

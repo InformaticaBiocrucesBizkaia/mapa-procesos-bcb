@@ -1,0 +1,2097 @@
+{
+	"nombre":"Mapa de Procesos de Biocruces Bizkaia",
+	"version":"1_0",
+	"tipo":"folder",
+	"subnivel":[
+		{
+			"nivel":"1",
+			"nombre":"Procesos estratégicos",
+			"codigoBC":"",
+			"url":"",
+			"tipo":"folder",
+			"extension":"",
+			"subnivel":[
+				{
+					"nivel":"1_01",
+					"nombre":"Plan estratégico",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"1_02",
+					"nombre":"Innovación",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel": []
+				},
+				{
+					"nivel":"1_03",
+					"nombre":"Orientación a la mejora y calidad",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				}
+			]
+		},
+		{
+			"nivel":"2",
+			"nombre":"Procesos operativos",
+			"codigoBC":"",
+			"url":"",
+			"tipo":"folder",
+			"extension":"",
+			"subnivel":[
+				{
+					"nivel":"2_01",
+					"nombre":"Captación de fondos de financiación y asesoramiento",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_02",
+					"nombre":"Gestión de solicitudes de proyectos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_03",
+					"nombre":"Gestión contratos EECC",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_04",
+					"nombre":"Desarrollo y seguimiento de proyectos/EECC",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_05",
+					"nombre":"Evaluación final de proyectos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_06",
+					"nombre":"Evaluaciones finales",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_07",
+					"nombre":"Traslación y difusión de resultados",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				}				
+			]
+		},
+		{
+			"nivel":"3",
+			"nombre":"Procesos de apoyo",
+			"codigoBC":"",
+			"url":"",
+			"tipo":"folder",
+			"extension":"",
+			"subnivel":[
+				{
+					"nivel":"3_01",
+					"nombre":"Comunicación",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":[]
+				},
+				{
+					"nivel":"3_02",
+					"nombre":"Gestión de Recursos Humanos",
+					"codigoBC":"PR.01",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":[
+						{
+							"nivel":"3_02_01",
+							"nombre":"Solicitud y baja de tarjetas de identificación",
+							"codigoBC":"IT.01-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_01_01",
+									"nombre":"Alta y baja de tarjetas en el IIS Biocruces",
+									"codigoBC":"IT.01-PR.01.02 ",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_02",
+							"nombre":"Gestión de nóminas en Fundanet",
+							"codigoBC":"IT.02-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_02_01",
+									"nombre":"Gestion de nominas en Fundanet",
+									"codigoBC":"IT.02-PR.01.03",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e4208b4e-712f-4bc5-b8fe-ade4cd5d29b7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_03",
+							"nombre":"Obtencion de costes salariales de Fundanet",
+							"codigoBC":"IT.03-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_03_01",
+									"nombre":"Modelo de Certificado de Costes Salariales",
+									"codigoBC":"AX01-IT.03-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/73491f5c-e239-4b78-a125-3daf2615d3b4",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_03_02",
+									"nombre":"Obtención certificados costes salariales",
+									"codigoBC":"IT.03-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c3112d34-9165-43f7-8a8f-ecb7a1de0ef5",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_04",
+							"nombre":"Ofertas de empleo en la Web de Biocruces",
+							"codigoBC":"IT.04-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_04_01",
+									"nombre":"Instrucciones para sacar ofertas en la web de Biocruces",
+									"codigoBC":"IT.04-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c1387e60-468f-4860-9b81-bc1f46de00af",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_05",
+							"nombre":"Solicitar certificados a RRHH de Biocruces",
+							"codigoBC":"IT.05-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_05_01",
+									"nombre":"Certificado pertenencia al IIS Biocruces",
+									"codigoBC":"AX01_IT.05-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/40b2e83d-8f9f-4fa9-96a7-a517fe22d2f8",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_05_02",
+									"nombre":"Solicitar certificados a la unidad de RRHH de pertencia a Biocruces",
+									"codigoBC":"IT.05-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4779da2a-60c1-45ea-bd22-42a181fdded7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_06",
+							"nombre":"Categorización de los miembros del Biocruces",
+							"codigoBC":"IT.06-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_06_01",
+									"nombre":"Categorización de los miembros de Biocruces",
+									"codigoBC":"IT.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6c838594-ed2d-43b6-aea3-cd18132d411b",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_07",
+							"nombre":"Nuevas Incorporaciones y otros movimientos de personal miembro del Instituto",
+							"codigoBC":"PO.01-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_07_01",
+									"nombre":"Documento de Incorporación",
+									"codigoBC":"AX01_PO.01-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/03b0cee7-32af-455a-a273-b62e4e233ef0",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_07_02",
+									"nombre":"Ficha de datos personales",
+									"codigoBC":"AX02_PO.01-PR.01.03",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/662775f8-708a-48d2-85a1-969a4b87f747",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_07_03",
+									"nombre":"Documento de cambio Jefe de Grupo",
+									"codigoBC":"AX03_PO.01-PR.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d9f01a9c-81ec-4b24-8103-2301cda22a97",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_07_04",
+									"nombre":"Nuevas Incorporaciones de personal miembro",
+									"codigoBC":"PO.01-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a1ca02a9-dc3d-43c1-9edf-9b496431c7b5",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_08",
+							"nombre":"Permisos y otras incidencias laborales",
+							"codigoBC":"PO.02-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_08_01",
+									"nombre":"Solicitud de vacaciones, licencias y permisos",
+									"codigoBC":"AX01_PO.02-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d050559a-35e2-497e-9093-61f87f0870ac",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_08_02",
+									"nombre":"Solicitud de permisos y otras incidencias laborales",
+									"codigoBC":"PO.02-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d557fc0d-a6d8-4340-abb6-da5f054722dd",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_09",
+							"nombre":"Estancias de investigadores en Biocruces",
+							"codigoBC":"PO.03-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_09_01",
+									"nombre":"Condiciones generales de estancias",
+									"codigoBC":"AX03_PO.03-PR 01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9d263d0a-ae1e-4053-a7b4-2b654c1bb0fe",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_09_02",
+									"nombre":"Acuerdo estancia investigación entre",
+									"codigoBC":"AX04_PO.03-PR 01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3c645631-3ffb-497e-bae3-bc3ae1e75afe",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_09_03",
+									"nombre":"Estancias investigadores en el Instituto BioCruces",
+									"codigoBC":"PO.03-PR01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bbab5c07-0520-4772-9103-bae88b0534bc",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_10",
+							"nombre":"Contratacion de personal con cargo a Proyectos",
+							"codigoBC":"PO.06-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_10_01",
+									"nombre":"Plantilla Perfil del Puesto de Trabajo",
+									"codigoBC":"AX01PO.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0c8c8e0c-31b7-40f6-b96a-6033ff048973",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_10_02",
+									"nombre":"Modelo ACTA",
+									"codigoBC":"AX02PO.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3982044-f988-49d7-b4ee-981e843c9005",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_10_03",
+									"nombre":"Contratacion de personal con cargo a Proyectos",
+									"codigoBC":"PO.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/591fab8e-cf45-403e-926d-41baa69ff18d",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},						
+						{
+							"nivel":"3_02_11",
+							"nombre":"Estancias de Investigadores de IIS Biocruces en otras instituciones",
+							"codigoBC":"PO.07-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_11_01",
+									"nombre":"Solicitud y aceptación de estancia investigadoraformativa",
+									"codigoBC":"AX01PO.07-PR.02",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31b6b515-ae5e-400b-ad6a-cebbec162068",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_11_02",
+									"nombre":"Estancias investigadores del Instituto BioCruces en otras instituciones",
+									"codigoBC":"PO.07-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/66e720b8-55a4-4106-8881-9a530351cc1d",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_12",
+							"nombre":"Acogida profesionales en el Instituto BioCruces",
+							"codigoBC":"PO.08-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_12_01",
+									"nombre":"Manual de acogida",
+									"codigoBC":"AX01_PO.08-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/35c82481-44cb-48ff-9a38-7fcb241d4f19",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_02",
+									"nombre":"Normas de seguridad en el tratamiento de datos de carácter personal",
+									"codigoBC":"AX02_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/71506eb9-2038-43de-afad-a4b70eebb91c",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_03",
+									"nombre":"Notificación al personal adscrito de la normativa de seguridad",
+									"codigoBC":"AX03_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/08d73a53-6b58-4ae3-9df4-9a186445cea0",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_04",
+									"nombre":"Recomendacion en prevencion de riesgos laborales",
+									"codigoBC":"AX04_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3d46b03-efe1-4a75-ade5-a0e848c4cee6",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_05",
+									"nombre":"Solicitud de acceso a aplicaciones informáticas de Osakidetza",
+									"codigoBC":"AX05_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e77edf7c-697e-4243-867e-52d1683a5be7",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_06",
+									"nombre":"Acogida profesionales en el Instituto BioCruces",
+									"codigoBC":"PO.08-PR.01.02",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/87a4f898-0ed4-4037-9351-66f3d4bd4ca7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},						
+						{
+							"nivel":"3_02_13",
+							"nombre":"Actuación en materia de prevencion laborales en IIS Biocruces",
+							"codigoBC":"PO.09-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_13_01",
+									"nombre":"Procedimiento de actuación en materia de prevencion laborales",
+									"codigoBC":"PO.09-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2c91ecac-d4cb-41d5-bd20-d8c176a3fcde",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						}
+					]
+				},
+				{
+					"nivel":"3_03",
+					"nombre":"Evaluación Científica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_04",
+					"nombre":"Formación",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_05",
+					"nombre":"Gestión Económica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_06",
+					"nombre":"Gest. infraestructuras y tecnologías",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_07",
+					"nombre":"Convenios y acuerdos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_21",
+					"nombre":"Microscopía",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_22",
+					"nombre":"Genética Genómica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_23",
+					"nombre":"Citometría de flujo",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_24",
+					"nombre":"Cultivos celulares",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_25",
+					"nombre":"Metabolómica y proteómica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_26",
+					"nombre":"Biomedicina cuantitativa",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_27",
+					"nombre":"Biobanco",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_28",
+					"nombre":"Animalario y experimentación animal",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"3_28_01",
+							"nombre":"Actividades rutinarias y limpieza",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_01_01",
+									"nombre":" Actividades rutinarias en la sala de alojamiento de roedores",
+									"codigoBC":"PO.11.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_01_01",
+											"nombre":"Registro de actividades rutinarias en la sala de alojamiento de roedores",
+											"codigoBC":"AX01_PO.11-SPR.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31e638c7-4834-4d17-98af-b859f1a2a8c2",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_01_02",
+											"nombre":"Actividades rutinarias en la sala de alojamiento de roedores",
+											"codigoBC":"PO.11.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d1f09afc-964c-4969-b0dd-1b4cfcb96701",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_01_02",
+									"nombre":"Actividades rutinarias en la sala de alojamiento de conejos",
+									"codigoBC":"PO.12.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_02_01",
+											"nombre":"Registro de actividades rutinarias en la sala de alojamiento de conejos",
+											"codigoBC":"AX01_PO.12-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6195ad35-975a-415a-bd47-4770f0ef4bc5",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_02_02",
+											"nombre":"Actividades rutinarias en la sala de alojamiento de conejos",
+											"codigoBC":"PO.12.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e9e5e798-02fe-43f1-92f4-379cf7649f9c",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_01_03",
+									"nombre":" Limpieza y desinfección del semisótano de la Plataforma de animalario",
+									"codigoBC":"PO.18.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_03_01",
+											"nombre":"Hoja de registro para el plan mensual de limpieza rutinaria y completa",
+											"codigoBC":"AX01_PO 18.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8e86a8fc-9397-450c-80f5-71738dfe9c14",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_03_02",
+											"nombre":"Hoja de registro para desinfeccion y limpiezas especiales",
+											"codigoBC":"AX02_PO 18.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3af1c135-bbae-4c16-85e8-ad9b26edbea3",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_03_03",
+											"nombre":"Limpieza y desinfección del semisótano de la Plataforma de animalario",
+											"codigoBC":"PO.18.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/faade53c-1d0c-4d03-9445-5c503af4c289",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_01_04",
+									"nombre":" Limpieza y desinfección del sótano 1 de la Plataforma de animalario",
+									"codigoBC":"PO.19.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_04_01",
+											"nombre":" Hoja de registro de limpieza para la zona de barrera SPF",
+											"codigoBC":"AX01_PO.19.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/949a4c1d-7c9f-4389-ac21-3cb86a162a9e",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_04_02",
+											"nombre":" Hoja de registro para la limpieza de la zona intermedia",
+											"codigoBC":"AX02_PO.19.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c58e99cd-3496-45c3-874e-a21d6da4c9d7",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_04_03",
+											"nombre":" Hoja de registro para la limpieza de la zona convencional",
+											"codigoBC":"AX03_PO.19.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/90281184-e9e2-43a0-873b-0c16291dae2b",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_04_04",
+											"nombre":" Limpieza y desinfección del sótano de la Plataforma de animalario",
+											"codigoBC":"PO.19.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d4cdd08a-9735-4871-b685-e4bc1b859ae0",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_01_05",
+									"nombre":" Cambio de jaulas y limpieza",
+									"codigoBC":"PO.22.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_05_01",
+											"nombre":"Cambio de jaulas y limpieza y esterilización en el sótano 1",
+											"codigoBC":"PO.22.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8fe03805-99e3-406e-af95-519b14fae5de",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_01_06",
+									"nombre":" Actividades rutinarias en el semisótano de la Plataforma de animalario",
+									"codigoBC":"PO.29-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_06_01",
+											"nombre":"registro de las condiciones ambientales",
+											"codigoBC":"AX01_PO.29-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/660fde0c-857a-4033-9911-ad8ca14dca72",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_06_02",
+											"nombre":"Hoja de control de salud",
+											"codigoBC":"AX02_PO.29-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a8d47ad0-9838-4db1-83c2-24ca2d2c0f2e",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_06_03",
+											"nombre":"Actividades rutinarias en el semisótano",
+											"codigoBC":"PO.29.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c976f4f9-8387-4ed2-877c-eb99f819c341",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_01_07",
+									"nombre":" Limpieza y desinfección de material",
+									"codigoBC":"PO.30-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_01_07_01",
+											"nombre":"Limpieza y desinfección de material, instrumental y equipamiento quirúrgicos",
+											"codigoBC":"PO.30.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d0cae9f2-a7ad-43d9-b983-e4089f49625b",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_02",
+							"nombre":"Administración de sustancias y extracción de muestras",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_02_01",
+									"nombre":"Administración de sustancias en grandes animales",
+									"codigoBC":"PO.24.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_02_01_01",
+											"nombre":"Administración de sustancias en grandes animales",
+											"codigoBC":"PO.24.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7229dc39-33ad-426d-bb7d-a1fc7f89b5ed",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_02_02",
+									"nombre":"Administración de sustancias en pequeños animales",
+									"codigoBC":"PO.25.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_02_02_01",
+											"nombre":"Administración de sustancias en pequeños animales",
+											"codigoBC":"PO.25.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5777d8ba-c26d-4935-b437-c1d00e208461",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_02_03",
+									"nombre":"Extracción de muestras sanguineas en pequeños animales",
+									"codigoBC":"PO.26-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[]
+								},
+								{
+									"nivel":"3_28_02_04",
+									"nombre":"Extraccion de muestras sanguineas de grandes animales",
+									"codigoBC":"PO.28-SPR 01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":[
+										{
+											"nivel":"3_28_02_04_01",
+											"nombre":"Extracción de muestras sanguineas en grandes animales",
+											"codigoBC":"PO.28.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d2699e05-9f64-4c1b-8c79-e2e86ee49f12",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+
+								}
+							]
+						},
+						{
+							"nivel":"3_28_03",
+							"nombre":"Enriquecimiento ambiental y control sanitario",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_03_01",
+									"nombre":"Enriquecimiento ambiental en roedores",
+									"codigoBC":"PO.33.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_03_01_01",
+											"nombre":"Enriquecimiento ambiental en roedores",
+											"codigoBC":"PO.33.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7bd93c55-c822-4b09-963a-4d18b5347e10",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_03_02",
+									"nombre":"Control sanitario de grandes animales",
+									"codigoBC":"PO.34.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_03_02_01",
+											"nombre":"Informe de seguimiento sanitario en grandes animales",
+											"codigoBC":"AX01_PO.34-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7ce26388-57ee-4974-8ece-4886292161af",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_03_02_02",
+											"nombre":"Control sanitario de grandes animales",
+											"codigoBC":"PO.34.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a2df2dc6-7570-499f-8245-cc4740a5f8f8",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_03_03",
+									"nombre":"Controles sanitarios en roedores y conejos",
+									"codigoBC":"PO.35.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_03_03_01",
+											"nombre":"Agentes infecciosos a monitorizar en ratón",
+											"codigoBC":"AX01_PO.36-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/112cf6c4-4bac-40d3-a9d3-9e3be45a15e1",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_03_03_02",
+											"nombre":"Agentes infecciosos a monitorizar en rata",
+											"codigoBC":"AX02_PO.36-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ecafc4ee-6e2e-47d0-846e-e93c62f68714",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_03_03_03",
+											"nombre":"Agentes infecciosos a monitorizar en conejo",
+											"codigoBC":"AX03_PO.36-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/de8567fe-a65d-4fe1-8e18-da828a333b93",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_03_03_04",
+											"nombre":"Controles sanitarios en roedores y conejos",
+											"codigoBC":"PO.36.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/262fbcee-23b5-4589-b57f-26d27b8f7541",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_04",
+							"nombre":"Eutanasia, anestesia y analgesia",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_04_01",
+									"nombre":"Eutanasia y necropsia en grandes animales",
+									"codigoBC":"PO.27.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_04_01_01",
+											"nombre":"informe de necropsia",
+											"codigoBC":"AX01_PO.27-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/876fcb20-bda1-4116-b564-b4d3dc2c5736",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_04_01_02",
+											"nombre":"Eutanasia y necropsia en grandes animales",
+											"codigoBC":"PO.27.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/680b82e5-9495-4ea5-91cb-a4a68cda429b",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_04_02",
+									"nombre":"Anestesia y analgesia en roedores y conejos",
+									"codigoBC":"PO.31.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_04_02_01",
+											"nombre":"Anestesia inyectable_ volúmenes en rata y ratón",
+											"codigoBC":"AX01_PO.31-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/beccb2c8-b288-4d21-b6ad-413ab22338cc",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_04_02_02",
+											"nombre":"Anestesia inyectable_ volúmenes en conejo",
+											"codigoBC":"AX02_PO.31-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bd6e48d7-9064-488f-ab9f-89093f66569a",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_04_02_03",
+											"nombre":"Registro de la monitorización de la anestesia y analgesia",
+											"codigoBC":"AX03_PO.31-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/62377ca2-5f4e-4853-a862-0b0b19b66641",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_04_02_04",
+											"nombre":"Anestesia y analgesia en roedores y conejos",
+											"codigoBC":"PO.31.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b80d3226-9d31-48c2-8320-d0ffa4f5b7bf",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_04_03",
+									"nombre":"Eutanasia en roedores y conejos",
+									"codigoBC":"PO.32.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_04_03_01",
+											"nombre":"Eutanasia en roedores y conejos",
+											"codigoBC":"PO.32.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/999a8aaf-8590-40ee-902c-c155d1b7e21c",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_04_04",
+									"nombre":"Anestesia y analgesia en grandes animales",
+									"codigoBC":"PO.35.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_04_04_01",
+											"nombre":"Tipos de anestesicos, analgesicos y sedantes de uso general",
+											"codigoBC":"AX01_PO.35-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8328a4b0-1eca-4150-a67a-fb6fe6f5dde4",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_04_04_02",
+											"nombre":"Anestesia y analgesia en grandes animales",
+											"codigoBC":"PO.35.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/693ba4b9-7940-47b9-b410-be9ed30c4130",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_05",
+							"nombre":"Evaluación del dolor en animales",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_05_01",
+									"nombre":"Evaluación dolor, monitorización y criterios de punto final en roedores",
+									"codigoBC":"PO.05-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_05_01_01",
+											"nombre":"Hoja monitorización del bienestar animal en roedores",
+											"codigoBC":"AX01_PO.05-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f0ea5357-8158-4446-a16a-9c5595bab639",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_05_01_02",
+											"nombre":"Evaluación dolor, monitorización y criterios de punto final en roedores",
+											"codigoBC":"PO.05-SPR.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7a0330e8-58ef-4f0d-adf9-9fd1f7653a0e",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_05_02",
+									"nombre":"Evaluación dolor, monitorización y criterios de punto final en conejos",
+									"codigoBC":"PO.06-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_05_02_01",
+											"nombre":"Hoja monitorización del bienestar animal en conejos",
+											"codigoBC":"AX01_PO.06-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2b7b463a-24da-426b-b89c-8a5579796f13",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_05_02_02",
+											"nombre":"Evaluación dolor, monitorización y criterios de punto final en conejos",
+											"codigoBC":"PO.06-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cfe87b05-a0bb-4681-b97b-1f09fa0c6047",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}				
+									]
+								},
+								{
+									"nivel":"3_28_05_03",
+									"nombre":"Evaluación dolor monitorización en cerdos",
+									"codigoBC":"PO.07-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_05_03_01",
+											"nombre":"Hoja monitorización del bienestar animal en cerdos",
+											"codigoBC":"AX01_PO.07-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7cc73522-88eb-4b01-aa04-102c8f1cb8d2",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_05_03_02",
+											"nombre":"Evaluación dolor monitorización y criterios de punto final en cerdos",
+											"codigoBC":"PO.07-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3f4e8c11-3f73-4660-81db-2d936e698703",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_05_04",
+									"nombre":"Evaluación del dolor, monitorización y criterios de punto final en ovinos",
+									"codigoBC":"PO.08.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_05_04_01",
+											"nombre":"Monitorización del bienestar animal en ovinos",
+											"codigoBC":"AX01_PO.08-SPR.01 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f5729063-5103-4ec2-8c17-605a1ae92d57",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_05_04_02",
+											"nombre":"Evaluación del dolor, monitorización y criterios de punto final en ovinos",
+											"codigoBC":"PO.08.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9c4b4fdb-c1b5-4fab-af6b-2c05bcb72cce",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_06",
+							"nombre":"Evaluación del dolor en animales",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_06_01",
+									"nombre":"Flujo entrada y salida de personal al semisótano de la plataforma de animalario",
+									"codigoBC":"PO.13-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_06_01_01",
+											"nombre":"Registro de visitas",
+											"codigoBC":"AX01_PO.13-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ff5ad9f2-264c-429d-b456-cb97ebef6fba",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_01_02",
+											"nombre":"Flujo entrada y salida de personal al semisótano de la plataforma de animalario",
+											"codigoBC":"PO.13-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/20bbb9c5-a76f-4cc3-8188-a59c339e5797",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_06_02",
+									"nombre":"Flujo de entrada y salida de animales al semisótano de la plataforma de animalario",
+									"codigoBC":"PO.14-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_06_02_01",
+											"nombre":"Etiqueta de identificación colectiva para la estabulación de grandes animales",
+											"codigoBC":"AX01_PO.14-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e154a056-10e8-4380-b515-e391596dd3e9",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_02_02",
+											"nombre":"Flujo entrada y salida de grandes animales al semisótano de la plataforma de animalario",
+											"codigoBC":"PO.14-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/287ff24b-4e95-4bd3-9e3c-ce38ed4359d6",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}				
+									]
+								},
+								{
+									"nivel":"3_28_06_03",
+									"nombre":"Flujo de entrada y salida de equipos y material al semisótano de la plataforma de animalario",
+									"codigoBC":"PO.15-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_06_03_01",
+											"nombre":"Registro de entrada y salida de equipos y material",
+											"codigoBC":"AX01_PO.15-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/494b82c9-7347-492e-9f53-d41c7f7d0729",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_03_02",
+											"nombre":"Flujo entrada y salida de equipos y material al semisótano de la plataforma de animalario",
+											"codigoBC":"PO.15-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/96c0da98-18a3-4cd4-81eb-f732c8a1e83e",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_06_04",
+									"nombre":"Flujo de entrada y salida de personal al sótano 1 de la Plataforma de animalario",
+									"codigoBC":"PO.17.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_06_04_01",
+											"nombre":"Plano del sótano de la Plataforma de animalario",
+											"codigoBC":"AX01_PO.17-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/803037c3-0e91-4c3a-8061-643bf0dec9b4",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_04_02",
+											"nombre":"Libro registro visitas",
+											"codigoBC":"AX02_PO.17-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c0c667c5-f0bf-4d0d-8e84-f3ca7ced9f1f",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_04_03",
+											"nombre":"Flujo de entrada y salida de personal al sótano 1 de la Plataforma de animalario",
+											"codigoBC":"PO.17.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/eabf408e-5bc5-490b-937d-2578b82cc6fb",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_06_05",
+									"nombre":"Flujo de materiales y equipos al sótano 1",
+									"codigoBC":"PO.21.SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_06_05_01",
+											"nombre":"Flujo de materiales en el sotano 1 de la Plataforma de animalario",
+											"codigoBC":"AX01_PO.21-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/467f5956-dfd8-4b1f-aa29-6b6909dd304d",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_05_02",
+											"nombre":"Flujo de entrada y salida de materiales y equipos al sótano 1 de la Plataforma de animalario",
+											"codigoBC":"PO.21.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cbcd3301-1181-413a-9b4d-17d64a150ae9",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_06_06",
+									"nombre":"Fujo de entrada y salida animales en sotano 1",
+									"codigoBC":"PO.23.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_06_06_02",
+											"nombre":"Fujo de entrada y salida, identificación de animales en sotano 1",
+											"codigoBC":"PO.23.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8346a293-0baf-457e-a30f-c6c0624e90f1",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_07",
+							"nombre":"Instrucciones técnicas",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_07_01",
+									"nombre":"Instrucciones de la manta homeotérmica",
+									"codigoBC":"IT.01-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_01_01",
+											"nombre":"Instrucciones de uso de la manta homeotérmica PanLab-Harvard Apparatus",
+											"codigoBC":"IT.01-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/01bbc94b-7073-48b5-a655-40f37abe5fef",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_02",
+									"nombre":"Microscopios Quirúrgicos Leica",
+									"codigoBC":"IT.02-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_02_01",
+											"nombre":"Hoja de Registro Uso Leica Wild 66-224011",
+											"codigoBC":"AX01_IT.02-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8ffa6fe9-d653-424d-b78b-eed5dd0986fa",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_02_02",
+											"nombre":"Hoja de Registro Uso Leica Wild 66-221107",
+											"codigoBC":"AX02_IT.02-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cc11905c-0125-4613-85d5-b8534d13fdca",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_02_03",
+											"nombre":"Hoja de Registro Uso Leica Wild 66-224003",
+											"codigoBC":"AX03_IT.02-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ae2494ef-5465-4303-ab8b-29d5d3bed7db",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_02_04",
+											"nombre":"Instrucciones de uso de los Microscopios Quirúrgicos Leica Wild M650 y M651",
+											"codigoBC":"IT.02-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8827b25a-cda3-4420-b490-503eda7613ac",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}		
+									]
+								},
+								{
+									"nivel":"3_28_07_03",
+									"nombre":"Microscopio Quirurgico Optomic OP-C16",
+									"codigoBC":"IT.03-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_03_01",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002922",
+											"codigoBC":"AX01_IT.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e82d3697-3dc4-43d2-ac66-389bd36fb48e",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_03_02",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002923",
+											"codigoBC":"AX02_IT.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1c2e9384-95d5-4e62-b73b-9259b50b8de7",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_03_03",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002924",
+											"codigoBC":"AX03_IT.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cce35ef7-eb0a-4c3f-8b4c-bcab07e82c7b",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_03_04",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002925",
+											"codigoBC":"AX04_IT.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b999f869-18f8-466c-a9b3-4ea5d52ab8f6",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_03_05",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002926",
+											"codigoBC":"AX05_IT.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/53fc4f79-fc2f-4456-aca9-903989a77f67",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_03_06",
+											"nombre":"Instrucciones de uso del microscopio Quirurgico Optomic OP-C16",
+											"codigoBC":"IT.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a72d3ab3-1d88-44c5-bec1-3daeef398489",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_04",
+									"nombre":"Instrucciones de uso de la camara de CO2",
+									"codigoBC":"IT.04-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_04_01",
+											"nombre":"Registro de uso de las camaras de CO2",
+											"codigoBC":"AX01_IT.04-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/33c0343b-599d-4ab6-b485-06e8c672902c",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_04_02",
+											"nombre":"Instrucciones de uso de la camara de CO2",
+											"codigoBC":"IT.04.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/503bc3a0-fb45-4548-87fa-74f30d51f4b5",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_05",
+									"nombre":"Instrucciones de uso medidor de flujo Transonic",
+									"codigoBC":"IT.05-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_05_01",
+											"nombre":"Registro de uso del del Medidor de Flujo Transonic",
+											"codigoBC":"AX01_IT.05-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3194b5e8-f2d9-4f41-bba5-b8cf17fbafa6",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_05_02",
+											"nombre":"Instrucciones de uso medidor de flujo Transonic",
+											"codigoBC":"IT.05.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1178aa77-6100-48c8-b9b9-91bb1f70c15f",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_06",
+									"nombre":"Instrucciones de uso Capnografo Ohmeda 5250",
+									"codigoBC":"IT.06-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_06_01",
+											"nombre":"Registro de uso del Capnografo Ohmeda 5250",
+											"codigoBC":"AX01_IT.06-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/08abff7a-e56f-4c11-b3c1-b617af68d24d",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_06_02",
+											"nombre":"Instrucciones de uso Capnografo Ohmeda 5250",
+											"codigoBC":"IT.06.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b55fcf92-0996-42ba-95b2-8787e09e1cc4",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_07",
+									"nombre":"Monitor de actividad cerebral Brainz",
+									"codigoBC":"IT.07-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_07_01",
+											"nombre":"Registro de uso del monitor de actividad cerebral Brainz",
+											"codigoBC":"AX01_IT.07-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e4fcfa7e-9e63-40c5-83d3-98cba68af4c4",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_07_02",
+											"nombre":"Monitor de actividad cerebral Brainz",
+											"codigoBC":"IT.07.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/444d6279-7808-4e09-86a2-cdb89737549a",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_08",
+									"nombre":"Instrucciones de uso Oximetro 5120 Ohmeda",
+									"codigoBC":"IT.08-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_08_01",
+											"nombre":"Registro de uso del Oximetro 5120 Ohmeda",
+											"codigoBC":"AX01_IT.08-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/261514cf-6d4d-4b7d-aebc-78537c59c8ac",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_08_02",
+											"nombre":"Instrucciones de uso Oximetro 5120 Ohmeda",
+											"codigoBC":"IT.08.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cc96d4e8-d0bb-4013-ab19-96865f7a41d7",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_07_09",
+									"nombre":"Instrucciones de uso de la cabina Telstar ZOON 3",
+									"codigoBC":"IT.09-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_07_09_01",
+											"nombre":"Hoja de registro de mantenimiento",
+											"codigoBC":"AX01_IT.09-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2dc665df-91ca-4d0c-a421-b3762c3d90e9",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_09_02",
+											"nombre":"Instrucciones de la cabina Telstar Zoon 3",
+											"codigoBC":"IT.09.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0b11df38-8b93-4c19-b567-30503c43b3ea",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_08",
+							"nombre":"Manejo e immovilización de animales",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_08_01",
+									"nombre":"Manejo e immovilizacion de roedores",
+									"codigoBC":"PO.09-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_08_01_01",
+											"nombre":"Manejo e immovilizacion de roedores",
+											"codigoBC":"PO.09-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4ecd6d45-38e1-4e5c-ab74-761ad150f175",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_08_02",
+									"nombre":"Manejo e immovilizacion de conejos",
+									"codigoBC":"PO.10-SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_08_02_01",
+											"nombre":"Manejo e immovilizacion de conejos",
+											"codigoBC":"PO.10-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/eeeb737a-2679-4606-a546-66779a16d7b9",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_08_03",
+									"nombre":"Manejo e inmoviliazión de grandes animales",
+									"codigoBC":"PO.16.SPR.01.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_08_03_01",
+											"nombre":"Manejo e inmoviliazión de grandes animales",
+											"codigoBC":"PO.16.SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2a5f6302-9bd5-4b04-a5f4-b80c639fa65a",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_09",
+							"nombre":"Normas y gestión de residuos",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_09_01",
+									"nombre":"Procedimiento de gestion de residuos del animalario",
+									"codigoBC":"PO.03-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_09_01_01",
+											"nombre":"Registro_retirada_cadaveres",
+											"codigoBC":"AX01_PO.03-SPR.01.01 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0be02874-149b-4fc7-a8a4-2968097393fc",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_09_01_01",
+											"nombre":"Gestión_de_residuos_animalario",
+											"codigoBC":"PO.03-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa7023cd-8c58-4694-acde-3f1eae744681",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+										
+									]
+								},
+								{
+									"nivel":"3_28_09_02",
+									"nombre":"Normas de uso de la plataforma animalario",
+									"codigoBC":"PO.04-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_09_02_01",
+											"nombre":"Normas Basicas_Animalario",
+											"codigoBC":"Ax01_PO.04-SPR.01.01 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f3a5e3c1-190d-4b2e-b20d-0489c0b1e136",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_09_02_01",
+											"nombre":"Registro de uso de las instalaciones",
+											"codigoBC":"Ax02_PO.04-SPR.01.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a77c3f22-291f-4632-8990-e160207fccb6",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_09_02_01",
+											"nombre":"Normas de uso animalario",
+											"codigoBC":"PO.04-SPR.01.01 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9e956e38-cc03-4e50-b3a6-19d087c3599c",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_09_03",
+									"nombre":"Vestimenta del personal en el sótano 1 de la Plataforma de animalario",
+									"codigoBC":"PO.20.SPR.01.01 ",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_09_03_01",
+											"nombre":"Hoja de registro de la formación de vestimenta para la zona de barrera SPF",
+											"codigoBC":"AX01_PO.20-SPR.01.01 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5bda6610-c69f-4eb3-8004-601b9572c49a",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_09_03_01",
+											"nombre":"Vestimenta del personal en el sótano 1 de la Plataforma de animalario",
+											"codigoBC":"PO.20.SPR.01.01 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/02f732f4-44f4-4840-a1bf-6bfdd470f732",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						},
+						{
+							"nivel":"3_28_10",
+							"nombre":"Servicios y evaluación de proyectos",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_28_10_01",
+									"nombre":"Solicitud de servicios de la Plataforma del Animalario Unidad de Experimentación Animal",
+									"codigoBC":"PO.01-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_10_01_01",
+											"nombre":"Solicitud de Servicio",
+											"codigoBC":"AX01-PO.01-SPR01.02 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/464c8759-b35d-46fe-bf12-f6cc805476db",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_01_02",
+											"nombre":"Solicitud de animales",
+											"codigoBC":"AX02-PO.01-SPR.01.02 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/466f8832-27b0-4916-9cd8-180ef9267c85",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_01_03",
+											"nombre":"Servicios de Animalario",
+											"codigoBC":"PO.01-SPR.01.02",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/84ddb495-7bd6-4ff4-90ad-b74d3b880bc9",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								},
+								{
+									"nivel":"3_28_10_02",
+									"nombre":"Evaluacion de proyectos en los que se utilizan animales para experimentacion",
+									"codigoBC":"PO.02-SPR.01",
+									"url":"",
+									"tipo":"folder",
+									"extension":"",
+									"subnivel":	[
+										{
+											"nivel":"3_28_10_02_01",
+											"nombre":"Solicitud de evaluación por el OEBA-CET",
+											"codigoBC":"AX01_PO.02-SPR.01.05 ",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4d5e7d1b-92aa-45b8-95b3-e07b3f44504d",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_02_02",
+											"nombre":"Resumen no tecnico ANONIMO",
+											"codigoBC":"AX03_PO.02-SPR.01.04",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ebb75670-f4a0-4cb7-b84f-ed638a0ebca1",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_02_03",
+											"nombre":"Memoria Evaluacion Proyecto",
+											"codigoBC":"AX05_PO.02-SPR.01.03",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f07ba10e-96b2-40ba-a073-bebe4c39fbc3",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_02_04",
+											"nombre":"Solicitud de certificado del OEBA-CET",
+											"codigoBC":"AX06_PO.02-SPR.01.02",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0ea25a7d-c4e1-4b30-b52a-37a9d468dd80",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_02_05",
+											"nombre":"Solicitud modificacion de un proyecto",
+											"codigoBC":"AX07.PO.02-SPR.01.02",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8e48e1c3-7a64-404d-8cb0-fa9244b4e07b",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_02_06",
+											"nombre":"Informe evaluacion retrospectiva",
+											"codigoBC":"AX08.PO.02-SPR.01.02",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ff9220c6-5363-4cf4-ab4c-fe952dc16ef5",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_10_02_07",
+											"nombre":"Evaluacion de proyectos OEBA-CET",
+											"codigoBC":"PO.02.SPR.01.06",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b848a647-cbfa-4c48-b0be-1fc6cc693ba1",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										}
+									]
+								}
+							]
+						}						
+					]
+				},
+				{
+					"nivel":"3_29",
+					"nombre":"Bioinformática y estadística",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				}
+			]
+		}
+	]
+}

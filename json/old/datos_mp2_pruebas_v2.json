@@ -1,0 +1,330 @@
+{
+	"nombre":"Mapa de Procesos de Biocruces",
+	"version":"1_0",
+	"tipo":"folder",
+	"mp_estructura":[
+		{
+			"nivel":"1",
+			"nombre":"Procesos estratégicos",
+			"tipo":"folder",
+			"subnivel":[
+				{
+					"nivel":"1_01",
+					"nombre":"Plan estratégico",
+					"tipo":"folder",
+					"subnivel":	[
+						{
+							"nivel":"1_01_01",
+							"nombre":"PRUEBAS 1_01_01",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf"
+						},
+						{
+							"nivel":"1_01_02",
+							"nombre":"PRUEBAS 1_01_02",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf"
+						}	
+					]
+				},
+				{
+					"nivel":"1_02",
+					"nombre":"Innovación",
+					"tipo":"folder",
+					"subnivel":""
+				},
+				{
+					"nivel":"1_03",
+					"nombre":"Orientación a la mejora y calidad",
+					"tipo":"folder",
+					"subnivel":	""
+				}
+			]
+		},
+		{
+			"nivel":"2",
+			"nombre":"Procesos operativos",
+			"tipo":"folder",
+			"subnivel":[
+				{
+					"nivel":"2_01",
+					"nombre":"Captación de fondos de financiación y asesoramiento",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_02",
+					"nombre":"Gestión de solicitudes de proyectos",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_03",
+					"nombre":"Gestión contratos EECC",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_04",
+					"nombre":"Desarrollo y seguimiento de proyectos/EECC",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_05",
+					"nombre":"Evaluación final de proyectos",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_06",
+					"nombre":"Evaluaciones finales",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_07",
+					"nombre":"Traslación y difusión de resultados",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"2_08",
+					"nombre":"PRUEBAS",
+					"codigoBC":"IT.01-PR.01",
+					"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+					"tipo":"file",
+					"extension":"pdf"
+				}
+			]
+		},
+		{
+			"nivel":"3",
+			"nombre":"Procesos de apoyo",
+			"tipo":"folder",
+			"subnivel":[
+				{
+					"nivel":"3_01",
+					"nombre":"Comunicación",
+					"tipo":"folder",
+					"subnivel":[
+						{
+							"nivel":"3_01_01",
+							"nombre":"Pruebas Comunicación",
+							"tipo":"folder",
+							"subnivel":{}
+						}
+					]
+				},
+				{
+					"nivel":"3_02",
+					"nombre":"Gestión de Recursos Humanos",
+					"tipo":"folder",
+					"subnivel":[
+						{
+							"nivel":"3_02_01",
+							"nombre":"Nuevas Incorporaciones",
+							"tipo":"folder",
+							"subnivel":[]
+						},
+						{
+							"nivel":"3_02_02",
+							"nombre":"Solicitud de permisos y otras incidencias laborales",
+							"tipo":"folder",
+							"subnivel":[
+								{
+									"nivel":"3_02_02_01",
+									"nombre":"Solicitud 1 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf"
+								},
+								{
+									"nivel":"3_02_02_02",
+									"nombre":"Solicitud 2 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf"
+								},
+								{
+									"nivel":"3_02_02_03",
+									"nombre":"Solicitud 3 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf"
+								},
+								{
+									"nivel":"3_02_02_04",
+									"nombre":"Solicitud 4 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf"
+								},
+								{
+									"nivel":"3_02_02_01",
+									"nombre":"Solicitud 1 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf"
+								},
+								{
+									"nivel":"3_02_02_02",
+									"nombre":"Solicitud 2 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf"
+								},
+								{
+									"nivel":"3_02_02_03",
+									"nombre":"Solicitud 3 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"doc"
+								},
+								{
+									"nivel":"3_02_02_04",
+									"nombre":"Solicitud 4 y baja de tarjetas de identificacion",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.net:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"xls"
+								}
+							]
+						},
+						{
+							"nivel":"3_02_03",
+							"nombre":"Estancias de investigadores en el Instituto",
+							"tipo":"folder",
+							"subnivel":[]
+						},
+						{
+							"nivel":"3_02_04",
+							"nombre":"Contratación de personal",
+							"tipo":"folder",
+							"subnivel":[]
+						},
+						{
+							"nivel":"3_02_05",
+							"nombre":"Estancias de investigadores en otras instituciones",
+							"tipo":"folder",
+							"subnivel":[]
+						},
+						{
+							"nivel":"3_02_06",
+							"nombre":"Nóminas",
+							"tipo":"folder",
+							"subnivel":[]
+						},
+						{
+							"nivel":"3_02_07",
+							"nombre":"Acogida",
+							"tipo":"folder",
+							"subnivel":[]
+						},
+						{
+							"nivel":"3_02_08",
+							"nombre":"Prevención riesgos laborales",
+							"tipo":"folder",
+							"subnivel":[]
+						}
+					]
+				},
+				{
+					"nivel":"3_03",
+					"nombre":"Evaluación Científica",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_04",
+					"nombre":"Formación",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_05",
+					"nombre":"Gestión Económica",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_06",
+					"nombre":"Gestión Infraestructuras y tecnologías",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_07",
+					"nombre":"Convenios y acuerdos",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_21",
+					"nombre":"Microscopía",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_22",
+					"nombre":"Genética-Genómica",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_23",
+					"nombre":"Citometría de flujo",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_24",
+					"nombre":"Cultivos celulares",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_25",
+					"nombre":"Metabolómica y proteómica",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_26",
+					"nombre":"Biomedicina cuantitativa",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_27",
+					"nombre":"Biobanco",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_28",
+					"nombre":"Animalario",
+					"tipo":"folder",
+					"subnivel":	""
+				},
+				{
+					"nivel":"3_29",
+					"nombre":"Bioinformática y estadística",
+					"tipo":"folder",
+					"subnivel":	""
+				}
+			]
+		}
+	]
+}

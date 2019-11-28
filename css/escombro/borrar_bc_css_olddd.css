@@ -1,0 +1,205 @@
+
+.bc_mp_titulo{
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	background-color: rgb(227, 224, 224);
+	padding-top: 10px;
+	width: 100% !important;
+	height: 40px;
+}
+
+.bc_mp_subtitulo{
+	font-size: 20px;
+	font-weight: bold;	
+	text-align: left;
+	background-color: rgb(227, 224, 224);
+	padding-top: 10px;
+	width: 100% !important;
+	height: 40px;
+}
+
+.texto-vertical {
+  width:20px;
+  word-wrap: break-word;
+  text-align:center;
+}
+
+
+.bc_mp_esquema{
+	width: 100% !important;
+}
+
+.bc_mp_esquema_izq{
+	width: 10% !important;
+	float: left;
+	padding: 40px 3%;
+	background-color: rgb(227, 224, 224);
+}
+.bc_mp_esquema_parte_izq{
+	height: 500px;
+	background-color: #bdbdbd;
+	width: 100% !important;
+}
+
+.bc_mp_esquema_central{
+	width: 80% !important;	
+	float: left;
+}
+.bc_mp_esquema_parte1{
+	height: 115px;
+	background-color: #bdbdbd;
+	width: 100% !important;
+}
+.bc_mp_esquema_parte2{
+	height: 175px;
+	background-color: #bdbdbd;
+	width: 100% !important;
+}
+.bc_mp_esquema_parte3{
+	height: 130px;
+	background-color: #bdbdbd;
+	width: 100% !important;
+}
+
+.bc_mp_esquema_drcha{
+	width: 10% !important;
+	float: left;
+	padding: 40px 2%;
+	background-color: rgb(227, 224, 224);
+}
+.bc_mp_esquema_parte_drcha{
+	height: 500px;
+	background-color: #bdbdbd;
+	width: 42% !important;
+	margin: 0px 4%;
+	float: left;
+}
+
+
+.bc_mp_caja_grande{
+	/*height: 100px;*/
+}
+
+.bc_mp_caja_peque{
+	/*height: 50px;*/
+}
+
+.bc_mp_caja_borde{
+	border: 2px solid;
+	padding: 1%;
+}
+
+.bc_mp_division_3{
+	width: 28% !important;
+	margin: 2% !important;
+	float: left;
+	text-align: center;
+}
+.bc_mp_division_4{
+	width: 21% !important;
+	margin: 2% !important;
+	float: left;
+	text-align: center;
+}
+
+//bc_mp_division5
+	.bc_mp_division5_flechas0{
+		width: 16% !important;
+		margin: 2% !important;
+		float: left;
+		text-align: center;
+	}
+	.bc_mp_division5_flechas4{
+		width: 14% !important;
+		margin: 2% !important;
+		float: left;
+		text-align: center;
+	}
+
+
+//bc_mp_flechas
+	.bc_mp_flecha{
+		width: 2% !important;
+		float: left;
+	}
+	.bc_mp_flecha_img{
+		height: 25px;
+		width: 25px;
+		width: 2% !important;
+		float: left;
+		margin-top: 65px;
+	}
+
+	.bc_mp_division_interna{
+		margin: 2% !important;
+	}
+
+
+/*-- footer --*/
+    .footer{
+    	/*background:url(../images/electricity.jpg) no-repeat 0px 0px;
+    	background-size:cover;*/
+    	float: left;
+    	width: 100%;
+    }
+    .footer-info{
+        background: #1CD5B5;
+        width: 100%;
+        /*margin: 6em auto 0;*/
+        margin: 0em auto 0;
+        padding: 3em;
+        padding-bottom: 24px;
+        text-align: center;
+        position:relative;
+    }
+    .footer-info h3{
+        color: #FFF;
+        font-family: DidactGothic;
+        margin: 0;
+        font-size: 3em;
+    }
+    .footer-info p.f-address{
+        color: #FFF;
+        font-size: 1.3em;
+        /*margin: 2em 0 0 0;*/
+    }
+    .footer-info p.f-address-developer{
+        color: #F5F5F5;
+        font-size: 1em;
+        margin: 0px 0px 0px 0px;
+    }
+    .footer-info p.f-address-developer-sinmargin{
+        color: #F5F5F5;
+        font-size: 1em;
+        margin: 0px;
+    }
+    .url-imagonbar{
+        color: #F5F5F5;
+    }
+
+    .footer-info ul{
+        padding: 0;
+        margin: 3em 0 0 0;
+    }
+    .footer-info ul li{
+    	display:inline-block;
+    	margin:0 .3em;
+    }
+    
+    .footer-info p.copyright{
+        color: #FFF;
+        font-size: 1em;
+        margin: 2em 0 0 0;
+    }
+    .footer-info p.copyright a{
+    	color:#FFF;
+    }
+    .footer-imagonbar{
+        background: #19AE94;
+        padding: 1em;
+    }
+    .footer-imagonbar-text{
+        margin-top: 0px;
+    }
+

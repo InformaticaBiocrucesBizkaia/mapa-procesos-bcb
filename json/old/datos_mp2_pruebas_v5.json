@@ -1,0 +1,779 @@
+{
+	"nombre":"Mapa de Procesos de Biocruces Bizkaia",
+	"version":"1_0",
+	"tipo":"folder",
+	"subnivel":[
+		{
+			"nivel":"1",
+			"nombre":"Procesos estratégicos",
+			"codigoBC":"",
+			"url":"",
+			"tipo":"folder",
+			"extension":"",
+			"subnivel":[
+				{
+					"nivel":"1_01",
+					"nombre":"Plan estratégico",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"1_01_01",
+							"nombre":"PRUEBAS 1_01_01",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf",
+							"subnivel":	[]
+						},
+						{
+							"nivel":"1_01_02",
+							"nombre":"PRUEBAS 1_01_02",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"xls",
+							"subnivel":	[]
+						}	
+					]
+				},
+				{
+					"nivel":"1_02",
+					"nombre":"Innovación",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel": [
+						{
+							"nivel":"1_02_01",
+							"nombre":"PRUEBAS 1_02_01",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf",
+							"subnivel":	[]
+						},
+						{
+							"nivel":"1_02_02",
+							"nombre":"PRUEBAS 1_02_02",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf",
+							"subnivel":	[]
+						}	
+					]
+				},
+				{
+					"nivel":"1_03",
+					"nombre":"Orientación a la mejora y calidad",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"1_03_01",
+							"nombre":"PRUEBAS 1_03_01",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"xls",
+							"subnivel":	[]
+						},
+						{
+							"nivel":"1_03_02",
+							"nombre":"PRUEBAS 1_03_02",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf",
+							"subnivel":	[]
+						},
+						{
+							"nivel":"1_03_03",
+							"nombre":"PRUEBAS 1_03_03",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"pdf",
+							"subnivel":	[]
+						}	
+					]
+				}
+			]
+		},
+		{
+			"nivel":"2",
+			"nombre":"Procesos operativos",
+			"codigoBC":"",
+			"url":"",
+			"tipo":"folder",
+			"extension":"",
+			"subnivel":[
+				{
+					"nivel":"2_01",
+					"nombre":"Captación de fondos de financiación y asesoramiento",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"2_01_01",
+							"nombre":"PRUEBAS 2_01_01",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"xls",
+							"subnivel":	[]
+						}
+					]
+				},
+				{
+					"nivel":"2_02",
+					"nombre":"Gestión de solicitudes de proyectos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_03",
+					"nombre":"Gestión contratos EECC",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_04",
+					"nombre":"Desarrollo y seguimiento de proyectos/EECC",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_05",
+					"nombre":"Evaluación final de proyectos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_06",
+					"nombre":"Evaluaciones finales",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_07",
+					"nombre":"Traslación y difusión de resultados",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"2_08",
+					"nombre":"PRUEBAS",
+					"codigoBC":"IT.01-PR.01",
+					"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+					"tipo":"file",
+					"extension":"pdf",
+					"subnivel":	[]
+				}
+			]
+		},
+		{
+			"nivel":"3",
+			"nombre":"Procesos de apoyo",
+			"codigoBC":"",
+			"url":"",
+			"tipo":"folder",
+			"extension":"",
+			"subnivel":[
+				{
+					"nivel":"3_01",
+					"nombre":"Comunicación",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":[
+						{
+							"nivel":"3_01_01",
+							"nombre":"Pruebas Comunicación",
+							"codigoBC":"",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_01_01_01",
+									"nombre":"PRUEBAS 3_01_01_01",
+									"codigoBC":"IT.01-PR.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+
+								}
+							]
+						}
+					]
+				},
+				{
+					"nivel":"3_02",
+					"nombre":"Gestión de Recursos Humanos",
+					"codigoBC":"PR.01",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":[
+						{
+							"nivel":"3_02_01",
+							"nombre":"Solicitud y baja de tarjetas de identificación",
+							"codigoBC":"IT.01-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_01_01",
+									"nombre":"Alta y baja de tarjetas en el IIS Biocruces",
+									"codigoBC":"IT.01-PR.01.02 ",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_02",
+							"nombre":"Gestión de nóminas en Fundanet",
+							"codigoBC":"IT.02-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_02_01",
+									"nombre":"Gestion de nominas en Fundanet",
+									"codigoBC":"IT.02-PR.01.03",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e4208b4e-712f-4bc5-b8fe-ade4cd5d29b7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_03",
+							"nombre":"Obtencion de costes salariales de Fundanet",
+							"codigoBC":"IT.03-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_03_01",
+									"nombre":"Modelo de Certificado de Costes Salariales",
+									"codigoBC":"AX01-IT.03-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/73491f5c-e239-4b78-a125-3daf2615d3b4",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_03_02",
+									"nombre":"Obtención certificados costes salariales",
+									"codigoBC":"IT.03-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c3112d34-9165-43f7-8a8f-ecb7a1de0ef5",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_04",
+							"nombre":"Ofertas de empleo en la Web de Biocruces",
+							"codigoBC":"IT.04-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_04_01",
+									"nombre":"Instrucciones para sacar ofertas en la web de Biocruces",
+									"codigoBC":"IT.04-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c1387e60-468f-4860-9b81-bc1f46de00af",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_05",
+							"nombre":"Solicitar certificados a RRHH de Biocruces",
+							"codigoBC":"IT.05-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_05_01",
+									"nombre":"Certificado pertenencia al IIS Biocruces",
+									"codigoBC":"AX01_IT.05-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/40b2e83d-8f9f-4fa9-96a7-a517fe22d2f8",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_05_02",
+									"nombre":"Solicitar certificados a la unidad de RRHH de pertencia a Biocruces",
+									"codigoBC":"IT.05-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4779da2a-60c1-45ea-bd22-42a181fdded7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_06",
+							"nombre":"Categorización de los miembros del Biocruces",
+							"codigoBC":"IT.06-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_06_01",
+									"nombre":"Categorización de los miembros de Biocruces",
+									"codigoBC":"IT.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6c838594-ed2d-43b6-aea3-cd18132d411b",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_07",
+							"nombre":"Nuevas Incorporaciones y otros movimientos de personal miembro del Instituto",
+							"codigoBC":"PO.01-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_07_01",
+									"nombre":"Documento de Incorporación",
+									"codigoBC":"AX01_PO.01-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/03b0cee7-32af-455a-a273-b62e4e233ef0",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_07_02",
+									"nombre":"Ficha de datos personales",
+									"codigoBC":"AX02_PO.01-PR.01.03",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/662775f8-708a-48d2-85a1-969a4b87f747",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_07_03",
+									"nombre":"Documento de cambio Jefe de Grupo",
+									"codigoBC":"AX03_PO.01-PR.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d9f01a9c-81ec-4b24-8103-2301cda22a97",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_07_04",
+									"nombre":"Nuevas Incorporaciones de personal miembro",
+									"codigoBC":"PO.01-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a1ca02a9-dc3d-43c1-9edf-9b496431c7b5",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_08",
+							"nombre":"Permisos y otras incidencias laborales",
+							"codigoBC":"PO.02-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_08_01",
+									"nombre":"Solicitud de vacaciones, licencias y permisos",
+									"codigoBC":"AX01_PO.02-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d050559a-35e2-497e-9093-61f87f0870ac",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_08_02",
+									"nombre":"Solicitud de permisos y otras incidencias laborales",
+									"codigoBC":"PO.02-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d557fc0d-a6d8-4340-abb6-da5f054722dd",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_09",
+							"nombre":"Estancias de investigadores en Biocruces",
+							"codigoBC":"PO.03-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_09_01",
+									"nombre":"Condiciones generales de estancias",
+									"codigoBC":"AX03_PO.03-PR 01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9d263d0a-ae1e-4053-a7b4-2b654c1bb0fe",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_09_02",
+									"nombre":"Acuerdo estancia investigación entre",
+									"codigoBC":"AX04_PO.03-PR 01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3c645631-3ffb-497e-bae3-bc3ae1e75afe",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_09_03",
+									"nombre":"Estancias investigadores en el Instituto BioCruces",
+									"codigoBC":"PO.03-PR01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bbab5c07-0520-4772-9103-bae88b0534bc",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_10",
+							"nombre":"Contratacion de personal con cargo a Proyectos",
+							"codigoBC":"PO.06-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_10_01",
+									"nombre":"Plantilla Perfil del Puesto de Trabajo",
+									"codigoBC":"AX01PO.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0c8c8e0c-31b7-40f6-b96a-6033ff048973",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_10_02",
+									"nombre":"Modelo ACTA",
+									"codigoBC":"AX02PO.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3982044-f988-49d7-b4ee-981e843c9005",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_10_03",
+									"nombre":"Contratacion de personal con cargo a Proyectos",
+									"codigoBC":"PO.06-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/591fab8e-cf45-403e-926d-41baa69ff18d",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},						
+						{
+							"nivel":"3_02_11",
+							"nombre":"Estancias de Investigadores de IIS Biocruces en otras instituciones",
+							"codigoBC":"PO.07-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_11_01",
+									"nombre":"Solicitud y aceptación de estancia investigadoraformativa",
+									"codigoBC":"AX01PO.07-PR.02",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31b6b515-ae5e-400b-ad6a-cebbec162068",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_11_02",
+									"nombre":"Estancias investigadores del Instituto BioCruces en otras instituciones",
+									"codigoBC":"PO.07-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/66e720b8-55a4-4106-8881-9a530351cc1d",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_02_12",
+							"nombre":"Acogida profesionales en el Instituto BioCruces",
+							"codigoBC":"PO.08-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_12_01",
+									"nombre":"Manual de acogida",
+									"codigoBC":"AX01_PO.08-PR.01.04",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/35c82481-44cb-48ff-9a38-7fcb241d4f19",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_02",
+									"nombre":"Normas de seguridad en el tratamiento de datos de carácter personal",
+									"codigoBC":"AX02_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/71506eb9-2038-43de-afad-a4b70eebb91c",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_03",
+									"nombre":"Notificación al personal adscrito de la normativa de seguridad",
+									"codigoBC":"AX03_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/08d73a53-6b58-4ae3-9df4-9a186445cea0",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_04",
+									"nombre":"Recomendacion en prevencion de riesgos laborales",
+									"codigoBC":"AX04_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3d46b03-efe1-4a75-ade5-a0e848c4cee6",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_05",
+									"nombre":"Solicitud de acceso a aplicaciones informáticas de Osakidetza",
+									"codigoBC":"AX05_PO.08-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e77edf7c-697e-4243-867e-52d1683a5be7",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_02_12_06",
+									"nombre":"Acogida profesionales en el Instituto BioCruces",
+									"codigoBC":"PO.08-PR.01.02",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/87a4f898-0ed4-4037-9351-66f3d4bd4ca7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},						
+						{
+							"nivel":"3_02_13",
+							"nombre":"Actuación en materia de prevencion laborales en IIS Biocruces",
+							"codigoBC":"PO.09-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_02_13_01",
+									"nombre":"Procedimiento de actuación en materia de prevencion laborales",
+									"codigoBC":"PO.09-PR.01.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2c91ecac-d4cb-41d5-bd20-d8c176a3fcde",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						}
+					]
+				},
+				{
+					"nivel":"3_03",
+					"nombre":"Evaluación Científica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_04",
+					"nombre":"Formación",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_05",
+					"nombre":"Gestión Económica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_06",
+					"nombre":"Gest. infraestructuras y tecnologías",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_07",
+					"nombre":"Convenios y acuerdos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_21",
+					"nombre":"Microscopía",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_22",
+					"nombre":"Genética-Genómica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_23",
+					"nombre":"Citometría de flujo",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_24",
+					"nombre":"Cultivos celulares",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_25",
+					"nombre":"Metabolómica y proteómica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_26",
+					"nombre":"Biomedicina cuantitativa",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_27",
+					"nombre":"Biobanco",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_28",
+					"nombre":"Animalario",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[]
+				},
+				{
+					"nivel":"3_29",
+					"nombre":"Bioinformática y estadística",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"3_29_01",
+							"nombre":"Solicitud 4 y baja de tarjetas de identificacion",
+							"codigoBC":"IT.01-PR.01",
+							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
+							"tipo":"file",
+							"extension":"xls",
+							"subnivel":	[]
+						}
+					]
+				}
+			]
+		}
+	]
+}
