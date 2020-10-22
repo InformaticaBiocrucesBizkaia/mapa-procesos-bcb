@@ -423,7 +423,15 @@ $(document).ready(function(){
                 txt_subprocesos_individual21.attr("onclick","func_contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo+"()");
                 /*txt_subprocesos_individual21.attr("id","contenedor_internos_"+datos_indiv.nivel);
                 txt_subprocesos_individual21.attr("onclick","func_contenedor_internos_"+datos_indiv.nivel+"()");*/
-                txt_subprocesos_individual21.text(datos_indiv.nombre + " ("+ datos_indiv.codigoBC +")");
+                
+                if (txt_subprocesos_individual21 == ""){
+                    txt_subprocesos_individual21.text(datos_indiv.nombre);
+                }
+                else
+                { 
+                    txt_subprocesos_individual21.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]"); //quitamos el código de las carpetas
+                }
+                //txt_subprocesos_individual21.text(datos_indiv.nombre);
                 txt_subprocesos_individual2.append(txt_subprocesos_individual21);
             }
             else{
@@ -439,8 +447,7 @@ $(document).ready(function(){
                         txt_subprocesos_individual22.attr("id","contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo);
                         txt_subprocesos_individual22.attr("href",datos_indiv.url);
                         txt_subprocesos_individual22.attr("target","_blank");
-                        // txt_subprocesos_individual22.text(datos_indiv.nombre + " ("+ datos_indiv.codigoBC +")");
-                        txt_subprocesos_individual22.text(datos_indiv.nombre);
+                        txt_subprocesos_individual22.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]"); //codigo añadido en el titulo del archivo
                         txt_subprocesos_individual2.append(txt_subprocesos_individual22);
                     }
                     else{
@@ -455,7 +462,7 @@ $(document).ready(function(){
                             txt_subprocesos_individual23.addClass("bc_a");
                             txt_subprocesos_individual23.addClass("bc_negrita");
                             txt_subprocesos_individual23.addClass("bc_mp_a");
-                            txt_subprocesos_individual23.text(datos_indiv.nombre + " ("+ datos_indiv.codigoBC +")");
+                            txt_subprocesos_individual23.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]");
                             txt_subprocesos_individual2.append(txt_subprocesos_individual23);
                         }
                         else{
@@ -470,8 +477,24 @@ $(document).ready(function(){
                                 txt_subprocesos_individual24.addClass("bc_a");
                                 txt_subprocesos_individual24.addClass("bc_negrita");
                                 txt_subprocesos_individual24.addClass("bc_mp_a");
-                                txt_subprocesos_individual24.text(datos_indiv.nombre + " ("+ datos_indiv.codigoBC +")");
+                                txt_subprocesos_individual24.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]");
                                 txt_subprocesos_individual2.append(txt_subprocesos_individual24);
+                            }
+                            else{
+                                if (datos_indiv.extension == "jpg"){
+                                    txt_subprocesos_individual1.addClass("bc_mp_icon_jpg");
+                            
+                                    var txt_subprocesos_individual25 = "";
+                                    txt_subprocesos_individual25 = $("<a>");
+                                    txt_subprocesos_individual25.attr("id","contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo);
+                                    txt_subprocesos_individual25.attr("href",datos_indiv.url);
+                                    txt_subprocesos_individual25.attr("target","_blank");
+                                    txt_subprocesos_individual25.addClass("bc_a");
+                                    txt_subprocesos_individual25.addClass("bc_negrita");
+                                    txt_subprocesos_individual25.addClass("bc_mp_a");
+                                    txt_subprocesos_individual25.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]");
+                                    txt_subprocesos_individual2.append(txt_subprocesos_individual25);
+                                }
                             }
                         }
                     }
