@@ -439,7 +439,8 @@ $(document).ready(function(){
                         txt_subprocesos_individual22.attr("id","contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo);
                         txt_subprocesos_individual22.attr("href",datos_indiv.url);
                         txt_subprocesos_individual22.attr("target","_blank");
-                        txt_subprocesos_individual22.text(datos_indiv.nombre + " ("+ datos_indiv.codigoBC +")");
+                        // txt_subprocesos_individual22.text(datos_indiv.nombre + " ("+ datos_indiv.codigoBC +")");
+                        txt_subprocesos_individual22.text(datos_indiv.nombre);
                         txt_subprocesos_individual2.append(txt_subprocesos_individual22);
                     }
                     else{
