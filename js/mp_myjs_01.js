@@ -354,7 +354,8 @@ $(document).ready(function(){
                 txt_procesos113.attr("id","bc_contenedor_internos_titulo_"+datos_mp_fullcontent[i].nivel);
                 /*txt_procesos113.attr("onclick","func_contenedor_internos_titulo_"+datos_mp_fullcontent[i].nivel+"()");*/
                 if (datos_mp_fullcontent[i].codigoBC != ""){
-                    txt_procesos113.text(datos_mp_fullcontent[i].nombre + " ("+ datos_mp_fullcontent[i].codigoBC +")");
+                    // txt_procesos113.text(datos_mp_fullcontent[i].nombre + " ("+ datos_mp_fullcontent[i].codigoBC +")");
+                    txt_procesos113.text(datos_mp_fullcontent[i].nombre);
                 }
                 else{
                     txt_procesos113.text(datos_mp_fullcontent[i].nombre);
