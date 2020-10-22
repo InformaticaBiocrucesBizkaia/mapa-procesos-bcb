@@ -6689,7 +6689,7 @@
 				},
 				{
 					"nivel":"3_31",
-					"nombre":"Bioinformática y biomedicina cuantitativa",
+					"nombre":"Bioinformática y sistemas de información",
 					"codigoBC":"SPR.14",
 					"url":"",
 					"tipo":"folder",
@@ -6900,6 +6900,252 @@
 						},
 						{
 							"nivel":"3_31_06",
+							"nombre":"Aplicación de la RGPD",
+							"codigoBC":"PO.06-SPR.14",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_31_06_01",
+									"nombre":"Aplicación interna de la RGPD",
+									"codigoBC":"PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa2d0fd8-8a44-4cad-8e49-70c34b521493",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_02",
+									"nombre":"Consentimiento informado - Personal propio",
+									"codigoBC":"AX01_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a9d21864-7dc4-4182-a97e-0f81a0f27f10",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_03",
+									"nombre":"Consentimiento informado - Personal adscrito",
+									"codigoBC":"AX02_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/27a62154-d037-4e09-9a93-6c8d509d4233",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_04",
+									"nombre":"Análisis de necesidad de EIPD",
+									"codigoBC":"AX03_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ab5aa08a-cb04-4086-a9cf-f4abb3093265",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_05",
+									"nombre":"Responsable - Listado Registro de actividades de tratamiento",
+									"codigoBC":"AX04_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/074010a4-e42d-491a-823f-1be64cd8df43",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_06",
+									"nombre":"Encargado - Listado Registro de actividades de tratamiento",
+									"codigoBC":"AX05_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d56eb401-5e72-45c3-a625-58adfe2e76ce",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_07",
+									"nombre":"Registro de Actividades de tratamiento RESPONSABLE",
+									"codigoBC":"AX06_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/27d72651-f296-4d0c-9653-eae900f2615f",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_08",
+									"nombre":"Registro de Actividades de tratamiento ENCARGADO",
+									"codigoBC":"AX07_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5e167cd1-ac1e-45ae-a781-1af2f262a642",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_09",
+									"nombre":"Realización de la EIPD",
+									"codigoBC":"AX08_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2bfd70d4-b963-44f1-9a26-f4fb830c1338",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_10",
+									"nombre":"Matriz de Riesgos",
+									"codigoBC":"AX09-PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3c0e3d5d-af85-4c12-b9a0-b5970b264618",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_11",
+									"nombre":"Derecho de acceso",
+									"codigoBC":"AX10-PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/81ef8dcc-a609-407b-b653-44fc921b2eaf",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_12",
+									"nombre":"Respuesta derecho acceso",
+									"codigoBC":"AX11_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4b120023-36ec-412f-b09c-57a4a43ada18",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_13",
+									"nombre":"Derecho de cancelación",
+									"codigoBC":"AX12_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/47623c1e-b6ab-4244-a605-5a095e91abd7",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_14",
+									"nombre":"Respuesta derecho cancelación",
+									"codigoBC":"AX13_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c26e94d1-f62f-4c74-9e7f-85e11034a214",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_15",
+									"nombre":"Derecho limitación",
+									"codigoBC":"AX14_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ee26485f-02c4-40b0-99fb-2b183a374660",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_16",
+									"nombre":"Respuesta derecho limitación",
+									"codigoBC":"AX15_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ec03ccc8-70ba-449c-a199-fe9f8e185353",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_17",
+									"nombre":"Derecho oposición",
+									"codigoBC":"AX16_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a81b8fee-90d6-4e01-973a-71b9c0faf5a5",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_18",
+									"nombre":"Respuesta derecho oposición",
+									"codigoBC":"AX17_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/97513126-4252-4208-b012-d7d53b21ad20",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_19",
+									"nombre":"Derecho portabilidad",
+									"codigoBC":"AX18_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/58d7afee-373a-42bc-a492-cc162f52d810",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_20",
+									"nombre":"Respuesta derecho portabilidad",
+									"codigoBC":"AX19_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4fdff7f0-d4bf-4abc-aaf6-2f07730c3668",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_21",
+									"nombre":"Derecho rectificación",
+									"codigoBC":"AX20_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f3385124-d407-42ae-be4f-f67bc5d9350b",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_06_22",
+									"nombre":"Respuesta derecho rectificación",
+									"codigoBC":"AX21_PO.06-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/21dc5562-8ed0-49e3-a0ef-85094362b62f",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_31_07",
+							"nombre":"Normas de seguridad en el tratamiento de datos",
+							"codigoBC":"PO.07-SPR.14",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_31_07_01",
+									"nombre":"Normas Seguridad",
+									"codigoBC":"PO.07-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/47f1d1f0-f5ed-4a4f-b1f6-955e93c937eb",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_31_08",
+							"nombre":"Acceso a la Historia Clínica Electrónica",
+							"codigoBC":"PO.09-SPR.14",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_31_08_01",
+									"nombre":"Acceso a la Historia Clínica Electrónica",
+									"codigoBC":"PO.09-SPR.14",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7a10d4e4-7bf6-49c4-8e08-074fad4ddf35",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_31_09",
 							"nombre":"Instrucciones para videoconferencias",
 							"codigoBC":"IT.01-SPR.14",
 							"url":"",
@@ -6907,7 +7153,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_31_05_01",
+									"nivel":"3_31_09_01",
 									"nombre":"Instrucciones para videoconferencias",
 									"codigoBC":"IT.01-SPR.14",
 									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/945a9402-7bf7-48e8-b2ac-3da21ae8788e",
@@ -6916,7 +7162,7 @@
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_31_05_02",
+									"nivel":"3_31_09_02",
 									"nombre":"Reserva Portatil",
 									"codigoBC":"AX01_PO.05-SPR.14",
 									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa991cea-ab7a-431e-bf86-37f79095052b",
