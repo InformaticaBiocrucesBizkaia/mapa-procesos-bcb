@@ -238,11 +238,12 @@
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_24").show();
 		    }
-		 	function func_mapa_3_25(){
-		    	$("#bc_mp_procesos").hide();
-		    	$(".contenedor_interno").hide();
-				$("#contenedor_internos_3_25").show();
-			}
+		    //**BIOBANCO**
+		 // 	function func_mapa_3_25(){
+		 //    	$("#bc_mp_procesos").hide();
+		 //    	$(".contenedor_interno").hide();
+			// 	$("#contenedor_internos_3_25").show();
+			// }
 		 	function func_mapa_3_26(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
@@ -343,11 +344,12 @@
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_24").show();
 		    }
-		 	function func_contenedor_internos_3_25_folder(){
-		    	$("#bc_mp_procesos").hide();
-		    	$(".contenedor_interno").hide();
-				$("#contenedor_internos_3_25").show();
-			}
+		    //**BIOBANCO**
+		 // 	function func_contenedor_internos_3_25_folder(){
+		 //    	$("#bc_mp_procesos").hide();
+		 //    	$(".contenedor_interno").hide();
+			// 	$("#contenedor_internos_3_25").show();
+			// }
 		 	function func_contenedor_internos_3_26_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
