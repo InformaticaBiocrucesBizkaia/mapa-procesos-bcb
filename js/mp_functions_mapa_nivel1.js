@@ -898,6 +898,56 @@
     	$(".contenedor_interno").hide();
 		$("#contenedor_internos_3_08_09").show();
 	}
+
+
+
+/* 3_09 - Apartado Procesos de apoyo - Nivel 1 - Coordinación científica */
+		function func_contenedor_internos_3_09_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_01").show();
+	}
+	function func_contenedor_internos_3_09_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_02").show();
+	}
+	function func_contenedor_internos_3_09_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_03").show();
+	}
+	function func_contenedor_internos_3_09_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_04").show();
+	}
+	function func_contenedor_internos_3_09_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_05").show();
+	}
+	function func_contenedor_internos_3_09_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_06").show();
+	}
+	function func_contenedor_internos_3_09_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_07").show();
+	}
+	function func_contenedor_internos_3_09_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_08").show();
+	}
+	function func_contenedor_internos_3_09_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_09_09").show();
+	}
+
 		/* 3_08+ - SIN USO*/
 		/*
 			function func_contenedor_internos_3_08_folder(){

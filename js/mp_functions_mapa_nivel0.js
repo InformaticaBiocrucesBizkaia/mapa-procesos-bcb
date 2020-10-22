@@ -218,6 +218,12 @@
 				$("#contenedor_internos_3_08").show();
 		    }
 
+		 	function func_mapa_3_09(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_09").show();
+		    }
+
 			function func_mapa_3_21(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
