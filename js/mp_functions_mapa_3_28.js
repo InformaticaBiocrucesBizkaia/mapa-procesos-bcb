@@ -615,7 +615,7 @@
 	function func_contenedor_internos_3_28_05_folder(){
     	$("#bc_mp_procesos").hide();
     	$(".contenedor_interno").hide();
-		$("#contenedor_internos_3_28_04").show();
+		$("#contenedor_internos_3_28_05").show();
 	}
 	function func_contenedor_internos_3_28_05_01_folder(){
     	$("#bc_mp_procesos").hide();
