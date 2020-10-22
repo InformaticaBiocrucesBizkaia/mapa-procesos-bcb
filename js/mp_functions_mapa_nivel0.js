@@ -238,21 +238,21 @@
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_24").show();
 		    }
-		 // 	function func_mapa_3_25(){
-		 //    	$("#bc_mp_procesos").hide();
-		 //    	$(".contenedor_interno").hide();
-			// 	$("#contenedor_internos_3_25").show();
-			// }
-		 	// function func_mapa_3_26(){
-		  //   	$("#bc_mp_procesos").hide();
-		  //   	$(".contenedor_interno").hide();
-				// $("#contenedor_internos_3_26").show();
-		  //   }
-		 // 	function func_mapa_3_27(){
-		 //    	$("#bc_mp_procesos").hide();
-		 //    	$(".contenedor_interno").hide();
-			// 	$("#contenedor_internos_3_27").show();
-			// }
+		 	function func_mapa_3_25(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_25").show();
+			}
+		 	function func_mapa_3_26(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_26").show();
+		    }
+		 	function func_mapa_3_27(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_27").show();
+			}
 			function func_mapa_3_28(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
