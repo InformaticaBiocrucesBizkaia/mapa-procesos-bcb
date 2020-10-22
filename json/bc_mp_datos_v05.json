@@ -1282,7 +1282,7 @@
 					"tipo":"folder",
 					"extension":"",
 					"subnivel":	[]
-				}				
+				}			
 			]
 		},
 		{
@@ -2423,6 +2423,35 @@
 									"nombre":"Agreement collaborative stay",
 									"codigoBC":"AX28_PO.01-PR.06",
 									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/75401819-e505-4207-8fb8-dff454a6d115",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						}
+					]
+				},
+				{
+					"nivel":"3_09",
+					"nombre":"Coordinación científica",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"3_09_01",
+							"nombre":"Gestion de estancia. Incorporacion estudiantes",
+							"codigoBC":"PO.01-PR.06",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_09_01_01",
+									"nombre":"Solicitud practicas grado",
+									"codigoBC":"AX01_PO.01-PR.06",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b74efc8e-44c7-4aa7-85d6-6170d8a49bc7",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -6911,6 +6940,72 @@
 									"nombre":"Reserva Portatil",
 									"codigoBC":"AX01_PO.05-SPR.14",
 									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa991cea-ab7a-431e-bf86-37f79095052b",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						}
+					]
+				},
+				{
+					"nivel":"3_32",
+					"nombre":"Unidad de ensayos clínicos",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
+						{
+							"nivel":"3_32_01",
+							"nombre":"Solicitud de servicios a la Unidad de EECC",
+							"codigoBC":"PO.01-SPR.18",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_32_02_01",
+									"nombre":"Solicitud de servicios a la Unidad de EECC",
+									"codigoBC":"PO.01-SPR.18",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/90d32564-cd50-4f2c-a895-81af85eedc29",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_32_02_02",
+									"nombre":"Registro material proporcionado por proveedores",
+									"codigoBC":"AX02_PO.01-SPR.18",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/32462169-b189-483c-a5a4-9bd200c3394a",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_32_02",
+							"nombre":"Funciones de enfermería",
+							"codigoBC":"PO.02-SPR.18",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_32_02_01",
+									"nombre":"Funciones de enfermería",
+									"codigoBC":"PO.02-SPR.18",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cd3f881b-5ee1-44b9-80ed-9fa57a84bb6e",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_32_02_02",
+									"nombre":"Plantilla CV normalizado",
+									"codigoBC":"AX01_PO.02-SPR.18",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0b718839-05db-4a58-aa32-6f3d38c8a06e",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
