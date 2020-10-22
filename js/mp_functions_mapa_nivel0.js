@@ -281,6 +281,23 @@
 				$("#contenedor_internos_3_31").show();
 		    }
 
+		 	function func_mapa_3_32(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_32").show();
+		    }
+
+
+
+
+
+
+
+
+
+
+
+
 	    /* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
 		    function func_contenedor_internos_3_01_folder(){
 		    	$("#bc_mp_procesos").hide();
@@ -328,6 +345,12 @@
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_08").show();
+		    }
+		 	
+		 	function func_contenedor_internos_3_09_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_09").show();
 		    }
 
 			function func_contenedor_internos_3_21_folder(){
@@ -385,4 +408,9 @@
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_31").show();
+		    }
+		 	function func_contenedor_internos_3_32_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_32").show();
 		    }
