@@ -2161,6 +2161,159 @@
 	}
 
 
+/* 3_28_14 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15").show();
+	}
+	function func_contenedor_internos_3_28_15_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_01").show();
+	}
+	function func_contenedor_internos_3_28_15_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_02").show();
+	}
+	function func_contenedor_internos_3_28_15_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_03").show();
+	}
+	function func_contenedor_internos_3_28_15_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_04").show();
+	}
+	function func_contenedor_internos_3_28_15_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_05").show();
+	}
+	function func_contenedor_internos_3_28_15_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_06").show();
+	}
+	function func_contenedor_internos_3_28_15_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_07").show();
+	}
+	function func_contenedor_internos_3_28_15_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_08").show();
+	}
+	function func_contenedor_internos_3_28_15_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_09").show();
+	}
+	function func_contenedor_internos_3_28_15_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_10").show();
+	}
+	function func_contenedor_internos_3_28_15_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_11").show();
+	}
+	function func_contenedor_internos_3_28_15_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_12").show();
+	}
+	function func_contenedor_internos_3_28_15_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_13").show();
+	}
+	function func_contenedor_internos_3_28_15_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_14").show();
+	}
+	function func_contenedor_internos_3_28_15_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_15").show();
+	}
+	function func_contenedor_internos_3_28_15_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_16").show();
+	}
+	function func_contenedor_internos_3_28_15_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_17").show();
+	}
+	function func_contenedor_internos_3_28_15_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_18").show();
+	}
+	function func_contenedor_internos_3_28_15_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_19").show();
+	}
+	function func_contenedor_internos_3_28_15_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_20").show();
+	}
+	function func_contenedor_internos_3_28_15_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_21").show();
+	}
+	function func_contenedor_internos_3_28_15_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_22").show();
+	}
+	function func_contenedor_internos_3_28_15_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_23").show();
+	}
+	function func_contenedor_internos_3_28_15_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_24").show();
+	}
+	function func_contenedor_internos_3_28_15_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_25").show();
+	}
+	function func_contenedor_internos_3_28_15_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_26").show();
+	}
+	function func_contenedor_internos_3_28_15_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_27").show();
+	}
+	function func_contenedor_internos_3_28_15_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_28").show();
+	}
+	function func_contenedor_internos_3_28_15_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_15_29").show();
+	}
+
+
 /* 3_28_16 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
 	function func_contenedor_internos_3_28_16_folder(){
     	$("#bc_mp_procesos").hide();
@@ -3539,6 +3692,314 @@
 	}
 
 
+
+/* 3_28_24 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24").show();
+	}
+	function func_contenedor_internos_3_28_24_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_01").show();
+	}
+	function func_contenedor_internos_3_28_24_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_02").show();
+	}
+	function func_contenedor_internos_3_28_24_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_03").show();
+	}
+	function func_contenedor_internos_3_28_24_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_04").show();
+	}
+	function func_contenedor_internos_3_28_24_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_05").show();
+	}
+	function func_contenedor_internos_3_28_24_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_06").show();
+	}
+	function func_contenedor_internos_3_28_24_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_07").show();
+	}
+	function func_contenedor_internos_3_28_24_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_08").show();
+	}
+	function func_contenedor_internos_3_28_24_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_09").show();
+	}
+	function func_contenedor_internos_3_28_24_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_10").show();
+	}
+	function func_contenedor_internos_3_28_24_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_11").show();
+	}
+	function func_contenedor_internos_3_28_24_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_12").show();
+	}
+	function func_contenedor_internos_3_28_24_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_13").show();
+	}
+	function func_contenedor_internos_3_28_24_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_14").show();
+	}
+	function func_contenedor_internos_3_28_24_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_15").show();
+	}
+	function func_contenedor_internos_3_28_24_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_16").show();
+	}
+	function func_contenedor_internos_3_28_24_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_17").show();
+	}
+	function func_contenedor_internos_3_28_24_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_18").show();
+	}
+	function func_contenedor_internos_3_28_24_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_19").show();
+	}
+	function func_contenedor_internos_3_28_24_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_20").show();
+	}
+	function func_contenedor_internos_3_28_24_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_21").show();
+	}
+	function func_contenedor_internos_3_28_24_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_22").show();
+	}
+	function func_contenedor_internos_3_28_24_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_23").show();
+	}
+	function func_contenedor_internos_3_28_24_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_24").show();
+	}
+	function func_contenedor_internos_3_28_24_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_25").show();
+	}
+	function func_contenedor_internos_3_28_24_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_26").show();
+	}
+	function func_contenedor_internos_3_28_24_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_27").show();
+	}
+	function func_contenedor_internos_3_28_24_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_28").show();
+	}
+	function func_contenedor_internos_3_28_24_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24_29").show();
+	}
+
+
+
+/* 3_28_24 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_24").show();
+	}
+	function func_contenedor_internos_3_28_25_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_01").show();
+	}
+	function func_contenedor_internos_3_28_25_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_02").show();
+	}
+	function func_contenedor_internos_3_28_25_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_03").show();
+	}
+	function func_contenedor_internos_3_28_25_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_04").show();
+	}
+	function func_contenedor_internos_3_28_25_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_05").show();
+	}
+	function func_contenedor_internos_3_28_25_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_06").show();
+	}
+	function func_contenedor_internos_3_28_25_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_07").show();
+	}
+	function func_contenedor_internos_3_28_25_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_08").show();
+	}
+	function func_contenedor_internos_3_28_25_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_09").show();
+	}
+	function func_contenedor_internos_3_28_25_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_10").show();
+	}
+	function func_contenedor_internos_3_28_25_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_11").show();
+	}
+	function func_contenedor_internos_3_28_25_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_12").show();
+	}
+	function func_contenedor_internos_3_28_25_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_13").show();
+	}
+	function func_contenedor_internos_3_28_25_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_14").show();
+	}
+	function func_contenedor_internos_3_28_25_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_15").show();
+	}
+	function func_contenedor_internos_3_28_25_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_16").show();
+	}
+	function func_contenedor_internos_3_28_25_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_17").show();
+	}
+	function func_contenedor_internos_3_28_25_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_18").show();
+	}
+	function func_contenedor_internos_3_28_25_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_19").show();
+	}
+	function func_contenedor_internos_3_28_25_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_20").show();
+	}
+	function func_contenedor_internos_3_28_25_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_21").show();
+	}
+	function func_contenedor_internos_3_28_25_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_22").show();
+	}
+	function func_contenedor_internos_3_28_25_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_23").show();
+	}
+	function func_contenedor_internos_3_28_25_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_24").show();
+	}
+	function func_contenedor_internos_3_28_25_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_25").show();
+	}
+	function func_contenedor_internos_3_28_25_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_26").show();
+	}
+	function func_contenedor_internos_3_28_25_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_27").show();
+	}
+	function func_contenedor_internos_3_28_25_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_28").show();
+	}
+	function func_contenedor_internos_3_28_25_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_25_29").show();
+	}
+
+
 /* 3_28_26 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
 	function func_contenedor_internos_3_28_26_folder(){
     	$("#bc_mp_procesos").hide();
@@ -4300,5 +4761,3374 @@
 	function func_contenedor_internos_3_28_30_29_folder(){
     	$("#bc_mp_procesos").hide();
     	$(".contenedor_interno").hide();
-		$("#contenedor_internos_3_28_29_29").show();
+		$("#contenedor_internos_3_28_30_29").show();
+	}
+
+
+
+/* 3_28_21 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_31_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31").show();
+	}
+	function func_contenedor_internos_3_28_31_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_01").show();
+	}
+	function func_contenedor_internos_3_28_31_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_02").show();
+	}
+	function func_contenedor_internos_3_28_31_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_03").show();
+	}
+	function func_contenedor_internos_3_28_31_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_04").show();
+	}
+	function func_contenedor_internos_3_28_31_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_05").show();
+	}
+	function func_contenedor_internos_3_28_31_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_06").show();
+	}
+	function func_contenedor_internos_3_28_31_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_07").show();
+	}
+	function func_contenedor_internos_3_28_31_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_08").show();
+	}
+	function func_contenedor_internos_3_28_31_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_09").show();
+	}
+	function func_contenedor_internos_3_28_31_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_10").show();
+	}
+	function func_contenedor_internos_3_28_31_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_11").show();
+	}
+	function func_contenedor_internos_3_28_31_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_12").show();
+	}
+	function func_contenedor_internos_3_28_31_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_13").show();
+	}
+	function func_contenedor_internos_3_28_31_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_14").show();
+	}
+	function func_contenedor_internos_3_28_31_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_15").show();
+	}
+	function func_contenedor_internos_3_28_31_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_16").show();
+	}
+	function func_contenedor_internos_3_28_31_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_17").show();
+	}
+	function func_contenedor_internos_3_28_31_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_18").show();
+	}
+	function func_contenedor_internos_3_28_31_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_19").show();
+	}
+	function func_contenedor_internos_3_28_31_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_20").show();
+	}
+	function func_contenedor_internos_3_28_31_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_21").show();
+	}
+	function func_contenedor_internos_3_28_31_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_22").show();
+	}
+	function func_contenedor_internos_3_28_31_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_23").show();
+	}
+	function func_contenedor_internos_3_28_31_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_24").show();
+	}
+	function func_contenedor_internos_3_28_31_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_25").show();
+	}
+	function func_contenedor_internos_3_28_31_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_26").show();
+	}
+	function func_contenedor_internos_3_28_31_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_27").show();
+	}
+	function func_contenedor_internos_3_28_31_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_28").show();
+	}
+	function func_contenedor_internos_3_28_31_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_31_29").show();
+	}
+
+
+/* 3_28_22 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_32_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32").show();
+	}
+	function func_contenedor_internos_3_28_32_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_01").show();
+	}
+	function func_contenedor_internos_3_28_32_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_02").show();
+	}
+	function func_contenedor_internos_3_28_32_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_03").show();
+	}
+	function func_contenedor_internos_3_28_32_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_04").show();
+	}
+	function func_contenedor_internos_3_28_32_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_05").show();
+	}
+	function func_contenedor_internos_3_28_32_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_06").show();
+	}
+	function func_contenedor_internos_3_28_32_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_07").show();
+	}
+	function func_contenedor_internos_3_28_32_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_08").show();
+	}
+	function func_contenedor_internos_3_28_32_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_09").show();
+	}
+	function func_contenedor_internos_3_28_32_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_10").show();
+	}
+	function func_contenedor_internos_3_28_32_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_11").show();
+	}
+	function func_contenedor_internos_3_28_32_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_12").show();
+	}
+	function func_contenedor_internos_3_28_32_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_13").show();
+	}
+	function func_contenedor_internos_3_28_32_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_14").show();
+	}
+	function func_contenedor_internos_3_28_32_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_15").show();
+	}
+	function func_contenedor_internos_3_28_32_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_16").show();
+	}
+	function func_contenedor_internos_3_28_32_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_17").show();
+	}
+	function func_contenedor_internos_3_28_32_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_18").show();
+	}
+	function func_contenedor_internos_3_28_32_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_19").show();
+	}
+	function func_contenedor_internos_3_28_32_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_20").show();
+	}
+	function func_contenedor_internos_3_28_32_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_21").show();
+	}
+	function func_contenedor_internos_3_28_32_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_22").show();
+	}
+	function func_contenedor_internos_3_28_32_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_23").show();
+	}
+	function func_contenedor_internos_3_28_32_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_24").show();
+	}
+	function func_contenedor_internos_3_28_32_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_25").show();
+	}
+	function func_contenedor_internos_3_28_32_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_26").show();
+	}
+	function func_contenedor_internos_3_28_32_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_27").show();
+	}
+	function func_contenedor_internos_3_28_32_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_28").show();
+	}
+	function func_contenedor_internos_3_28_32_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_32_29").show();
+	}
+
+
+/* 3_28_23 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_33_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33").show();
+	}
+	function func_contenedor_internos_3_28_33_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_01").show();
+	}
+	function func_contenedor_internos_3_28_33_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_02").show();
+	}
+	function func_contenedor_internos_3_28_33_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_03").show();
+	}
+	function func_contenedor_internos_3_28_33_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_04").show();
+	}
+	function func_contenedor_internos_3_28_33_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_05").show();
+	}
+	function func_contenedor_internos_3_28_33_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_06").show();
+	}
+	function func_contenedor_internos_3_28_33_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_07").show();
+	}
+	function func_contenedor_internos_3_28_33_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_08").show();
+	}
+	function func_contenedor_internos_3_28_33_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_09").show();
+	}
+	function func_contenedor_internos_3_28_33_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_10").show();
+	}
+	function func_contenedor_internos_3_28_33_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_11").show();
+	}
+	function func_contenedor_internos_3_28_33_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_12").show();
+	}
+	function func_contenedor_internos_3_28_33_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_13").show();
+	}
+	function func_contenedor_internos_3_28_33_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_14").show();
+	}
+	function func_contenedor_internos_3_28_33_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_15").show();
+	}
+	function func_contenedor_internos_3_28_33_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_16").show();
+	}
+	function func_contenedor_internos_3_28_33_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_17").show();
+	}
+	function func_contenedor_internos_3_28_33_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_18").show();
+	}
+	function func_contenedor_internos_3_28_33_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_19").show();
+	}
+	function func_contenedor_internos_3_28_33_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_20").show();
+	}
+	function func_contenedor_internos_3_28_33_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_21").show();
+	}
+	function func_contenedor_internos_3_28_33_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_22").show();
+	}
+	function func_contenedor_internos_3_28_33_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_23").show();
+	}
+	function func_contenedor_internos_3_28_33_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_24").show();
+	}
+	function func_contenedor_internos_3_28_33_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_25").show();
+	}
+	function func_contenedor_internos_3_28_33_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_26").show();
+	}
+	function func_contenedor_internos_3_28_33_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_27").show();
+	}
+	function func_contenedor_internos_3_28_33_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_28").show();
+	}
+	function func_contenedor_internos_3_28_33_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_33_29").show();
+	}
+
+
+/* 3_28_24 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_34_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34").show();
+	}
+	function func_contenedor_internos_3_28_34_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_01").show();
+	}
+	function func_contenedor_internos_3_28_34_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_02").show();
+	}
+	function func_contenedor_internos_3_28_34_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_03").show();
+	}
+	function func_contenedor_internos_3_28_34_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_04").show();
+	}
+	function func_contenedor_internos_3_28_34_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_05").show();
+	}
+	function func_contenedor_internos_3_28_34_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_06").show();
+	}
+	function func_contenedor_internos_3_28_34_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_07").show();
+	}
+	function func_contenedor_internos_3_28_34_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_08").show();
+	}
+	function func_contenedor_internos_3_28_34_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_09").show();
+	}
+	function func_contenedor_internos_3_28_34_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_10").show();
+	}
+	function func_contenedor_internos_3_28_34_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_11").show();
+	}
+	function func_contenedor_internos_3_28_34_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_12").show();
+	}
+	function func_contenedor_internos_3_28_34_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_13").show();
+	}
+	function func_contenedor_internos_3_28_34_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_14").show();
+	}
+	function func_contenedor_internos_3_28_34_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_15").show();
+	}
+	function func_contenedor_internos_3_28_34_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_16").show();
+	}
+	function func_contenedor_internos_3_28_34_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_17").show();
+	}
+	function func_contenedor_internos_3_28_34_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_18").show();
+	}
+	function func_contenedor_internos_3_28_34_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_19").show();
+	}
+	function func_contenedor_internos_3_28_34_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_20").show();
+	}
+	function func_contenedor_internos_3_28_34_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_21").show();
+	}
+	function func_contenedor_internos_3_28_34_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_22").show();
+	}
+	function func_contenedor_internos_3_28_34_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_23").show();
+	}
+	function func_contenedor_internos_3_28_34_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_24").show();
+	}
+	function func_contenedor_internos_3_28_34_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_25").show();
+	}
+	function func_contenedor_internos_3_28_34_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_26").show();
+	}
+	function func_contenedor_internos_3_28_34_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_27").show();
+	}
+	function func_contenedor_internos_3_28_34_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_28").show();
+	}
+	function func_contenedor_internos_3_28_34_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_34_29").show();
+	}
+
+
+/* 3_28_26 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_35_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35").show();
+	}
+	function func_contenedor_internos_3_28_35_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_01").show();
+	}
+	function func_contenedor_internos_3_28_35_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_02").show();
+	}
+	function func_contenedor_internos_3_28_35_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_03").show();
+	}
+	function func_contenedor_internos_3_28_35_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_04").show();
+	}
+	function func_contenedor_internos_3_28_35_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_05").show();
+	}
+	function func_contenedor_internos_3_28_35_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_06").show();
+	}
+	function func_contenedor_internos_3_28_35_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_07").show();
+	}
+	function func_contenedor_internos_3_28_35_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_08").show();
+	}
+	function func_contenedor_internos_3_28_35_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_09").show();
+	}
+	function func_contenedor_internos_3_28_35_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_10").show();
+	}
+	function func_contenedor_internos_3_28_35_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_11").show();
+	}
+	function func_contenedor_internos_3_28_35_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_12").show();
+	}
+	function func_contenedor_internos_3_28_35_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_13").show();
+	}
+	function func_contenedor_internos_3_28_35_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_14").show();
+	}
+	function func_contenedor_internos_3_28_35_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_15").show();
+	}
+	function func_contenedor_internos_3_28_35_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_16").show();
+	}
+	function func_contenedor_internos_3_28_35_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_17").show();
+	}
+	function func_contenedor_internos_3_28_35_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_18").show();
+	}
+	function func_contenedor_internos_3_28_35_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_19").show();
+	}
+	function func_contenedor_internos_3_28_35_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_20").show();
+	}
+	function func_contenedor_internos_3_28_35_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_21").show();
+	}
+	function func_contenedor_internos_3_28_35_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_22").show();
+	}
+	function func_contenedor_internos_3_28_35_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_23").show();
+	}
+	function func_contenedor_internos_3_28_35_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_24").show();
+	}
+	function func_contenedor_internos_3_28_35_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_25").show();
+	}
+	function func_contenedor_internos_3_28_35_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_26").show();
+	}
+	function func_contenedor_internos_3_28_35_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_27").show();
+	}
+	function func_contenedor_internos_3_28_35_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_28").show();
+	}
+	function func_contenedor_internos_3_28_35_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_35_29").show();
+	}
+
+
+/* 3_28_26 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_36_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36").show();
+	}
+	function func_contenedor_internos_3_28_36_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_01").show();
+	}
+	function func_contenedor_internos_3_28_36_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_02").show();
+	}
+	function func_contenedor_internos_3_28_36_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_03").show();
+	}
+	function func_contenedor_internos_3_28_36_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_04").show();
+	}
+	function func_contenedor_internos_3_28_36_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_05").show();
+	}
+	function func_contenedor_internos_3_28_36_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_06").show();
+	}
+	function func_contenedor_internos_3_28_36_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_07").show();
+	}
+	function func_contenedor_internos_3_28_36_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_08").show();
+	}
+	function func_contenedor_internos_3_28_36_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_09").show();
+	}
+	function func_contenedor_internos_3_28_36_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_10").show();
+	}
+	function func_contenedor_internos_3_28_36_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_11").show();
+	}
+	function func_contenedor_internos_3_28_36_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_12").show();
+	}
+	function func_contenedor_internos_3_28_36_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_13").show();
+	}
+	function func_contenedor_internos_3_28_36_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_14").show();
+	}
+	function func_contenedor_internos_3_28_36_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_15").show();
+	}
+	function func_contenedor_internos_3_28_36_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_16").show();
+	}
+	function func_contenedor_internos_3_28_36_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_17").show();
+	}
+	function func_contenedor_internos_3_28_36_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_18").show();
+	}
+	function func_contenedor_internos_3_28_36_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_19").show();
+	}
+	function func_contenedor_internos_3_28_36_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_20").show();
+	}
+	function func_contenedor_internos_3_28_36_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_21").show();
+	}
+	function func_contenedor_internos_3_28_36_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_22").show();
+	}
+	function func_contenedor_internos_3_28_36_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_23").show();
+	}
+	function func_contenedor_internos_3_28_36_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_24").show();
+	}
+	function func_contenedor_internos_3_28_36_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_25").show();
+	}
+	function func_contenedor_internos_3_28_36_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_26").show();
+	}
+	function func_contenedor_internos_3_28_36_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_27").show();
+	}
+	function func_contenedor_internos_3_28_36_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_28").show();
+	}
+	function func_contenedor_internos_3_28_36_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_36_29").show();
+	}
+
+
+/* 3_28_27 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_37_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37").show();
+	}
+	function func_contenedor_internos_3_28_37_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_01").show();
+	}
+	function func_contenedor_internos_3_28_37_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_02").show();
+	}
+	function func_contenedor_internos_3_28_37_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_03").show();
+	}
+	function func_contenedor_internos_3_28_37_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_04").show();
+	}
+	function func_contenedor_internos_3_28_37_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_05").show();
+	}
+	function func_contenedor_internos_3_28_37_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_06").show();
+	}
+	function func_contenedor_internos_3_28_37_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_07").show();
+	}
+	function func_contenedor_internos_3_28_37_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_08").show();
+	}
+	function func_contenedor_internos_3_28_37_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_09").show();
+	}
+	function func_contenedor_internos_3_28_37_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_10").show();
+	}
+	function func_contenedor_internos_3_28_37_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_11").show();
+	}
+	function func_contenedor_internos_3_28_37_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_12").show();
+	}
+	function func_contenedor_internos_3_28_37_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_13").show();
+	}
+	function func_contenedor_internos_3_28_37_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_14").show();
+	}
+	function func_contenedor_internos_3_28_37_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_15").show();
+	}
+	function func_contenedor_internos_3_28_37_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_16").show();
+	}
+	function func_contenedor_internos_3_28_37_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_17").show();
+	}
+	function func_contenedor_internos_3_28_37_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_18").show();
+	}
+	function func_contenedor_internos_3_28_37_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_19").show();
+	}
+	function func_contenedor_internos_3_28_37_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_20").show();
+	}
+	function func_contenedor_internos_3_28_37_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_21").show();
+	}
+	function func_contenedor_internos_3_28_37_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_22").show();
+	}
+	function func_contenedor_internos_3_28_37_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_23").show();
+	}
+	function func_contenedor_internos_3_28_37_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_24").show();
+	}
+	function func_contenedor_internos_3_28_37_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_25").show();
+	}
+	function func_contenedor_internos_3_28_37_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_26").show();
+	}
+	function func_contenedor_internos_3_28_37_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_27").show();
+	}
+	function func_contenedor_internos_3_28_37_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_28").show();
+	}
+	function func_contenedor_internos_3_28_37_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_37_29").show();
+	}
+
+
+/* 3_28_28 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_38_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38").show();
+	}
+	function func_contenedor_internos_3_28_38_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_01").show();
+	}
+	function func_contenedor_internos_3_28_38_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_02").show();
+	}
+	function func_contenedor_internos_3_28_38_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_03").show();
+	}
+	function func_contenedor_internos_3_28_38_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_04").show();
+	}
+	function func_contenedor_internos_3_28_38_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_05").show();
+	}
+	function func_contenedor_internos_3_28_38_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_06").show();
+	}
+	function func_contenedor_internos_3_28_38_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_07").show();
+	}
+	function func_contenedor_internos_3_28_38_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_08").show();
+	}
+	function func_contenedor_internos_3_28_38_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_09").show();
+	}
+	function func_contenedor_internos_3_28_38_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_10").show();
+	}
+	function func_contenedor_internos_3_28_38_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_11").show();
+	}
+	function func_contenedor_internos_3_28_38_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_12").show();
+	}
+	function func_contenedor_internos_3_28_38_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_13").show();
+	}
+	function func_contenedor_internos_3_28_38_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_14").show();
+	}
+	function func_contenedor_internos_3_28_38_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_15").show();
+	}
+	function func_contenedor_internos_3_28_38_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_16").show();
+	}
+	function func_contenedor_internos_3_28_38_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_17").show();
+	}
+	function func_contenedor_internos_3_28_38_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_18").show();
+	}
+	function func_contenedor_internos_3_28_38_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_19").show();
+	}
+	function func_contenedor_internos_3_28_38_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_20").show();
+	}
+	function func_contenedor_internos_3_28_38_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_21").show();
+	}
+	function func_contenedor_internos_3_28_38_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_22").show();
+	}
+	function func_contenedor_internos_3_28_38_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_23").show();
+	}
+	function func_contenedor_internos_3_28_38_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_24").show();
+	}
+	function func_contenedor_internos_3_28_38_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_25").show();
+	}
+	function func_contenedor_internos_3_28_38_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_26").show();
+	}
+	function func_contenedor_internos_3_28_38_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_27").show();
+	}
+	function func_contenedor_internos_3_28_38_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_28").show();
+	}
+	function func_contenedor_internos_3_28_38_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_38_29").show();
+	}
+
+
+/* 3_28_29 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_39_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39").show();
+	}
+	function func_contenedor_internos_3_28_39_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_01").show();
+	}
+	function func_contenedor_internos_3_28_39_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_02").show();
+	}
+	function func_contenedor_internos_3_28_39_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_03").show();
+	}
+	function func_contenedor_internos_3_28_39_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_04").show();
+	}
+	function func_contenedor_internos_3_28_39_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_05").show();
+	}
+	function func_contenedor_internos_3_28_39_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_06").show();
+	}
+	function func_contenedor_internos_3_28_39_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_07").show();
+	}
+	function func_contenedor_internos_3_28_39_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_08").show();
+	}
+	function func_contenedor_internos_3_28_39_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_09").show();
+	}
+	function func_contenedor_internos_3_28_39_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_10").show();
+	}
+	function func_contenedor_internos_3_28_39_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_11").show();
+	}
+	function func_contenedor_internos_3_28_39_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_12").show();
+	}
+	function func_contenedor_internos_3_28_39_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_13").show();
+	}
+	function func_contenedor_internos_3_28_39_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_14").show();
+	}
+	function func_contenedor_internos_3_28_39_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_15").show();
+	}
+	function func_contenedor_internos_3_28_39_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_16").show();
+	}
+	function func_contenedor_internos_3_28_39_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_17").show();
+	}
+	function func_contenedor_internos_3_28_39_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_18").show();
+	}
+	function func_contenedor_internos_3_28_39_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_19").show();
+	}
+	function func_contenedor_internos_3_28_39_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_20").show();
+	}
+	function func_contenedor_internos_3_28_39_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_21").show();
+	}
+	function func_contenedor_internos_3_28_39_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_22").show();
+	}
+	function func_contenedor_internos_3_28_39_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_23").show();
+	}
+	function func_contenedor_internos_3_28_39_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_24").show();
+	}
+	function func_contenedor_internos_3_28_39_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_25").show();
+	}
+	function func_contenedor_internos_3_28_39_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_26").show();
+	}
+	function func_contenedor_internos_3_28_39_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_27").show();
+	}
+	function func_contenedor_internos_3_28_39_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_28").show();
+	}
+	function func_contenedor_internos_3_28_39_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_39_29").show();
+	}
+
+
+/* 3_28_40 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_40_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40").show();
+	}
+	function func_contenedor_internos_3_28_40_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_01").show();
+	}
+	function func_contenedor_internos_3_28_40_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_02").show();
+	}
+	function func_contenedor_internos_3_28_40_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_03").show();
+	}
+	function func_contenedor_internos_3_28_40_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_04").show();
+	}
+	function func_contenedor_internos_3_28_40_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_05").show();
+	}
+	function func_contenedor_internos_3_28_40_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_06").show();
+	}
+	function func_contenedor_internos_3_28_40_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_07").show();
+	}
+	function func_contenedor_internos_3_28_40_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_08").show();
+	}
+	function func_contenedor_internos_3_28_40_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_09").show();
+	}
+	function func_contenedor_internos_3_28_40_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_10").show();
+	}
+	function func_contenedor_internos_3_28_40_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_11").show();
+	}
+	function func_contenedor_internos_3_28_40_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_12").show();
+	}
+	function func_contenedor_internos_3_28_40_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_13").show();
+	}
+	function func_contenedor_internos_3_28_40_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_14").show();
+	}
+	function func_contenedor_internos_3_28_40_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_15").show();
+	}
+	function func_contenedor_internos_3_28_40_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_16").show();
+	}
+	function func_contenedor_internos_3_28_40_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_17").show();
+	}
+	function func_contenedor_internos_3_28_40_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_18").show();
+	}
+	function func_contenedor_internos_3_28_40_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_19").show();
+	}
+	function func_contenedor_internos_3_28_40_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_20").show();
+	}
+	function func_contenedor_internos_3_28_40_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_21").show();
+	}
+	function func_contenedor_internos_3_28_40_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_22").show();
+	}
+	function func_contenedor_internos_3_28_40_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_23").show();
+	}
+	function func_contenedor_internos_3_28_40_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_24").show();
+	}
+	function func_contenedor_internos_3_28_40_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_25").show();
+	}
+	function func_contenedor_internos_3_28_40_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_26").show();
+	}
+	function func_contenedor_internos_3_28_40_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_27").show();
+	}
+	function func_contenedor_internos_3_28_40_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_28").show();
+	}
+	function func_contenedor_internos_3_28_40_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_40_29").show();
+	}
+
+
+
+/* 3_28_21 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_41_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41").show();
+	}
+	function func_contenedor_internos_3_28_41_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_01").show();
+	}
+	function func_contenedor_internos_3_28_41_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_02").show();
+	}
+	function func_contenedor_internos_3_28_41_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_03").show();
+	}
+	function func_contenedor_internos_3_28_41_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_04").show();
+	}
+	function func_contenedor_internos_3_28_41_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_05").show();
+	}
+	function func_contenedor_internos_3_28_41_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_06").show();
+	}
+	function func_contenedor_internos_3_28_41_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_07").show();
+	}
+	function func_contenedor_internos_3_28_41_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_08").show();
+	}
+	function func_contenedor_internos_3_28_41_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_09").show();
+	}
+	function func_contenedor_internos_3_28_41_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_10").show();
+	}
+	function func_contenedor_internos_3_28_41_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_11").show();
+	}
+	function func_contenedor_internos_3_28_41_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_12").show();
+	}
+	function func_contenedor_internos_3_28_41_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_13").show();
+	}
+	function func_contenedor_internos_3_28_41_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_14").show();
+	}
+	function func_contenedor_internos_3_28_41_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_15").show();
+	}
+	function func_contenedor_internos_3_28_41_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_16").show();
+	}
+	function func_contenedor_internos_3_28_41_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_17").show();
+	}
+	function func_contenedor_internos_3_28_41_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_18").show();
+	}
+	function func_contenedor_internos_3_28_41_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_19").show();
+	}
+	function func_contenedor_internos_3_28_41_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_20").show();
+	}
+	function func_contenedor_internos_3_28_41_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_21").show();
+	}
+	function func_contenedor_internos_3_28_41_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_22").show();
+	}
+	function func_contenedor_internos_3_28_41_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_23").show();
+	}
+	function func_contenedor_internos_3_28_41_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_24").show();
+	}
+	function func_contenedor_internos_3_28_41_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_25").show();
+	}
+	function func_contenedor_internos_3_28_41_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_26").show();
+	}
+	function func_contenedor_internos_3_28_41_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_27").show();
+	}
+	function func_contenedor_internos_3_28_41_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_28").show();
+	}
+	function func_contenedor_internos_3_28_41_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_41_29").show();
+	}
+
+
+/* 3_28_22 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_42_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42").show();
+	}
+	function func_contenedor_internos_3_28_42_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_01").show();
+	}
+	function func_contenedor_internos_3_28_42_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_02").show();
+	}
+	function func_contenedor_internos_3_28_42_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_03").show();
+	}
+	function func_contenedor_internos_3_28_42_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_04").show();
+	}
+	function func_contenedor_internos_3_28_42_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_05").show();
+	}
+	function func_contenedor_internos_3_28_42_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_06").show();
+	}
+	function func_contenedor_internos_3_28_42_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_07").show();
+	}
+	function func_contenedor_internos_3_28_42_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_08").show();
+	}
+	function func_contenedor_internos_3_28_42_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_09").show();
+	}
+	function func_contenedor_internos_3_28_42_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_10").show();
+	}
+	function func_contenedor_internos_3_28_42_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_11").show();
+	}
+	function func_contenedor_internos_3_28_42_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_12").show();
+	}
+	function func_contenedor_internos_3_28_42_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_13").show();
+	}
+	function func_contenedor_internos_3_28_42_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_14").show();
+	}
+	function func_contenedor_internos_3_28_42_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_15").show();
+	}
+	function func_contenedor_internos_3_28_42_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_16").show();
+	}
+	function func_contenedor_internos_3_28_42_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_17").show();
+	}
+	function func_contenedor_internos_3_28_42_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_18").show();
+	}
+	function func_contenedor_internos_3_28_42_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_19").show();
+	}
+	function func_contenedor_internos_3_28_42_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_20").show();
+	}
+	function func_contenedor_internos_3_28_42_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_21").show();
+	}
+	function func_contenedor_internos_3_28_42_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_22").show();
+	}
+	function func_contenedor_internos_3_28_42_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_23").show();
+	}
+	function func_contenedor_internos_3_28_42_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_24").show();
+	}
+	function func_contenedor_internos_3_28_42_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_25").show();
+	}
+	function func_contenedor_internos_3_28_42_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_26").show();
+	}
+	function func_contenedor_internos_3_28_42_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_27").show();
+	}
+	function func_contenedor_internos_3_28_42_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_28").show();
+	}
+	function func_contenedor_internos_3_28_42_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_42_29").show();
+	}
+
+
+/* 3_28_23 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_43_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43").show();
+	}
+	function func_contenedor_internos_3_28_43_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_01").show();
+	}
+	function func_contenedor_internos_3_28_43_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_02").show();
+	}
+	function func_contenedor_internos_3_28_43_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_03").show();
+	}
+	function func_contenedor_internos_3_28_43_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_04").show();
+	}
+	function func_contenedor_internos_3_28_43_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_05").show();
+	}
+	function func_contenedor_internos_3_28_43_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_06").show();
+	}
+	function func_contenedor_internos_3_28_43_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_07").show();
+	}
+	function func_contenedor_internos_3_28_43_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_08").show();
+	}
+	function func_contenedor_internos_3_28_43_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_09").show();
+	}
+	function func_contenedor_internos_3_28_43_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_10").show();
+	}
+	function func_contenedor_internos_3_28_43_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_11").show();
+	}
+	function func_contenedor_internos_3_28_43_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_12").show();
+	}
+	function func_contenedor_internos_3_28_43_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_13").show();
+	}
+	function func_contenedor_internos_3_28_43_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_14").show();
+	}
+	function func_contenedor_internos_3_28_43_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_15").show();
+	}
+	function func_contenedor_internos_3_28_43_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_16").show();
+	}
+	function func_contenedor_internos_3_28_43_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_17").show();
+	}
+	function func_contenedor_internos_3_28_43_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_18").show();
+	}
+	function func_contenedor_internos_3_28_43_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_19").show();
+	}
+	function func_contenedor_internos_3_28_43_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_20").show();
+	}
+	function func_contenedor_internos_3_28_43_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_21").show();
+	}
+	function func_contenedor_internos_3_28_43_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_22").show();
+	}
+	function func_contenedor_internos_3_28_43_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_23").show();
+	}
+	function func_contenedor_internos_3_28_43_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_24").show();
+	}
+	function func_contenedor_internos_3_28_43_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_25").show();
+	}
+	function func_contenedor_internos_3_28_43_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_26").show();
+	}
+	function func_contenedor_internos_3_28_43_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_27").show();
+	}
+	function func_contenedor_internos_3_28_43_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_28").show();
+	}
+	function func_contenedor_internos_3_28_43_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_43_29").show();
+	}
+
+
+/* 3_28_24 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_44_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44").show();
+	}
+	function func_contenedor_internos_3_28_44_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_01").show();
+	}
+	function func_contenedor_internos_3_28_44_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_02").show();
+	}
+	function func_contenedor_internos_3_28_44_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_03").show();
+	}
+	function func_contenedor_internos_3_28_44_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_04").show();
+	}
+	function func_contenedor_internos_3_28_44_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_05").show();
+	}
+	function func_contenedor_internos_3_28_44_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_06").show();
+	}
+	function func_contenedor_internos_3_28_44_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_07").show();
+	}
+	function func_contenedor_internos_3_28_44_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_08").show();
+	}
+	function func_contenedor_internos_3_28_44_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_09").show();
+	}
+	function func_contenedor_internos_3_28_44_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_10").show();
+	}
+	function func_contenedor_internos_3_28_44_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_11").show();
+	}
+	function func_contenedor_internos_3_28_44_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_12").show();
+	}
+	function func_contenedor_internos_3_28_44_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_13").show();
+	}
+	function func_contenedor_internos_3_28_44_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_14").show();
+	}
+	function func_contenedor_internos_3_28_44_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_15").show();
+	}
+	function func_contenedor_internos_3_28_44_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_16").show();
+	}
+	function func_contenedor_internos_3_28_44_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_17").show();
+	}
+	function func_contenedor_internos_3_28_44_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_18").show();
+	}
+	function func_contenedor_internos_3_28_44_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_19").show();
+	}
+	function func_contenedor_internos_3_28_44_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_20").show();
+	}
+	function func_contenedor_internos_3_28_44_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_21").show();
+	}
+	function func_contenedor_internos_3_28_44_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_22").show();
+	}
+	function func_contenedor_internos_3_28_44_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_23").show();
+	}
+	function func_contenedor_internos_3_28_44_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_24").show();
+	}
+	function func_contenedor_internos_3_28_44_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_25").show();
+	}
+	function func_contenedor_internos_3_28_44_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_26").show();
+	}
+	function func_contenedor_internos_3_28_44_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_27").show();
+	}
+	function func_contenedor_internos_3_28_44_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_28").show();
+	}
+	function func_contenedor_internos_3_28_44_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_44_29").show();
+	}
+
+
+/* 3_28_26 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_45_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45").show();
+	}
+	function func_contenedor_internos_3_28_45_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_01").show();
+	}
+	function func_contenedor_internos_3_28_45_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_02").show();
+	}
+	function func_contenedor_internos_3_28_45_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_03").show();
+	}
+	function func_contenedor_internos_3_28_45_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_04").show();
+	}
+	function func_contenedor_internos_3_28_45_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_05").show();
+	}
+	function func_contenedor_internos_3_28_45_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_06").show();
+	}
+	function func_contenedor_internos_3_28_45_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_07").show();
+	}
+	function func_contenedor_internos_3_28_45_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_08").show();
+	}
+	function func_contenedor_internos_3_28_45_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_09").show();
+	}
+	function func_contenedor_internos_3_28_45_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_10").show();
+	}
+	function func_contenedor_internos_3_28_45_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_11").show();
+	}
+	function func_contenedor_internos_3_28_45_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_12").show();
+	}
+	function func_contenedor_internos_3_28_45_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_13").show();
+	}
+	function func_contenedor_internos_3_28_45_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_14").show();
+	}
+	function func_contenedor_internos_3_28_45_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_15").show();
+	}
+	function func_contenedor_internos_3_28_45_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_16").show();
+	}
+	function func_contenedor_internos_3_28_45_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_17").show();
+	}
+	function func_contenedor_internos_3_28_45_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_18").show();
+	}
+	function func_contenedor_internos_3_28_45_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_19").show();
+	}
+	function func_contenedor_internos_3_28_45_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_20").show();
+	}
+	function func_contenedor_internos_3_28_45_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_21").show();
+	}
+	function func_contenedor_internos_3_28_45_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_22").show();
+	}
+	function func_contenedor_internos_3_28_45_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_23").show();
+	}
+	function func_contenedor_internos_3_28_45_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_24").show();
+	}
+	function func_contenedor_internos_3_28_45_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_25").show();
+	}
+	function func_contenedor_internos_3_28_45_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_26").show();
+	}
+	function func_contenedor_internos_3_28_45_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_27").show();
+	}
+	function func_contenedor_internos_3_28_45_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_28").show();
+	}
+	function func_contenedor_internos_3_28_45_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_45_29").show();
+	}
+
+
+/* 3_28_26 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_46_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46").show();
+	}
+	function func_contenedor_internos_3_28_46_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_01").show();
+	}
+	function func_contenedor_internos_3_28_46_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_02").show();
+	}
+	function func_contenedor_internos_3_28_46_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_03").show();
+	}
+	function func_contenedor_internos_3_28_46_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_04").show();
+	}
+	function func_contenedor_internos_3_28_46_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_05").show();
+	}
+	function func_contenedor_internos_3_28_46_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_06").show();
+	}
+	function func_contenedor_internos_3_28_46_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_07").show();
+	}
+	function func_contenedor_internos_3_28_46_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_08").show();
+	}
+	function func_contenedor_internos_3_28_46_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_09").show();
+	}
+	function func_contenedor_internos_3_28_46_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_10").show();
+	}
+	function func_contenedor_internos_3_28_46_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_11").show();
+	}
+	function func_contenedor_internos_3_28_46_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_12").show();
+	}
+	function func_contenedor_internos_3_28_46_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_13").show();
+	}
+	function func_contenedor_internos_3_28_46_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_14").show();
+	}
+	function func_contenedor_internos_3_28_46_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_15").show();
+	}
+	function func_contenedor_internos_3_28_46_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_16").show();
+	}
+	function func_contenedor_internos_3_28_46_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_17").show();
+	}
+	function func_contenedor_internos_3_28_46_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_18").show();
+	}
+	function func_contenedor_internos_3_28_46_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_19").show();
+	}
+	function func_contenedor_internos_3_28_46_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_20").show();
+	}
+	function func_contenedor_internos_3_28_46_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_21").show();
+	}
+	function func_contenedor_internos_3_28_46_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_22").show();
+	}
+	function func_contenedor_internos_3_28_46_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_23").show();
+	}
+	function func_contenedor_internos_3_28_46_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_24").show();
+	}
+	function func_contenedor_internos_3_28_46_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_25").show();
+	}
+	function func_contenedor_internos_3_28_46_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_26").show();
+	}
+	function func_contenedor_internos_3_28_46_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_27").show();
+	}
+	function func_contenedor_internos_3_28_46_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_28").show();
+	}
+	function func_contenedor_internos_3_28_46_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_46_29").show();
+	}
+
+
+/* 3_28_27 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_47_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47").show();
+	}
+	function func_contenedor_internos_3_28_47_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_01").show();
+	}
+	function func_contenedor_internos_3_28_47_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_02").show();
+	}
+	function func_contenedor_internos_3_28_47_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_03").show();
+	}
+	function func_contenedor_internos_3_28_47_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_04").show();
+	}
+	function func_contenedor_internos_3_28_47_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_05").show();
+	}
+	function func_contenedor_internos_3_28_47_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_06").show();
+	}
+	function func_contenedor_internos_3_28_47_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_07").show();
+	}
+	function func_contenedor_internos_3_28_47_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_08").show();
+	}
+	function func_contenedor_internos_3_28_47_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_09").show();
+	}
+	function func_contenedor_internos_3_28_47_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_10").show();
+	}
+	function func_contenedor_internos_3_28_47_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_11").show();
+	}
+	function func_contenedor_internos_3_28_47_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_12").show();
+	}
+	function func_contenedor_internos_3_28_47_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_13").show();
+	}
+	function func_contenedor_internos_3_28_47_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_14").show();
+	}
+	function func_contenedor_internos_3_28_47_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_15").show();
+	}
+	function func_contenedor_internos_3_28_47_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_16").show();
+	}
+	function func_contenedor_internos_3_28_47_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_17").show();
+	}
+	function func_contenedor_internos_3_28_47_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_18").show();
+	}
+	function func_contenedor_internos_3_28_47_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_19").show();
+	}
+	function func_contenedor_internos_3_28_47_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_20").show();
+	}
+	function func_contenedor_internos_3_28_47_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_21").show();
+	}
+	function func_contenedor_internos_3_28_47_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_22").show();
+	}
+	function func_contenedor_internos_3_28_47_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_23").show();
+	}
+	function func_contenedor_internos_3_28_47_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_24").show();
+	}
+	function func_contenedor_internos_3_28_47_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_25").show();
+	}
+	function func_contenedor_internos_3_28_47_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_26").show();
+	}
+	function func_contenedor_internos_3_28_47_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_27").show();
+	}
+	function func_contenedor_internos_3_28_47_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_28").show();
+	}
+	function func_contenedor_internos_3_28_47_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_47_29").show();
+	}
+
+
+/* 3_28_28 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_48_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48").show();
+	}
+	function func_contenedor_internos_3_28_48_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_01").show();
+	}
+	function func_contenedor_internos_3_28_48_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_02").show();
+	}
+	function func_contenedor_internos_3_28_48_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_03").show();
+	}
+	function func_contenedor_internos_3_28_48_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_04").show();
+	}
+	function func_contenedor_internos_3_28_48_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_05").show();
+	}
+	function func_contenedor_internos_3_28_48_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_06").show();
+	}
+	function func_contenedor_internos_3_28_48_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_07").show();
+	}
+	function func_contenedor_internos_3_28_48_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_08").show();
+	}
+	function func_contenedor_internos_3_28_48_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_09").show();
+	}
+	function func_contenedor_internos_3_28_48_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_10").show();
+	}
+	function func_contenedor_internos_3_28_48_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_11").show();
+	}
+	function func_contenedor_internos_3_28_48_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_12").show();
+	}
+	function func_contenedor_internos_3_28_48_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_13").show();
+	}
+	function func_contenedor_internos_3_28_48_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_14").show();
+	}
+	function func_contenedor_internos_3_28_48_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_15").show();
+	}
+	function func_contenedor_internos_3_28_48_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_16").show();
+	}
+	function func_contenedor_internos_3_28_48_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_17").show();
+	}
+	function func_contenedor_internos_3_28_48_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_18").show();
+	}
+	function func_contenedor_internos_3_28_48_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_19").show();
+	}
+	function func_contenedor_internos_3_28_48_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_20").show();
+	}
+	function func_contenedor_internos_3_28_48_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_21").show();
+	}
+	function func_contenedor_internos_3_28_48_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_22").show();
+	}
+	function func_contenedor_internos_3_28_48_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_23").show();
+	}
+	function func_contenedor_internos_3_28_48_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_24").show();
+	}
+	function func_contenedor_internos_3_28_48_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_25").show();
+	}
+	function func_contenedor_internos_3_28_48_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_26").show();
+	}
+	function func_contenedor_internos_3_28_48_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_27").show();
+	}
+	function func_contenedor_internos_3_28_48_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_28").show();
+	}
+	function func_contenedor_internos_3_28_48_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_48_29").show();
+	}
+
+
+/* 3_28_29 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_49_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49").show();
+	}
+	function func_contenedor_internos_3_28_49_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_01").show();
+	}
+	function func_contenedor_internos_3_28_49_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_02").show();
+	}
+	function func_contenedor_internos_3_28_49_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_03").show();
+	}
+	function func_contenedor_internos_3_28_49_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_04").show();
+	}
+	function func_contenedor_internos_3_28_49_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_05").show();
+	}
+	function func_contenedor_internos_3_28_49_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_06").show();
+	}
+	function func_contenedor_internos_3_28_49_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_07").show();
+	}
+	function func_contenedor_internos_3_28_49_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_08").show();
+	}
+	function func_contenedor_internos_3_28_49_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_09").show();
+	}
+	function func_contenedor_internos_3_28_49_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_10").show();
+	}
+	function func_contenedor_internos_3_28_49_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_11").show();
+	}
+	function func_contenedor_internos_3_28_49_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_12").show();
+	}
+	function func_contenedor_internos_3_28_49_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_13").show();
+	}
+	function func_contenedor_internos_3_28_49_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_14").show();
+	}
+	function func_contenedor_internos_3_28_49_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_15").show();
+	}
+	function func_contenedor_internos_3_28_49_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_16").show();
+	}
+	function func_contenedor_internos_3_28_49_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_17").show();
+	}
+	function func_contenedor_internos_3_28_49_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_18").show();
+	}
+	function func_contenedor_internos_3_28_49_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_19").show();
+	}
+	function func_contenedor_internos_3_28_49_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_20").show();
+	}
+	function func_contenedor_internos_3_28_49_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_21").show();
+	}
+	function func_contenedor_internos_3_28_49_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_22").show();
+	}
+	function func_contenedor_internos_3_28_49_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_23").show();
+	}
+	function func_contenedor_internos_3_28_49_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_24").show();
+	}
+	function func_contenedor_internos_3_28_49_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_25").show();
+	}
+	function func_contenedor_internos_3_28_49_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_26").show();
+	}
+	function func_contenedor_internos_3_28_49_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_27").show();
+	}
+	function func_contenedor_internos_3_28_49_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_28").show();
+	}
+	function func_contenedor_internos_3_28_49_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_49_29").show();
+	}
+
+
+/* 3_28_40 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_50_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50").show();
+	}
+	function func_contenedor_internos_3_28_50_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_01").show();
+	}
+	function func_contenedor_internos_3_28_50_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_02").show();
+	}
+	function func_contenedor_internos_3_28_50_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_03").show();
+	}
+	function func_contenedor_internos_3_28_50_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_04").show();
+	}
+	function func_contenedor_internos_3_28_50_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_05").show();
+	}
+	function func_contenedor_internos_3_28_50_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_06").show();
+	}
+	function func_contenedor_internos_3_28_50_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_07").show();
+	}
+	function func_contenedor_internos_3_28_50_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_08").show();
+	}
+	function func_contenedor_internos_3_28_50_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_09").show();
+	}
+	function func_contenedor_internos_3_28_50_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_10").show();
+	}
+	function func_contenedor_internos_3_28_50_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_11").show();
+	}
+	function func_contenedor_internos_3_28_50_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_12").show();
+	}
+	function func_contenedor_internos_3_28_50_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_13").show();
+	}
+	function func_contenedor_internos_3_28_50_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_14").show();
+	}
+	function func_contenedor_internos_3_28_50_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_15").show();
+	}
+	function func_contenedor_internos_3_28_50_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_16").show();
+	}
+	function func_contenedor_internos_3_28_50_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_17").show();
+	}
+	function func_contenedor_internos_3_28_50_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_18").show();
+	}
+	function func_contenedor_internos_3_28_50_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_19").show();
+	}
+	function func_contenedor_internos_3_28_50_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_20").show();
+	}
+	function func_contenedor_internos_3_28_50_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_21").show();
+	}
+	function func_contenedor_internos_3_28_50_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_22").show();
+	}
+	function func_contenedor_internos_3_28_50_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_23").show();
+	}
+	function func_contenedor_internos_3_28_50_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_24").show();
+	}
+	function func_contenedor_internos_3_28_50_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_25").show();
+	}
+	function func_contenedor_internos_3_28_50_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_26").show();
+	}
+	function func_contenedor_internos_3_28_50_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_27").show();
+	}
+	function func_contenedor_internos_3_28_50_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_28").show();
+	}
+	function func_contenedor_internos_3_28_50_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_50_29").show();
+	}
+
+
+
+/* 3_28_21 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_51_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51").show();
+	}
+	function func_contenedor_internos_3_28_51_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_01").show();
+	}
+	function func_contenedor_internos_3_28_51_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_02").show();
+	}
+	function func_contenedor_internos_3_28_51_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_03").show();
+	}
+	function func_contenedor_internos_3_28_51_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_04").show();
+	}
+	function func_contenedor_internos_3_28_51_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_05").show();
+	}
+	function func_contenedor_internos_3_28_51_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_06").show();
+	}
+	function func_contenedor_internos_3_28_51_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_07").show();
+	}
+	function func_contenedor_internos_3_28_51_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_08").show();
+	}
+	function func_contenedor_internos_3_28_51_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_09").show();
+	}
+	function func_contenedor_internos_3_28_51_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_10").show();
+	}
+	function func_contenedor_internos_3_28_51_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_11").show();
+	}
+	function func_contenedor_internos_3_28_51_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_12").show();
+	}
+	function func_contenedor_internos_3_28_51_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_13").show();
+	}
+	function func_contenedor_internos_3_28_51_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_14").show();
+	}
+	function func_contenedor_internos_3_28_51_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_15").show();
+	}
+	function func_contenedor_internos_3_28_51_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_16").show();
+	}
+	function func_contenedor_internos_3_28_51_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_17").show();
+	}
+	function func_contenedor_internos_3_28_51_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_18").show();
+	}
+	function func_contenedor_internos_3_28_51_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_19").show();
+	}
+	function func_contenedor_internos_3_28_51_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_20").show();
+	}
+	function func_contenedor_internos_3_28_51_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_21").show();
+	}
+	function func_contenedor_internos_3_28_51_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_22").show();
+	}
+	function func_contenedor_internos_3_28_51_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_23").show();
+	}
+	function func_contenedor_internos_3_28_51_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_24").show();
+	}
+	function func_contenedor_internos_3_28_51_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_25").show();
+	}
+	function func_contenedor_internos_3_28_51_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_26").show();
+	}
+	function func_contenedor_internos_3_28_51_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_27").show();
+	}
+	function func_contenedor_internos_3_28_51_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_28").show();
+	}
+	function func_contenedor_internos_3_28_51_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_51_29").show();
+	}
+
+
+/* 3_28_22 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+	function func_contenedor_internos_3_28_52_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52").show();
+	}
+	function func_contenedor_internos_3_28_52_01_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_01").show();
+	}
+	function func_contenedor_internos_3_28_52_02_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_02").show();
+	}
+	function func_contenedor_internos_3_28_52_03_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_03").show();
+	}
+	function func_contenedor_internos_3_28_52_04_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_04").show();
+	}
+	function func_contenedor_internos_3_28_52_05_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_05").show();
+	}
+	function func_contenedor_internos_3_28_52_06_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_06").show();
+	}
+	function func_contenedor_internos_3_28_52_07_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_07").show();
+	}
+	function func_contenedor_internos_3_28_52_08_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_08").show();
+	}
+	function func_contenedor_internos_3_28_52_09_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_09").show();
+	}
+	function func_contenedor_internos_3_28_52_10_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_10").show();
+	}
+	function func_contenedor_internos_3_28_52_11_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_11").show();
+	}
+	function func_contenedor_internos_3_28_52_12_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_12").show();
+	}
+	function func_contenedor_internos_3_28_52_13_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_13").show();
+	}
+	function func_contenedor_internos_3_28_52_14_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_14").show();
+	}
+	function func_contenedor_internos_3_28_52_15_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_15").show();
+	}
+	function func_contenedor_internos_3_28_52_16_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_16").show();
+	}
+	function func_contenedor_internos_3_28_52_17_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_17").show();
+	}
+	function func_contenedor_internos_3_28_52_18_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_18").show();
+	}
+	function func_contenedor_internos_3_28_52_19_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_19").show();
+	}
+	function func_contenedor_internos_3_28_52_20_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_20").show();
+	}
+	function func_contenedor_internos_3_28_52_21_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_21").show();
+	}
+	function func_contenedor_internos_3_28_52_22_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_22").show();
+	}
+	function func_contenedor_internos_3_28_52_23_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_23").show();
+	}
+	function func_contenedor_internos_3_28_52_24_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_24").show();
+	}
+	function func_contenedor_internos_3_28_52_25_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_25").show();
+	}
+	function func_contenedor_internos_3_28_52_26_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_26").show();
+	}
+	function func_contenedor_internos_3_28_52_27_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_27").show();
+	}
+	function func_contenedor_internos_3_28_52_28_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_28").show();
+	}
+	function func_contenedor_internos_3_28_52_29_folder(){
+    	$("#bc_mp_procesos").hide();
+    	$(".contenedor_interno").hide();
+		$("#contenedor_internos_3_28_52_29").show();
 	}
