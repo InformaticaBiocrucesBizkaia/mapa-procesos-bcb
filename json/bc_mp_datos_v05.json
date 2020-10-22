@@ -2438,27 +2438,7 @@
 					"url":"",
 					"tipo":"folder",
 					"extension":"",
-					"subnivel":	[
-						{
-							"nivel":"3_09_01",
-							"nombre":"Gestion de estancia. Incorporacion estudiantes",
-							"codigoBC":"PO.01-PR.06",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_09_01_01",
-									"nombre":"Solicitud practicas grado",
-									"codigoBC":"AX01_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b74efc8e-44c7-4aa7-85d6-6170d8a49bc7",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								}
-							]
-						}
-					]
+					"subnivel":	[]
 				},
 				{
 					"nivel":"3_21",
