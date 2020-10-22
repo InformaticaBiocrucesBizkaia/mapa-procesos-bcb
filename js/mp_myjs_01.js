@@ -482,7 +482,7 @@ $(document).ready(function(){
                             }
                             else{
                                 if (datos_indiv.extension == "jpg"){
-                                    txt_subprocesos_individual1.addClass("bc_mp_icon_jpg");
+                                    txt_subprocesos_individual1.addClass("bc_mp_icon_img");
                             
                                     var txt_subprocesos_individual25 = "";
                                     txt_subprocesos_individual25 = $("<a>");
