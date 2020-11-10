@@ -224,7 +224,7 @@
 				},
 				{
 					"nivel":"1_02",
-					"nombre":"Gestión, alianzas y convenios",
+					"nombre":"Alianzas y coordinación con agentes biosanitarios, empresas, agentes sociales e instituciones",
 					"codigoBC":"",
 					"url":"",
 					"tipo":"folder",
@@ -2151,6 +2151,25 @@
 									"nombre":"Acceso de visitas",
 									"codigoBC":"PO.10-PR.01",
 									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f6e677a4-b668-4edc-a111-5e6a794bf246",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},						
+						{
+							"nivel":"3_07_15",
+							"nombre":"Comunicación al servicio de prevención ajeno",
+							"codigoBC":"PO.14-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_15_01",
+									"nombre":"Comunicación con el servicio de prevención ajeno",
+									"codigoBC":"PO.14-PR.01",
+									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d167d2f0-dcef-4c7a-8699-120acfac7b0e",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7238,6 +7257,16 @@
 								}
 							]
 						}
+					]
+				},
+				{
+					"nivel":"3_33",
+					"nombre":"Impresión 3D",
+					"codigoBC":"",
+					"url":"",
+					"tipo":"folder",
+					"extension":"",
+					"subnivel":	[
 					]
 				}
 			]
