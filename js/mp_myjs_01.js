@@ -424,7 +424,7 @@ $(document).ready(function(){
                 /*txt_subprocesos_individual21.attr("id","contenedor_internos_"+datos_indiv.nivel);
                 txt_subprocesos_individual21.attr("onclick","func_contenedor_internos_"+datos_indiv.nivel+"()");*/
 
-                console.log(datos_indiv.codigoBC);
+                // console.log(datos_indiv.codigoBC);
                 if (datos_indiv.codigoBC == ""){
                     txt_subprocesos_individual21.text(datos_indiv.nombre);
                 }
