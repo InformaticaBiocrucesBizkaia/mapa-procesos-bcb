@@ -172,43 +172,103 @@
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_01").show();
 			}
-
 		 	function func_mapa_3_02(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_02").show();
 		 	}
-			
 			function func_mapa_3_03(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_03").show();
 		    }
-
 			function func_mapa_3_04(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_04").show();
 			}
-
 		 	function func_mapa_3_05(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_05").show();
 		 	}
-
 			function func_mapa_3_06(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_06").show();
 		    }
-
 		 	function func_mapa_3_07(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_07").show();
 		    }
+		    function func_mapa_3_08(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_08").show();
+			}
+		 	function func_mapa_3_09(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_09").show();
+		 	}
+			
+			function func_mapa_3_10(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_10").show();
+		    }
+			function func_mapa_3_11(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_11").show();
+			}
+		 	function func_mapa_3_12(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_12").show();
+		 	}
+			function func_mapa_3_13(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_13").show();
+		    }
+		 	function func_mapa_3_14(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_14").show();
+		    }
+		    function func_mapa_3_15(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_15").show();
+		    }
+			function func_mapa_3_16(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_16").show();
+			}
+		 	function func_mapa_3_17(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_17").show();
+		 	}
+			function func_mapa_3_18(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_18").show();
+		    }
+		 	function func_mapa_3_19(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_19").show();
+		    }
 
+		 	function func_mapa_3_20(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_20").show();
+		    }
 			function func_mapa_3_21(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
@@ -255,49 +315,160 @@
 				$("#contenedor_internos_3_29").show();
 		    }
 
+		    function func_mapa_3_30(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_30").show();
+		    }
+			function func_mapa_3_31(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_31").show();
+		    }
+		 	function func_mapa_3_32(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_32").show();
+			}
+			function func_mapa_3_33(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_33").show();
+		 	}
+		 	function func_mapa_3_34(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_34").show();
+		    }
+		 	function func_mapa_3_35(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_35").show();
+			}
+		 	function func_mapa_3_36(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_36").show();
+		    }
+		 	function func_mapa_3_37(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_37").show();
+			}
+			function func_mapa_3_38(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_38").show();
+		 	}
+		 	function func_mapa_3_39(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_39").show();
+		    }
+
 	    /* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
 		    function func_contenedor_internos_3_01_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_01").show();
 			}
-
 		 	function func_contenedor_internos_3_02_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_02").show();
 		 	}
-			
 			function func_contenedor_internos_3_03_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_03").show();
 		    }
-
 			function func_contenedor_internos_3_04_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_04").show();
 			}
-
 		 	function func_contenedor_internos_3_05_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_05").show();
 		 	}
-
 			function func_contenedor_internos_3_06_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_06").show();
 		    }
-
 		 	function func_contenedor_internos_3_07_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_07").show();
 		    }
+		 	function func_contenedor_internos_3_08_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_08").show();
+		 	}
+			function func_contenedor_internos_3_09_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_09").show();
+		    }
 
+		 	function func_contenedor_internos_3_10_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_10").show();
+		    }
+		 	function func_contenedor_internos_3_11_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_11").show();
+		    }
+		 	function func_contenedor_internos_3_12_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_12").show();
+		    }
+		 	function func_contenedor_internos_3_13_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_13").show();
+		    }
+		 	function func_contenedor_internos_3_14_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_14").show();
+		    }
+		 	function func_contenedor_internos_3_15_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_15").show();
+		    }
+		 	function func_contenedor_internos_3_16_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_16").show();
+		    }
+		 	function func_contenedor_internos_3_17_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_17").show();
+		    }
+		 	function func_contenedor_internos_3_18_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_18").show();
+		    }
+		 	function func_contenedor_internos_3_19_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_19").show();
+		    }
+
+		 	function func_contenedor_internos_3_20_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_20").show();
+		    }
 			function func_contenedor_internos_3_21_folder(){
 		    	$("#bc_mp_procesos").hide();
 		    	$(".contenedor_interno").hide();
@@ -343,6 +514,58 @@
 		    	$(".contenedor_interno").hide();
 				$("#contenedor_internos_3_29").show();
 		    }
+
+		 	function func_contenedor_internos_3_30_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_30").show();
+		    }
+		 	function func_contenedor_internos_3_31_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_31").show();
+		    }
+		 	function func_contenedor_internos_3_32_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_32").show();
+		    }
+		 	function func_contenedor_internos_3_33_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_33").show();
+		    }
+			function func_contenedor_internos_3_34_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_34").show();
+		    }
+		 	function func_contenedor_internos_3_35_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_35").show();
+			}
+		 	function func_contenedor_internos_3_36_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_36").show();
+		    }
+		 	function func_contenedor_internos_3_37_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_37").show();
+			}
+			function func_contenedor_internos_3_38_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_38").show();
+		 	}
+		 	function func_contenedor_internos_3_39_folder(){
+		    	$("#bc_mp_procesos").hide();
+		    	$(".contenedor_interno").hide();
+				$("#contenedor_internos_3_39").show();
+		    }
+
 	
 	/* 1_01 - Apartado Procesos estratégicos - Nivel 1 - Plan estrategico*/
 		function func_contenedor_internos_1_01_01_folder(){
@@ -872,11 +1095,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_02_02").show();
 		}
-			function func_contenedor_internos_3_02_02_09_folder(){
-		    	$("#bc_mp_procesos").hide();
-		    	$(".contenedor_interno").hide();
-				$("#contenedor_internos_3_02_02_09").show();
-			}
+			// function func_contenedor_internos_3_02_02_09_folder(){
+		 //    	$("#bc_mp_procesos").hide();
+		 //    	$(".contenedor_interno").hide();
+			// 	$("#contenedor_internos_3_02_02_09").show();
+			// }
 		function func_contenedor_internos_3_02_03_folder(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
@@ -1197,6 +1420,56 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_07_09").show();
 		}
+		function func_contenedor_internos_3_07_10_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_10").show();
+		}
+		function func_contenedor_internos_3_07_11_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_11").show();
+		}
+		function func_contenedor_internos_3_07_12_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_12").show();
+		}
+		function func_contenedor_internos_3_07_13_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_13").show();
+		}
+		function func_contenedor_internos_3_07_14_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_14").show();
+		}
+		function func_contenedor_internos_3_07_15_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_15").show();
+		}
+		function func_contenedor_internos_3_07_16_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_16").show();
+		}
+		function func_contenedor_internos_3_07_17_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_17").show();
+		}
+		function func_contenedor_internos_3_07_18_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_18").show();
+		}
+		function func_contenedor_internos_3_07_19_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_07_19").show();
+		}
 			/* 3_08+ - SIN USO*/
 			/*
 				function func_contenedor_internos_3_08_folder(){
@@ -1236,6 +1509,527 @@
 			 	}
 		 	*/
 	 
+ 	/* 3_21 - Apartado Procesos de apoyo - Nivel 1 - Microscopía */
+ 		function func_contenedor_internos_3_21_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_01").show();
+		}
+		function func_contenedor_internos_3_21_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_02").show();
+		}
+		function func_contenedor_internos_3_21_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_03").show();
+		}
+		function func_contenedor_internos_3_21_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_04").show();
+		}
+		function func_contenedor_internos_3_21_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_05").show();
+		}
+		function func_contenedor_internos_3_21_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_06").show();
+		}
+		function func_contenedor_internos_3_21_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_07").show();
+		}
+		function func_contenedor_internos_3_21_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_08").show();
+		}
+		function func_contenedor_internos_3_21_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_09").show();
+		}
+		function func_contenedor_internos_3_21_10_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_10").show();
+		}
+		function func_contenedor_internos_3_21_11_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_11").show();
+		}
+		function func_contenedor_internos_3_21_12_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_12").show();
+		}
+		function func_contenedor_internos_3_21_13_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_13").show();
+		}
+		function func_contenedor_internos_3_21_14_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_14").show();
+		}
+
+	/* 3_22 - Apartado Procesos de apoyo - Nivel 1 - Genética-Genómica */
+		function func_contenedor_internos_3_22_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_01").show();
+		}
+		function func_contenedor_internos_3_22_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_02").show();
+		}
+		function func_contenedor_internos_3_22_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_03").show();
+		}
+		function func_contenedor_internos_3_22_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_04").show();
+		}
+		function func_contenedor_internos_3_22_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_05").show();
+		}
+		function func_contenedor_internos_3_22_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_06").show();
+		}
+		function func_contenedor_internos_3_22_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_07").show();
+		}
+		function func_contenedor_internos_3_22_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_08").show();
+		}
+		function func_contenedor_internos_3_22_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_22_09").show();
+		}
+
+	/* 3_23 - Apartado Procesos de apoyo - Nivel 1 - Citometría de flujo */
+		function func_contenedor_internos_3_23_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_01").show();
+		}
+		function func_contenedor_internos_3_23_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_02").show();
+		}
+		function func_contenedor_internos_3_23_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_03").show();
+		}
+		function func_contenedor_internos_3_23_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_04").show();
+		}
+		function func_contenedor_internos_3_23_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_05").show();
+		}
+		function func_contenedor_internos_3_23_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_06").show();
+		}
+		function func_contenedor_internos_3_23_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_07").show();
+		}
+		function func_contenedor_internos_3_23_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_08").show();
+		}
+		function func_contenedor_internos_3_23_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_23_09").show();
+		}
+
+	/* 3_24 - Apartado Procesos de apoyo - Nivel 1 - Cultivos celulares */
+		function func_contenedor_internos_3_24_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_01").show();
+		}
+		function func_contenedor_internos_3_24_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_02").show();
+		}
+		function func_contenedor_internos_3_24_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_03").show();
+		}
+		function func_contenedor_internos_3_24_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_04").show();
+		}
+		function func_contenedor_internos_3_24_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_05").show();
+		}
+		function func_contenedor_internos_3_24_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_06").show();
+		}
+		function func_contenedor_internos_3_24_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_07").show();
+		}
+		function func_contenedor_internos_3_24_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_08").show();
+		}
+		function func_contenedor_internos_3_24_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_24_09").show();
+		}
+
+	/* 3_25 - Apartado Procesos de apoyo - Nivel 1 - Metabolómica y proteómica */
+		function func_contenedor_internos_3_25_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_01").show();
+		}
+		function func_contenedor_internos_3_25_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_02").show();
+		}
+		function func_contenedor_internos_3_25_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_03").show();
+		}
+		function func_contenedor_internos_3_25_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_04").show();
+		}
+		function func_contenedor_internos_3_25_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_05").show();
+		}
+		function func_contenedor_internos_3_25_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_06").show();
+		}
+		function func_contenedor_internos_3_25_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_07").show();
+		}
+		function func_contenedor_internos_3_25_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_08").show();
+		}
+		function func_contenedor_internos_3_25_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_25_09").show();
+		}
+
+	/* 3_26 - Apartado Procesos de apoyo - Nivel 1 - Biomedicina cuantitativa */
+		function func_contenedor_internos_3_26_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_01").show();
+		}
+		function func_contenedor_internos_3_26_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_02").show();
+		}
+		function func_contenedor_internos_3_26_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_03").show();
+		}
+		function func_contenedor_internos_3_26_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_04").show();
+		}
+		function func_contenedor_internos_3_26_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_05").show();
+		}
+		function func_contenedor_internos_3_26_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_06").show();
+		}
+		function func_contenedor_internos_3_26_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_07").show();
+		}
+		function func_contenedor_internos_3_26_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_08").show();
+		}
+		function func_contenedor_internos_3_26_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_26_09").show();
+		}
+
+	/* 3_27 - Apartado Procesos de apoyo - Nivel 1 - Biobanco */
+		function func_contenedor_internos_3_27_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_01").show();
+		}
+		function func_contenedor_internos_3_27_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_02").show();
+		}
+		function func_contenedor_internos_3_27_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_03").show();
+		}
+		function func_contenedor_internos_3_27_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_04").show();
+		}
+		function func_contenedor_internos_3_27_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_05").show();
+		}
+		function func_contenedor_internos_3_27_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_06").show();
+		}
+		function func_contenedor_internos_3_27_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_07").show();
+		}
+		function func_contenedor_internos_3_27_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_08").show();
+		}
+		function func_contenedor_internos_3_27_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_27_09").show();
+		}
+
+	/* 3_28 - Apartado Procesos de apoyo - Nivel 1 - Animalario */
+		function func_contenedor_internos_3_28_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_01").show();
+		}
+		function func_contenedor_internos_3_28_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_02").show();
+		}
+		function func_contenedor_internos_3_28_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_03").show();
+		}
+		function func_contenedor_internos_3_28_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_04").show();
+		}
+		function func_contenedor_internos_3_28_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_05").show();
+		}
+		function func_contenedor_internos_3_28_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_06").show();
+		}
+		function func_contenedor_internos_3_28_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_07").show();
+		}
+		function func_contenedor_internos_3_28_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_08").show();
+		}
+		function func_contenedor_internos_3_28_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_28_09").show();
+		}
+
+	/* 3_29 - Apartado Procesos de apoyo - Nivel 1 - Bioinformática y estadística */
+		function func_contenedor_internos_3_29_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_01").show();
+		}
+		function func_contenedor_internos_3_29_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_02").show();
+		}
+		function func_contenedor_internos_3_29_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_03").show();
+		}
+		function func_contenedor_internos_3_29_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_04").show();
+		}
+		function func_contenedor_internos_3_29_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_05").show();
+		}
+		function func_contenedor_internos_3_29_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_06").show();
+		}
+		function func_contenedor_internos_3_29_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_07").show();
+		}
+		function func_contenedor_internos_3_29_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_08").show();
+		}
+		function func_contenedor_internos_3_29_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_29_09").show();
+		}
+
+
+ 	/* 3_20 - Apartado Procesos de apoyo - Nivel 1 - Microscopía */
+ 		function func_contenedor_internos_3_20_01_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_01").show();
+		}
+		function func_contenedor_internos_3_20_02_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_02").show();
+		}
+		function func_contenedor_internos_3_20_03_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_03").show();
+		}
+		function func_contenedor_internos_3_20_04_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_04").show();
+		}
+		function func_contenedor_internos_3_20_05_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_05").show();
+		}
+		function func_contenedor_internos_3_20_06_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_06").show();
+		}
+		function func_contenedor_internos_3_20_07_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_07").show();
+		}
+		function func_contenedor_internos_3_20_08_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_08").show();
+		}
+		function func_contenedor_internos_3_20_09_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_09").show();
+		}
+		function func_contenedor_internos_3_20_10_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_10").show();
+		}
+		function func_contenedor_internos_3_20_11_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_11").show();
+		}
+		function func_contenedor_internos_3_20_12_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_12").show();
+		}
+		function func_contenedor_internos_3_20_13_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_20_13").show();
+		}
+		function func_contenedor_internos_3_20_14_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3_21_14").show();
+		}
+
  	/* 3_21 - Apartado Procesos de apoyo - Nivel 1 - Microscopía */
  		function func_contenedor_internos_3_21_01_folder(){
 	    	$("#bc_mp_procesos").hide();
