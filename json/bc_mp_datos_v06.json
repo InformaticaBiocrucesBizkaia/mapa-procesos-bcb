@@ -6500,7 +6500,7 @@
 										{
 											"nivel":"3_28_09_02_01",
 											"nombre":"Normas básicas animalario",
-											"codigoBC":"AX01_PO.04-SPR.01 ",
+											"codigoBC":"AX01_PO.04-SPR.01",
 											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f3a5e3c1-190d-4b2e-b20d-0489c0b1e136",
 											"tipo":"file",
 											"extension":"doc",
@@ -6518,7 +6518,7 @@
 										{
 											"nivel":"3_28_09_02_03",
 											"nombre":"Normas de uso animalario",
-											"codigoBC":"PO.04-SPR.01 ",
+											"codigoBC":"PO.04-SPR.01",
 											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9e956e38-cc03-4e50-b3a6-19d087c3599c",
 											"tipo":"file",
 											"extension":"pdf",
@@ -6529,7 +6529,7 @@
 								{
 									"nivel":"3_28_09_03",
 									"nombre":"Vestimenta del personal en el sótano 1 de la Plataforma de animalario",
-									"codigoBC":"PO.20-SPR.01 ",
+									"codigoBC":"PO.20-SPR.01",
 									"url":"",
 									"tipo":"folder",
 									"extension":"",
@@ -6574,17 +6574,17 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_10_01_01",
-											"nombre":"Solicitud de Servicio",
-											"codigoBC":"AX01-PO.01-SPR01.02 ",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/464c8759-b35d-46fe-bf12-f6cc805476db",
+											"nombre":"Servicios de Animalario",
+											"codigoBC":"PO.01-SPR.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/84ddb495-7bd6-4ff4-90ad-b74d3b880bc9",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_10_01_02",
 											"nombre":"Solicitud de animales",
-											"codigoBC":"AX02-PO.01-SPR.01 ",
+											"codigoBC":"AX02-PO.01-SPR.01",
 											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/466f8832-27b0-4916-9cd8-180ef9267c85",
 											"tipo":"file",
 											"extension":"doc",
@@ -6592,11 +6592,11 @@
 										},
 										{
 											"nivel":"3_28_10_01_03",
-											"nombre":"Servicios de Animalario",
-											"codigoBC":"PO.01-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/84ddb495-7bd6-4ff4-90ad-b74d3b880bc9",
+											"nombre":"Formulario para importar rata o ratón de otros centros usuarios",
+											"codigoBC":"AX03-PO.01-SPR.01",
+											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a1ce7252-c8ad-405d-81c9-d345887800a5",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -6612,7 +6612,7 @@
 										{
 											"nivel":"3_28_10_02_01",
 											"nombre":"Solicitud de evaluación por el OEBA-CET",
-											"codigoBC":"AX01_PO.02-SPR.01 ",
+											"codigoBC":"AX01_PO.02-SPR.01",
 											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4d5e7d1b-92aa-45b8-95b3-e07b3f44504d",
 											"tipo":"file",
 											"extension":"doc",
