@@ -384,7 +384,7 @@
 				{
 					"nivel":"2_01",
 					"nombre":"Captación de fondos de financiación y asesoramiento",
-					"codigoBC":"SPR.10",
+					"codigoBC":"",
 					"url":"",
 					"tipo":"folder",
 					"extension":"",
@@ -2118,26 +2118,7 @@
 									"subnivel":	[]
 								}
 							]
-						},						
-						{
-							"nivel":"3_07_13",
-							"nombre":"Actuación en materia de prevencion laborales en IIS Biocruces",
-							"codigoBC":"PO.09-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_13_01",
-									"nombre":"Procedimiento de actuación en materia de prevencion laborales",
-									"codigoBC":"PO.09-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2c91ecac-d4cb-41d5-bd20-d8c176a3fcde",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},						
+						},	
 						{
 							"nivel":"3_07_14",
 							"nombre":"Acceso de visitas",
