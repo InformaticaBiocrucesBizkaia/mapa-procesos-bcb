@@ -1,5 +1,13 @@
 	
+	
 
+
+	/* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
+	    function func_contenedor_internos_1_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_1").show();
+		}
 
 	/* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
 	    function func_contenedor_internos_1_01_folder(){
@@ -162,6 +170,14 @@
 			$("#contenedor_internos_1_03_09").show();
 		}
 
+
+
+	/* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
+	    function func_contenedor_internos_2_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_2").show();
+		}
 
 
     /* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
@@ -534,6 +550,12 @@
 
 
 
+	/* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
+	    function func_contenedor_internos_3_folder(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_3").show();
+		}
 
 
     /* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
