@@ -604,11 +604,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_08").show();
 	 	}
-		function func_contenedor_internos_3_09_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_09").show();
-	    }
+		// function func_contenedor_internos_3_09_folder(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_3_09").show();
+	 //    }
 
 	 	function func_contenedor_internos_3_10_folder(){
 	    	$("#bc_mp_procesos").hide();
@@ -686,11 +686,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_24").show();
 	    }
-	 	function func_contenedor_internos_3_25_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_25").show();
-		}
+	 // 	function func_contenedor_internos_3_25_folder(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_3_25").show();
+		// }
 	 	function func_contenedor_internos_3_26_folder(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
@@ -706,11 +706,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_28").show();
 	 	}
-	 	function func_contenedor_internos_3_29_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_29").show();
-	    }
+	 	// function func_contenedor_internos_3_29_folder(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_3_29").show();
+	  //   }
 
 	 	function func_contenedor_internos_3_30_folder(){
 	    	$("#bc_mp_procesos").hide();
@@ -727,11 +727,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_32").show();
 	    }
-	 	function func_contenedor_internos_3_33_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_33").show();
-	    }
+	 	// function func_contenedor_internos_3_33_folder(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_3_33").show();
+	  //   }
 		function func_contenedor_internos_3_34_folder(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
