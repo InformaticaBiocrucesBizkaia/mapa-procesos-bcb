@@ -16,11 +16,11 @@
 			$("#contenedor_internos_1_01").show();
 		}
 
-		function func_contenedor_internos_1_02_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_1_02").show();
-	 	}
+		// function func_contenedor_internos_1_02_folder(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_1_02").show();
+	 // 	}
 
 	 	function func_contenedor_internos_1_03_folder(){
 	    	$("#bc_mp_procesos").hide();
@@ -181,16 +181,16 @@
 
 
     /* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
-		function func_contenedor_internos_2_01_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_2_01").show();
-		}
-		function func_contenedor_internos_2_02_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_2_02").show();
-	 	}
+		// function func_contenedor_internos_2_01_folder(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_2_01").show();
+		// }
+		// function func_contenedor_internos_2_02_folder(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_2_02").show();
+	 // 	}
 	 	function func_contenedor_internos_2_03_folder(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
@@ -211,11 +211,16 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_2_06").show();
 	    }
-	 	function func_contenedor_internos_2_07_folder(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_2_07").show();
-	    }
+	 	// function func_contenedor_internos_2_07_folder(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_2_07").show();
+	  //   }
+	 	// function func_contenedor_internos_2_08_folder(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_2_08").show();
+	  //   }
 
 
     /* 2_01 - Apartado Procesos operativos - Nivel 1 - Captación de fondos de financiación y asesoramiento */

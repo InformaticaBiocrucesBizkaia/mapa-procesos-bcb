@@ -11,11 +11,11 @@
 			$("#contenedor_internos_1").show();
 		}
 
-		// function func_mapa_2(){
-	 //    	$("#bc_mp_procesos").hide();
-	 //    	$(".contenedor_interno").hide();
-		// 	$("#contenedor_internos_2").show();
-	 // 	}
+		function func_mapa_2(){
+	    	$("#bc_mp_procesos").hide();
+	    	$(".contenedor_interno").hide();
+			$("#contenedor_internos_2").show();
+	 	}
 
 	 	function func_mapa_3(){
 	    	$("#bc_mp_procesos").hide();
@@ -82,11 +82,11 @@
 	  //   	$(".contenedor_interno").hide();
 			// $("#contenedor_internos_2_07").show();
 	  //   }
-	    function func_mapa_2_08(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_2_08").show();
-	    }
+	  //   function func_mapa_2_08(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_2_08").show();
+	  //   }
 
 
 	/* 3 - Apartado Procesos de apoyo - Nivel 0 */
@@ -131,11 +131,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_08").show();
 		}
-	 	function func_mapa_3_09(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_09").show();
-	 	}
+	 	// function func_mapa_3_09(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_3_09").show();
+	 	// }
 		
 		function func_mapa_3_10(){
 	    	$("#bc_mp_procesos").hide();
@@ -213,11 +213,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_24").show();
 	    }
-	 	function func_mapa_3_25(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_25").show();
-		}
+	 // 	function func_mapa_3_25(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_3_25").show();
+		// }
 	 	function func_mapa_3_26(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
@@ -233,11 +233,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_28").show();
 	 	}
-	 	function func_mapa_3_29(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_29").show();
-	    }
+	 	// function func_mapa_3_29(){
+	  //   	$("#bc_mp_procesos").hide();
+	  //   	$(".contenedor_interno").hide();
+			// $("#contenedor_internos_3_29").show();
+	  //   }
 
 	    function func_mapa_3_30(){
 	    	$("#bc_mp_procesos").hide();
@@ -254,11 +254,11 @@
 	    	$(".contenedor_interno").hide();
 			$("#contenedor_internos_3_32").show();
 		}
-		function func_mapa_3_33(){
-	    	$("#bc_mp_procesos").hide();
-	    	$(".contenedor_interno").hide();
-			$("#contenedor_internos_3_33").show();
-	 	}
+		// function func_mapa_3_33(){
+	 //    	$("#bc_mp_procesos").hide();
+	 //    	$(".contenedor_interno").hide();
+		// 	$("#contenedor_internos_3_33").show();
+	 // 	}
 	 	function func_mapa_3_34(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
