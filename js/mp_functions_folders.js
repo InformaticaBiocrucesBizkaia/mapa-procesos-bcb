@@ -550,7 +550,7 @@
 
 
 
-	/* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
+	/* Acceso desde el titulo en el modo carpeta */
 	    function func_contenedor_internos_3_folder(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
@@ -558,7 +558,7 @@
 		}
 
 
-    /* Acceso desde el titulo del mapa - El acceso desde el mapa se puede hacer de estas dos maneras diferenciadas */
+    /* Acceso desde el titulo en el modo mapa */
 	    function func_contenedor_internos_3_01_folder(){
 	    	$("#bc_mp_procesos").hide();
 	    	$(".contenedor_interno").hide();
