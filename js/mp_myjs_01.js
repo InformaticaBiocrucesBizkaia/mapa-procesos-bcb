@@ -11,7 +11,7 @@ $(document).ready(function(){
         return es_vacio;
     }
 
-    var requestURL = 'json/bc_mp_datos_v06.json';
+    var requestURL = 'json/bc_mp_datos_v01.json';
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = 'json';
@@ -298,6 +298,10 @@ $(document).ready(function(){
     }
 
 
+
+
+
+
     //NIVEL: mp.i.jj XXXX
     function mapaProcesos_contenido_procesos_niveles(jsonObj,cont1,dentro_de,padre_nivel,padre_nombre,padre_codigo){
         var datos_mp_fullcontent = jsonObj;
@@ -471,7 +475,7 @@ $(document).ready(function(){
                                 txt_subprocesos_individual1.addClass("bc_mp_icon_doc");
                         
                                 var txt_subprocesos_individual24 = "";
-                                txt_subprocesos_individual24 = $("<a>");
+                                txt_subprocesos_individual24 = $("<a/>");
                                 txt_subprocesos_individual24.attr("id","contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo);
                                 txt_subprocesos_individual24.attr("href",datos_indiv.url);
                                 txt_subprocesos_individual24.attr("target","_blank");
@@ -486,7 +490,7 @@ $(document).ready(function(){
                                     txt_subprocesos_individual1.addClass("bc_mp_icon_img");
                             
                                     var txt_subprocesos_individual25 = "";
-                                    txt_subprocesos_individual25 = $("<a>");
+                                    txt_subprocesos_individual25 = $("<a/>");
                                     txt_subprocesos_individual25.attr("id","contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo);
                                     txt_subprocesos_individual25.attr("href",datos_indiv.url);
                                     txt_subprocesos_individual25.attr("target","_blank");
