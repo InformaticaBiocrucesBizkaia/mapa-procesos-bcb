@@ -343,7 +343,7 @@
 									"nivel":"1_03_02_01",
 									"nombre":"Satisfacción del cliente",
 									"codigoBC":"PG.03",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c5ac3099-9578-4ac6-97ef-69e38968f258",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/255053/PG.03.02+Satisfacci%C3%B3n+del+cliente.pdf/42e20287-3aa1-9c2c-dde6-7e72888a978a?t=1623669766678",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -361,8 +361,8 @@
 								{
 									"nivel":"1_03_03_01",
 									"nombre":"Procedimiento de revisión interna",
-									"codigoBC":"PG.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a9e8a2d5-6d5f-4fe2-81b6-a8a097cee34e",
+									"codigoBC":"PG.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/255067/PG.04.01+Procedimiento+de+revisi%C3%B3n+interna.pdf/0bb1e85a-6aaa-9c23-9f68-206d1143e693?t=1623669785279",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
