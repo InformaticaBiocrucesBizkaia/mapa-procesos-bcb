@@ -11,7 +11,7 @@ $(document).ready(function(){
         return es_vacio;
     }
 
-    var requestURL = 'json/bc_mp_datos_v07.json';
+    var requestURL = 'json/bc_mp_datos_v08.json';
     var request = new XMLHttpRequest();
     request.open('GET', requestURL);
     request.responseType = 'json';
