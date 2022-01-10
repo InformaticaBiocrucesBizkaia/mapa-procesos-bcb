@@ -911,7 +911,7 @@
 							"nivel":"2_05_01",
 							"nombre":"Manual gestión Innovación Biocruces Bizkaia",
 							"codigoBC":"",
-							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d971e859-37e3-4809-aac7-d7db2f8c5dec",
+							"url":"https://www.biocrucesbizkaia.org/documents/254246/336517/MANUAL+GESTION+INNOVACION+OSI+BIOCRUCES.pdf/b84d0691-97ce-5974-0b6d-65794eb68bbb?t=1640273169155",
 							"tipo":"file",
 							"extension":"pdf",
 							"subnivel":	[]
@@ -920,7 +920,7 @@
 							"nivel":"2_05_02",
 							"nombre":"Procedimiento Bioef Protección y explotación de resultados",
 							"codigoBC":"",
-							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f7814380-a918-4e32-abce-eb4189bd163d",
+							"url":"https://www.biocrucesbizkaia.org/documents/254246/336517/Procedimiento+Bioef+Protecci%C3%B3n+y+explotaci%C3%B3n+de+resultados.pdf/f9f408da-30ed-a858-3042-95a532d5ee9a?t=1640273169717",
 							"tipo":"file",
 							"extension":"pdf",
 							"subnivel":	[]
@@ -929,7 +929,7 @@
 							"nivel":"2_05_03",
 							"nombre":"Proceso gestión Innovacion Biocruces Bizkaia",
 							"codigoBC":"",
-							"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/46799022-7e48-4f4b-acf7-da233cfa4d70",
+							"url":"https://www.biocrucesbizkaia.org/documents/254246/336517/Proceso+Innovaci%C3%B3n+OSI+EEC+-+IIS+BCB+2021.pdf/a71baeb8-eaf6-a49d-f199-44d2ffab125d?t=1640273172166",
 							"tipo":"file",
 							"extension":"pdf",
 							"subnivel":	[]
@@ -938,7 +938,7 @@
 				},
 				{
 					"nivel":"2_06",
-					"nombre":"Desarrollo y seguimiento",
+					"nombre":"Desarrollo y seguimiento en proyectos de innovación",
 					"codigoBC":"SPR.13",
 					"url":"",
 					"tipo":"folder",
@@ -946,161 +946,6 @@
 					"subnivel":	[
 						{
 							"nivel":"2_06_01",
-							"nombre":"Instrucciones investigador principal previas realizacion pedido de compra",
-							"codigoBC":"IT.01-SPR.13",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":	[
-								{
-									"nivel":"2_06_01_01",
-									"nombre":"Instrucciones previas a la realización del pedido de compra con cargo a proyecto",
-									"codigoBC":"IT.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0579eb9b-9dfe-4e73-97a6-66dec861512f",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_01_02",
-									"nombre":"Memoria de adquisición",
-									"codigoBC":"AX01-IT.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/52d54524-1910-41ed-a079-b3dd553162ae",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_01_03",
-									"nombre":"Informe técnico",
-									"codigoBC":"AX02-IT.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8d37aa5a-f923-4820-84a7-90936bdcdaaf",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_01_04",
-									"nombre":"Plantilla criterios de adjudicación",
-									"codigoBC":"AX03-IT.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2c2fa457-ede0-4769-9fad-026f80c9b952",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_01_05",
-									"nombre":"Certificado de solvencia tecnica",
-									"codigoBC":"AX04-IT.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8337bdcc-77de-4686-b648-cf1dae0fcf1a",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"2_06_02",
-							"nombre":"Instrucciones tramitaciones gastos cargo proyectos",
-							"codigoBC":"IT.02-SPR.13",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":	[
-								{
-									"nivel":"2_06_02_01",
-									"nombre":"Instrucciones para tramitación gastos con cargo proyectos",
-									"codigoBC":"IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/05ae0ee5-5ba9-4da7-8a1d-a88e24cfcee7",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_02",
-									"nombre":"Solicitud abono gastos miembros",
-									"codigoBC":"AX01-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f69681cb-8b21-4d68-9f10-a980e96ddfba",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_03",
-									"nombre":"Tarifas máximas alojamiento extranjero",
-									"codigoBC":"AX02-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31553ca0-a748-44f7-a27c-2a8cf6452bc5",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_04",
-									"nombre":"Liquidación de gastos de viaje",
-									"codigoBC":"AX03-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/560fe1cb-5059-4d82-a6d5-8bc408f51dea",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_05",
-									"nombre":"Tramitación de pagos de gastos sin factura",
-									"codigoBC":"AX04-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8d8e7a03-3466-4d16-b87d-20c375a3c90a",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_06",
-									"nombre":"Justificación viajes dietas cargo a ISCIII-MINECO",
-									"codigoBC":"AX05-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/51e56a74-dc08-4da3-b513-fb59e1a99a7f",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_07",
-									"nombre":"Guía de utilizacion de fondos",
-									"codigoBC":"AX06-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1051c9db-3e83-43a6-b4c2-a0584a247b88",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_08",
-									"nombre":"Liquidación gastos viaje ISCIII-MINECO",
-									"codigoBC":"AX07-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a9e29782-c750-49d6-b1c6-3b46e62270d9",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_09",
-									"nombre":"Instrucciones para tramitación gastos con cargo proyectos",
-									"codigoBC":"AX08-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/05ae0ee5-5ba9-4da7-8a1d-a88e24cfcee7",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_02_10",
-									"nombre":"Indemnización Por Razón Servicio",
-									"codigoBC":"AX09-IT.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3bffed76-7337-40fa-9d85-ae94a3f1d83b",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}								
-							]
-						},
-						{
-							"nivel":"2_06_03",
 							"nombre":"Gestion de memorias de proyectos",
 							"codigoBC":"PO.01-SPR.13",
 							"url":"",
@@ -1108,10 +953,10 @@
 							"extension":"",
 							"subnivel":	[
 								{
-									"nivel":"2_06_03_01",
-									"nombre":"Gestión de Memorias de proyectos",
+									"nivel":"2_06_01_01",
+									"nombre":"Gestión de memorias de proyectos",
 									"codigoBC":"PO.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8e7439eb-9dd4-4aba-b678-21cb6050fa4d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345174/PO.01-SPR.13.02+-+Gesti%C3%B3n+de+memorias+de+proyectos.pdf/7a3417ad-2330-0f4c-5951-a7f3e0e8eaef?t=1641811865376",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -1119,7 +964,7 @@
 							]
 						},
 						{
-							"nivel":"2_06_04",
+							"nivel":"2_06_02",
 							"nombre":"Modificacion de proyectos de convocatorias publicas",
 							"codigoBC":"PO.02-SPR.13",
 							"url":"",
@@ -1127,142 +972,271 @@
 							"extension":"",
 							"subnivel":	[
 								{
-									"nivel":"2_06_04_02",
+									"nivel":"2_06_02_01",
+									"nombre":"Modificación de proyectos de convocatorias públicas",
+									"codigoBC":"PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/PO.02-SPR.13.03+Modificaci%C3%B3n+de+proyectos+de+convocatorias+p%C3%BAblicas.pdf/e492ec59-8022-e4c1-3e53-694df36b1077?t=1641811929753",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_02",
 									"nombre":"Solicitud BAJA miembro del equipo investigador",
 									"codigoBC":"AX02-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/833d7478-9f39-46c2-8014-9422e2311bfe",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX02_PO.02-SPR.13.03+Solicitud+BAJA+miembro+del+equipo+investigador.docx/19d0d8b4-7f7d-7a7a-faf3-1e444cac9d15?t=1641811929930",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_03",
+									"nombre":"Solicitud ALTA miembro equipo investigador",
+									"codigoBC":"AX03-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX03_PO.02-SPR.13.02+Solicitud+ALTA+miembro+equipo+investigador.docx/2ea1a147-bccc-af5c-e5ab-7e4c2a93e1c7?t=1641811926151",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_04",
+									"nombre":"Solicitud de autorización de gasto a la agencia financiadora",
+									"codigoBC":"AX04-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX04_PO.02-SPR.13.03+Solicitud+de+autorizaci%C3%B3n+de+gasto+a+la+agencia+financiadora.docx/04f62f48-dee1-59d9-462a-8965368199aa?t=1641811928147",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_05",
+									"nombre":"Instrucciones cumplimentacion autorización gasto",
+									"codigoBC":"AX05-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX05_PO.02-SPR.13.02+Instrucciones+cumplimentacion+autorizaci%C3%B3n+gasto.pdf/8dc63492-c1b3-461c-b45d-a74500b15283?t=1641811928337",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_06",
+									"nombre":"Solicitud de prorroga de proyecto",
+									"codigoBC":"AX06-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX06_PO.02-SPR.13.02+Solicitud+de+prorroga+proyecto.docx/2bcc388f-ae3b-3111-5db9-13722db01234?t=1641811928494",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_07",
+									"nombre":"Instrucciones cumplimentacion solicitud prorroga proyecto",
+									"codigoBC":"AX07-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX07_PO.02-SPR.13.02+Instrucciones+cumplimentacion+solicitud+prorroga+proyecto.pdf/5e4fef69-d73d-8447-f1e4-1743f5000b66?t=1641811928721",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_08",
+									"nombre":"Solicitud cambio partida presupuestaria",
+									"codigoBC":"AX08-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX08_PO.02-SPR.13.02+Solicitud+cambio+partida+presupuestaria.docx/4529fb72-f242-0ba9-4f20-c1e8edb616cd?t=1641811928930",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_09",
+									"nombre":"Instrucciones cumplimentacion solicitud cambio de partida presupuestaria",
+									"codigoBC":"AX09-PO.01-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX09_PO.02-SPR.13.02+Instr+cumplimentacion+solicitud+cambio+de+partida+presupuestaria.pdf/17ee6e46-f4dd-6440-2f0f-4084874c20d6?t=1641811929152",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_10",
+									"nombre":"Instrucciones cumplimentacion solicitud alta equipo investigador",
+									"codigoBC":"AX10-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX10_PO.02-SPR.13.02+Instrucciones+cumplimentacion+solicitud+alta+equipo+investigador.pdf/79e48f6d-934f-0ac5-6486-d5796432ab07?t=1641811929337",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_02_11",
+									"nombre":"Instrucciones cumplimentacion de la solicitud baja miembro investigador",
+									"codigoBC":"AX11-PO.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345178/AX11_PO.02-SPR.13.02+Instr+cumplimentacion+de+la+solicitud+baja+investigador.pdf/3f1779e4-44c2-a979-3e1e-92cf42a5a245?t=1641811929562",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"2_06_03",
+							"nombre":"Instrucciones investigador principal previas realizacion pedido de compra",
+							"codigoBC":"IT.01-SPR.13",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":	[
+								{
+									"nivel":"2_06_03_01",
+									"nombre":"Instrucciones básicas previas a la realización del pedido de compra para proyectos gestionados por el Instituto",
+									"codigoBC":"IT.01-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345181/IT.01-SPR.13.04+Instr+IPs+previas+a+compra.pdf/d3ccc065-b40e-8bb3-d8de-5ca1d3e314b9?t=1641811973760",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_03_02",
+									"nombre":"Memoria de adquisición",
+									"codigoBC":"AX01-IT.01-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345181/AX01+IT.01-SPR.13.03+Memoria+de+adquisici%C3%B3n.docx/f7721d22-316b-fdf0-15d7-9085df5850bf?t=1641811973893",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_03_03",
+									"nombre":"Informe técnico",
+									"codigoBC":"AX02-IT.01-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345181/AX02_IT.01-SPR.13.02+Informe+t%C3%A9cnico.docx/a508d9a7-7941-bede-cca9-229187cd5eef?t=1641811971189",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_03_04",
+									"nombre":"Plantilla criterios de adjudicación",
+									"codigoBC":"AX03-IT.01-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345181/AX03-IT.01-SPR+13.02+Plantilla+criterios+de+adjudicacion.xls/615db41a-1b31-f1d2-4392-4fad77eb72b7?t=1641811971387",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_03_05",
+									"nombre":"Certificado de solvencia técnica",
+									"codigoBC":"AX04-IT.01-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345181/AX04_IT.01-SPR.13.02+Certificado+de+solvencia+t%C3%A9cnica.docx/58f98245-e81a-b073-4d94-213f8d327891?t=1641811973577",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"2_06_04",
+							"nombre":"Instrucciones tramitaciones gastos cargo proyectos",
+							"codigoBC":"IT.02-SPR.13",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":	[
+								{
+									"nivel":"2_06_04_01",
+									"nombre":"Instrucciones para tramitación gastos con cargo a proyectos gestionados por el Instituto",
+									"codigoBC":"IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/IT.02-SPR.13.09+Instrucciones+tramitaci%C3%B3n+de+gastos+con+cargo+a+proyectos.pdf/1d0d7319-94d4-7f34-b995-a3d4c9a9d58d?t=1641812019460",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_04_02",
+									"nombre":"Solicitud abono gastos miembros",
+									"codigoBC":"AX01-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX01_IT.02-SPR.13.03+Solicitud+de+abono+gastos.docx/4884e2f8-9434-b063-0a50-db77057710bc?t=1641812019751",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_06_04_03",
-									"nombre":"Solicitud ALTA miembro equipo investigador",
-									"codigoBC":"AX03-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5c64bdeb-cdad-4228-a1cd-91a9a303c2db",
+									"nombre":"Tarifas máximas alojamiento extranjero",
+									"codigoBC":"AX02-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX02_IT.02-SPR.13.03+Tarifas+m%C3%A1x+alojamiento+extranjero.pdf/55a6a813-9612-1b3c-fd92-d6533b29575e?t=1641812023723",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_06_04_04",
-									"nombre":"Solicitud de autorización de gasto a la agencia financiadora",
-									"codigoBC":"AX04-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/73ac7acf-32dc-4705-9bd5-bbcafcbfd864",
+									"nombre":"Liquidación de gastos de viaje",
+									"codigoBC":"AX03-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX03_IT.02-SPR.13.04+Liquidacion+gastos+viaje.xlsx/8e915823-c348-b03c-90ff-aa5b1d94fa4e?t=1641812023983",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"xls",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_06_04_05",
-									"nombre":"Instrucciones cumplimentacion solicitud autorización gasto",
-									"codigoBC":"AX05-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f3fcb2ca-7eea-4194-adc8-5b64ed27268c",
+									"nombre":"Tramitación de pagos de gastos sin factura",
+									"codigoBC":"AX04-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX04_IT.02-SPR.13.06+Tramitaci%C3%B3n+de+gastos+menores+o+sin+factura.docx/c613ede4-413f-54bb-fd13-0796225d73be?t=1641812024172",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_06_04_06",
-									"nombre":"Instrucciones cumplimentacion solicitud autorización gasto",
-									"codigoBC":"AX05-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1ce97ff7-6d5a-4f84-9fa3-530cdc0495b2",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_07",
-									"nombre":"Solicitud de prorroga de proyecto",
-									"codigoBC":"AX06-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cd7fa45d-30e0-4273-b778-4b9e079803fd",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_08",
-									"nombre":"Instrucciones cumplimentacion solicitud prorroga proyecto",
-									"codigoBC":"AX07-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/36dc2efe-aa46-4ed8-9a39-14fba557b3ff",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_09",
-									"nombre":"Instrucciones cumplimentacion solicitud prorroga proyecto",
-									"codigoBC":"AX07-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b3a3754e-484e-49be-aed8-628e7a07822b",
+									"nombre":"Justificación viajes dietas cargo a ISCIII-MINECO",
+									"codigoBC":"AX05-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX05_IT.02-SPR.13.03+Just+viajes+y+dietas+a+cargo+de+ISCIII%2C+MINECO.pdf/a5c32a84-d8aa-1d7e-14be-43155731d996?t=1641812017555",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
+									"nivel":"2_06_04_07",
+									"nombre":"Guía de utilizacion de fondos",
+									"codigoBC":"AX06-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX06_IT.02-SPR.13.04+Gu%C3%ADa+de+utilizaci%C3%B3n+de+fondos.pdf/cbee8d57-9e42-3c50-e918-98af9caa0f86?t=1641812017867",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_04_08",
+									"nombre":"Liquidación gastos viaje ISCIII-MINECO",
+									"codigoBC":"AX07-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX07_IT.02-SPR.13.03+Liquidacion+gastos+viaje+ISCIII+MINECO.xlsx/3a647480-4ae5-47d9-ecce-57cb77a7e846?t=1641812018172",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_06_04_09",
+									"nombre":"Solicitud gasto por servicios externos",
+									"codigoBC":"AX09-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX09_IT02-SPR.13.03+Solicitud+gasto+por+servicios+externos.docx/573c83f2-f91f-9199-9dd0-00a6ae4ac2a0?t=1641812018523",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
 									"nivel":"2_06_04_10",
-									"nombre":"Solicitud cambio partida presupuestaria",
-									"codigoBC":"AX08-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8186ebc1-bc2f-41d9-8225-89e2f7c4f4db",
+									"nombre":"Compromiso de financiación",
+									"codigoBC":"AX10-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX10_IT.02-SPR.13.01+Compromiso+de+financiaci%C3%B3n.docx/8ca9e8e0-bbf3-cb5d-aba9-9ba504c0c71c?t=1641812018886",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_06_04_11",
-									"nombre":"Instr. cumplimentacion solicitud cambio de partida presupuestaria",
-									"codigoBC":"AX09-PO.01-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2da18a0b-0f92-4ca9-b195-575bb52b865c",
+									"nombre":"Solicitud de gasto de servicio de autónomo",
+									"codigoBC":"AX11-IT.02-SPR.13",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345184/AX11_IT.02-SPR.13.01+Solicitud+de+gasto+de+servicio+de+aut%C3%B3nomo.docx/de4b9953-358c-8883-eba1-1f57b72aacdb?t=1641812019157",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_12",
-									"nombre":"Instrucciones cumplimentacion solicitud alta equipo investigador",
-									"codigoBC":"AX10-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5c701334-a837-4ebd-ac8a-f5af590ff0b1",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_13",
-									"nombre":"Instrucciones cumplimentacion solicitud alta equipo investigador",
-									"codigoBC":"AX10-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0b1252f8-f41a-43b9-8def-1cea15b0b16b",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_14",
-									"nombre":"Instr. cumplimentacion de la solicitud baja miembro investigador",
-									"codigoBC":"AX11-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/00187860-ff76-48b0-860f-aed884b6e301",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_15",
-									"nombre":"Instr. cumplimentacion de la solicitud baja miembro investigador",
-									"codigoBC":"AX11-PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/745b75cb-b4a7-4759-971d-ea1021d474c4",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_06_04_16",
-									"nombre":"Modificacion de las condiciones iniciales de los proyectos",
-									"codigoBC":"PO.02-SPR.13",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5b380c81-7d5a-424a-b6f8-b0cd08e76895",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
+								}								
 							]
-						}
+						},
+						
 					]
 				},
 				{
@@ -1303,25 +1277,6 @@
 					"subnivel":[
 						{
 							"nivel":"3_01_01",
-							"nombre":"Instrucciones para acceso al edificio fuera de horario laboral",
-							"codigoBC":"IT.01-PR.03",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_01_01_01",
-									"nombre":"Instrucciones acceso al edificio fuera de horario laboral",
-									"codigoBC":"IT.01-PR.03",
-									"url":"https://www.biocrucesbizkaia.org/documents/254246/335762/IT.01-PR.03.04+Instrucciones+acceso+al+edicio+fuera+del+horario.docx/d2740bc9-6bc7-aa2d-5d40-f893cf119270?t=1640272285179",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_01_02",
 							"nombre":"Normas generales uso instalaciones y equipamientos",
 							"codigoBC":"PO.01-PR.03",
 							"url":"",
@@ -1329,19 +1284,38 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_01_02_01",
+									"nivel":"3_01_01_01",
+									"nombre":"Normas generales en instalaciones y equipamientos comunes",
+									"codigoBC":"PO.01-PR.03.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/335765/PO.01-PR.03.01+Normas+generales+en+instalaciones+y+equipamientos+comunes.pdf/0c40517e-e1c1-0258-3a6d-6ef2e1b84c8a?t=1640272392715",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_01_01_02",
 									"nombre":"Inventario productos químicos",
 									"codigoBC":"AX01_PO.01-PR.03.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335765/AX01_PO.01-PR.03.01_+Inventario_productos_quimicos.xlsx/458dda46-e27b-77c2-5993-0bb6e85d0c93?t=1640272392865",
 									"tipo":"file",
 									"extension":"xls",
 									"subnivel":	[]
-								},
+								}
+							]
+						},
+						{
+							"nivel":"3_01_02",
+							"nombre":"Criterios para la consideracion de bienes inventariables",
+							"codigoBC":"PO.02-PR.03",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
 								{
-									"nivel":"3_01_02_02",
-									"nombre":"Normas generales en instalaciones y equipamientos comunes",
-									"codigoBC":"PO.01-PR.03.01",
-									"url":"https://www.biocrucesbizkaia.org/documents/254246/335765/PO.01-PR.03.01+Normas+generales+en+instalaciones+y+equipamientos+comunes.pdf/0c40517e-e1c1-0258-3a6d-6ef2e1b84c8a?t=1640272392715",
+									"nivel":"3_01_02_01",
+									"nombre":"Criterios para los bienes inventariables",
+									"codigoBC":"PO.02-PR.03",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/335768/PO.02-PR.03.02+Criterios+para+bienes+inventariables.pdf/1bbb08dc-ec89-5006-7b05-ebed74636957?t=1641815263104",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -1350,25 +1324,6 @@
 						},
 						{
 							"nivel":"3_01_03",
-							"nombre":"Criterios para la consideracion de bienes inventariables",
-							"codigoBC":"PO.02-PR.03",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_01_03_01",
-									"nombre":"Criterios para los bienes inventariables",
-									"codigoBC":"PO.02-PR.03",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/af71c2d2-f505-4582-8011-0503dd2e9ccf",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_01_04",
 							"nombre":"Normas de uso de las Plataformas de apoyo a la investigación",
 							"codigoBC":"PO.03-PR.03",
 							"url":"",
@@ -1376,28 +1331,27 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_01_04_01",
-									"nombre":"Modelo parte actividad",
-									"codigoBC":"AX01_P0.03-PR.03",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9979b10d-85d6-48e2-9f13-8d5589fab00c",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_01_04_02",
+									"nivel":"3_01_03_02",
 									"nombre":"Normas de las plataformas de apoyo a la investigación",
 									"codigoBC":"PO.03-PR.03",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/09085e6a-9ce2-4060-93e3-fc5611a6ae3d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/335771/PO.03-PR.03.01+Normasde+las+Plataf.+de+apoyo+a+la+investigaci%C3%B3n.pdf/4e493388-6acd-9f85-4ef5-5dc083bd84e7?t=1641815462800",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
+								},
+								{
+									"nivel":"3_01_03_01",
+									"nombre":"Modelo parte actividad",
+									"codigoBC":"AX01_P0.03-PR.03",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/335771/AX01_P0.03-PR.03.01+MODELO+PARTE+ACTIVIDAD.docx/8531b9d8-739f-9910-d0e9-5c98d426970d?t=1641815600125",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
 								}
-								
 							]
 						},
 						{
-							"nivel":"3_01_05",
+							"nivel":"3_01_04",
 							"nombre":"Caducidad de compuestos químicos",
 							"codigoBC":"PO.04-PR.03",
 							"url":"",
@@ -1405,7 +1359,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_01_05_01",
+									"nivel":"3_01_04_01",
 									"nombre":"Caducidad de compuestos químicos",
 									"codigoBC":"PO.04-PR.03",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335774/PO.04-PR.03.02+Caducidad+de+compuestos+qu%C3%ADmicos.pdf/2fbb8046-49e5-7c06-4c46-8a758942969c?t=1640272403860",
@@ -1416,7 +1370,7 @@
 							]
 						},
 						{
-							"nivel":"3_01_06",
+							"nivel":"3_01_05",
 							"nombre":"Gestión de residuos de laboratorio",
 							"codigoBC":"PO.05-PR.03",
 							"url":"",
@@ -1424,10 +1378,29 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_01_06_01",
+									"nivel":"3_01_05_01",
 									"nombre":" Gestión de residuos de laboratorio",
 									"codigoBC":"PO.05-PR.03",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335777/PO.05-PR.03.03+Gesti%C3%B3n+de+residuos+de+laboratorio.pdf/409c7538-d6d9-ee86-4c69-08c00bb8ba83?t=1640272421309",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_01_06",
+							"nombre":"Instrucciones para acceso al edificio fuera de horario laboral",
+							"codigoBC":"IT.01-PR.03",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_01_06_01",
+									"nombre":"Instrucciones acceso al edificio fuera de horario laboral",
+									"codigoBC":"IT.01-PR.03",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/335762/IT.01-PR.03.04+Instrucciones+acceso+al+edicio+fuera+del+horario.pdf/bf64999a-e6f7-38c7-8484-2e1df7b39fda?t=1641816026226",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -1475,7 +1448,7 @@
 									"nivel":"3_03_02_01",
 									"nombre":"Búsquedas Bibliográficas",
 									"codigoBC":"IT.02-PR.02",
-									"url":"https://www.biocrucesbizkaia.org/documents/254246/335736/PO.01-PR.02.03+Recogida+de+datos+sobre+produccion+cientifica.docx/477d21c8-24e0-233c-6251-b182e2c7ef57?t=1640272149306",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/335733/IT.01-PR.02.02+Busquedas+Bibliograficas.docx/456f885d-e603-258f-268c-20a01f48cabc?t=1640272128400",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -1492,34 +1465,6 @@
 					"tipo":"folder",
 					"extension":"",
 					"subnivel":	[
-						{
-							"nivel":"3_04_01",
-							"nombre":"Procedimiento y criterios de adquisición y tramitación de gastos",
-							"codigoBC":"PO.01-PR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_04_01_01",
-									"nombre":"Compromiso de abono",
-									"codigoBC":"AX01_PO.01-PR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/23095676-1228-41cf-b477-0a4d5e126e85",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_04_01_02",
-									"nombre":"Procedimiento y criterios de adquisición y tramitación de gastos",
-									"codigoBC":"PO.01-PR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/84e7809a-e273-4ed2-893d-039a39911b53",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
 						{
 							"nivel":"3_04_02",
 							"nombre":"Criterios de adquisición de bienes y servicios",
@@ -1571,25 +1516,6 @@
 									"nombre":"Gestión de compras directas (contratos menores)",
 									"codigoBC":"PO.04-PR.04",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335895/PO.04-PR.04.01+Gesti%C3%B3n+de+compras+directas+%28contratos+menores%29.pdf/dc559e57-25a4-9910-ce1b-94d3345b614a?t=1640272914321",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_04_05",
-							"nombre":"Instrucciónes internas de contratacion del IIS Biocruces Bizkaia",
-							"codigoBC":"IT.01-PR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_04_XX_01",
-									"nombre":"Instrucciones internas de contratación",
-									"codigoBC":"IT.01-PR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/05e5ca00-ff53-4ace-8a79-4dac2b15af08",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -1672,7 +1598,7 @@
 							"subnivel":[
 								{
 									"nivel":"3_04_09_01",
-									"nombre":"Instrucciones internas de contratación",
+									"nombre":"Importación y exportación de bienes",
 									"codigoBC":"IT.05-PR.04",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335886/IT.05-PR.04.01+Importaci%C3%B3n+y+exportaci%C3%B3n+de+bienes.pdf/133fd9be-2b0a-f941-241c-5268b825e89a?t=1640272851863",
 									"tipo":"file",
@@ -1690,7 +1616,7 @@
 								},
 																{
 									"nivel":"3_04_09_03",
-									"nombre":"Certificado Sanitario",
+									"nombre":"Certificado sanitario",
 									"codigoBC":"AX02-IT.05-PR.04",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335886/AX02_IT.05-PR.04.01+Certificado+Sanitario.doc/7fd50296-4229-45f8-147c-dcf6db34ff28?t=1640272851587",
 									"tipo":"file",
@@ -1712,7 +1638,7 @@
 				},
 				{
 					"nivel":"3_05",
-					"nombre":"Gestión de alianzas y convenios",
+					"nombre":"Alianzas y legal",
 					"codigoBC":"PR.11",
 					"url":"",
 					"tipo":"folder",
@@ -1720,7 +1646,7 @@
 					"subnivel":	[
 						{
 							"nivel":"3_05_01",
-							"nombre":"Normativa para el uso de la firma electrónica de Dirección",
+							"nombre":"Firma electrónica",
 							"codigoBC":"PO.01-PR.11",
 							"url":"",
 							"tipo":"folder",
@@ -1730,7 +1656,7 @@
 									"nivel":"3_05_01_01",
 									"nombre":"Firma electrónica",
 									"codigoBC":"PO.01-PR.11",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6bedc248-e43d-4400-991e-f7064e1702ae",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336979/PO.01-PR.11.02+Firma+electr%C3%B3nica.pdf/544c43ab-258a-a528-42a2-ad10685d8a7f?t=1640273647998",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -1739,7 +1665,7 @@
 									"nivel":"3_05_01_02",
 									"nombre":"Normativa firma electrónica",
 									"codigoBC":"AX01-PO.01-PR.11",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5ace6386-c856-48e7-896b-545281262b19",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336979/AX01_PO.01-PR.11.02+Normativa+firma+electr%C3%B3nica.docx/a7c7b057-a8a2-da62-e17a-be030da2ab51?t=1640273645113",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -1748,7 +1674,7 @@
 									"nivel":"3_05_01_03",
 									"nombre":"Autorización para firma",
 									"codigoBC":"AX02-PO.01-PR.11",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8c608395-94e4-4a35-b3e4-67330873d1f1",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336979/AX02_PO.01-PR.11.02+Autorizaci%C3%B3n+para+firma.docx/a4388c9b-fc25-a552-d523-951a2d505f68?t=1640273645305",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -1757,7 +1683,7 @@
 									"nivel":"3_05_01_04",
 									"nombre":"Registro de firma electronica",
 									"codigoBC":"AX03-PO.01-PR.11",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/905af1e3-8d9a-4623-9914-0fc1db7cd4cc",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336979/AX03_PO.01-PR.11.02+Registro+de+firma+electronica.xlsx/bfb2b2e1-e521-2efd-0535-c8bbd7d6025a?t=1640273645506",
 									"tipo":"file",
 									"extension":"xls",
 									"subnivel":	[]
@@ -1776,163 +1702,209 @@
 					"subnivel":	[
 						{
 							"nivel":"3_06_01",
-							"nombre":"Instrucciones Gestión de pagos e ingresos IIS Biocruces Bizkaia",
-							"codigoBC":"IT.01-PR.05",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_06_01_01",
-									"nombre":"Instrucciones gestión pagos e ingresos",
-									"codigoBC":"IT.01-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9bb5b314-209f-4536-9ee3-710e4d283449",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_06_02",
-							"nombre":"Instrucciones para la correcta recepción y registro de facturas en fund@net",
-							"codigoBC":"IT.02-PR.05",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_06_02_01",
-									"nombre":"Instrucciones para la correcta recepción y registro de facturas en fund@net",
-									"codigoBC":"IT.02-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b82ffa65-bcf8-4e65-a382-d047a368a957",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_06_03",
-							"nombre":"Instrucciones para la importación y exportación de bienes",
-							"codigoBC":"IT.03-PR.05",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_06_03_01",
-									"nombre":"Carta de uso y destino",
-									"codigoBC":"AX01_IT.03-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/95f98d48-1e94-4d64-85f0-62536c794c15",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_06_03_02",
-									"nombre":"Certificado Sanitario.doc",
-									"codigoBC":"AX02-IT.03-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8f7d3dd6-371e-419b-98bd-2e6e8f371976",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_06_03_03",
-									"nombre":" Modelo de despacho",
-									"codigoBC":"AX04_IT.03-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c1a5b134-ecb2-4ade-af11-c6550b26dc26",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_06_03_04",
-									"nombre":" Instrucciones importación-exportación de bienes",
-									"codigoBC":"IT.03-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9f1dd7ef-b773-4dfa-89bc-9280ea50bcb5",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_06_04",
-							"nombre":"Elaboracion de presupuestos para facturacion a plat. apoyo Inves",
+							"nombre":"Elaboracion de presupuestos para proyectos, EECC y servicios",
 							"codigoBC":"PO.01-PR.05",
 							"url":"",
 							"tipo":"folder",
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_06_04_01",
-									"nombre":"Modelo de presupuesto para empresas externas",
+									"nivel":"3_06_01_01",
+									"nombre":"Gestión y elaboración de presupuestos",
+									"codigoBC":"PO.01-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336053/PO.01-PR.05.02+Gesti%C3%B3n+y+elaboraci%C3%B3n+de+presupuestos.pdf/cf80b0c9-2968-9160-9f43-80e0204a3abe?t=1641816903232",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_06_01_02",
+									"nombre":"Modelo de presupuesto",
 									"codigoBC":"AX01_P0.01-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/190d9f5d-6852-42e9-8676-acfcee90e395",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336053/AX01_PO.01-PR.05.03+Modelo+de+presupuesto.docx/1ecb139c-e087-b7f8-2141-7228c9998f53?t=1641816899348",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_06_04_02",
-									"nombre":"Elaboracion de presupuestos para servicios de Apoyo a la Investigación",
-									"codigoBC":"PO.01-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f54a6d35-8019-442f-8254-9a287b5ea3aa",
+									"nivel":"3_06_01_03",
+									"nombre":"Compromiso de financiación",
+									"codigoBC":"AX02_P0.01-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336053/AX02_PO.01-PR.05.02+Compromiso+de+financiaci%C3%B3n.docx/01529488-eef6-6e23-9c00-70405094b89a?t=1641816899517",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
-								
 							]
 						},
 						{
-							"nivel":"3_06_05",
-							"nombre":"Seguimiento presupuestario",
+							"nivel":"3_06_02",
+							"nombre":"Cálculo presupuesto anual",
 							"codigoBC":"PO.02-PR.05",
 							"url":"",
 							"tipo":"folder",
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_06_05_01",
-									"nombre":"Modelo de seguimiento mensual Osakidetza (HUC)",
-									"codigoBC":"AX03_PO.02-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a6a2929e-8f35-4640-9bda-c62fbd009ed1",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_06_05_02",
-									"nombre":"Modelo de seguimiento presupuestario IIS",
-									"codigoBC":"AX01.PO.02-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e76608fc-eeec-45c9-a91f-78ca9b5e44fc",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_06_05_03",
-									"nombre":"Modelo de seguimiento presupuestario Osakidetza",
-									"codigoBC":"AX02.PO.02-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f9c46c12-9bee-41b7-a3f1-23c36b68a798",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_06_05_04",
-									"nombre":"Seguimiento presupuestario",
+									"nivel":"3_06_02_01",
+									"nombre":"Cálculo presupuesto anual",
 									"codigoBC":"PO.02-PR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4987b178-ecf7-4cc6-a50b-c7ecb26c02fc",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336057/PO.02-PR+05.03+C%C3%A1lculo+presupuesto+anual.pdf/94b3222f-893a-9f4b-c8f6-559afa83d884?t=1641817300271",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_06_02_02",
+									"nombre":"Modelo de propuesta de presupuesto anual IIS",
+									"codigoBC":"AX01.PO.02-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336057/AX01.PO.02-PR.05.03+Modelo+de+propuesta+de+presupuesto+anual+IIS.xlsx/e923ae51-25ec-4695-ad7a-f415436aa9dc?t=1641816923866",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_06_03",
+							"nombre":"Instrucciones gestión de pagos e ingresos IIS Biocruces Bizkaia",
+							"codigoBC":"IT.01-PR.05",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_06_03_01",
+									"nombre":"Gestión de pagos",
+									"codigoBC":"IT.01-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336043/IT.01-PR.05.03+Gesti%C3%B3n+de+Pagos.pdf/3181894a-347a-ce49-46ee-25b545672dae?t=1641816727725",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_06_03_02",
+									"nombre":"Orden pago mancomunada",
+									"codigoBC":"AX01-IT.01-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336043/AX01_IT.01_PR.05.01+Orden+Pago+Mancomunada+.docx/a8173617-bf02-b0c2-e32a-9199ff84617b?t=1641816724844",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_06_04",
+							"nombre":"Instrucciones recepción y registro de gastos en fund@net",
+							"codigoBC":"IT.02-PR.05",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_06_04_01",
+									"nombre":"Recepcion y Registro de Gastos en Fundanet",
+									"codigoBC":"IT.02-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336046/IT.02-PR.05.03+Recepcion+y+Registro+de+Gastos+en+Fundanet.pdf/0de9e527-5057-036f-5d5a-5349da920176?t=1641816748571",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								}
 							]
-						}
+						},
+						{
+							"nivel":"3_06_05",
+							"nombre":"Registro elementos inmovilizado",
+							"codigoBC":"IT.03-PR.05",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_06_05_01",
+									"nombre":"Registro en Fundanet de los elementos inmovilizados",
+									"codigoBC":"IT.03-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345846/IT.03-PR.05.01+Registro+en+Fundanet+de+los+elementos+inmovilizados.pdf/779845a9-686e-fe3f-69f5-b5ee0d957387?t=1641816771631",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_06_05_01",
+									"nombre":"Tablas de amortización",
+									"codigoBC":"AX01_IT.03-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345846/AX01_IT.03-PR.05.01+Tablas+de+Amortizaci%C3%B3n.pdf/d9b8590e-f531-e4a6-87db-84a50625d8ff?t=1641816771422",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_06_06",
+							"nombre":"Instrucciones generación liquidación de impuestos",
+							"codigoBC":"IT.04-PR.05",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_06_05_01",
+									"nombre":"Registro de liquidaciones de impuestos en Fundanet",
+									"codigoBC":"IT.04-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336050/IT.04.PR.05.01+Registro+de+liquidaciones+de+impuestos+en+Fundanet.pdf/e513994e-9ba2-2d7f-6b46-8bceaab37da4?t=1641817878144",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_06_07",
+							"nombre":"Instrucciones generación liquidación de impuestos",
+							"codigoBC":"IT.05-PR.05",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_06_07_01",
+									"nombre":"Seguimiento presupuestario",
+									"codigoBC":"IT.05-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345849/IT.11-PR.05.01+Seguimiento+presupuestario.pdf/547b559d-2645-264f-5fbb-74003880e1ed?t=1641816875720",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_06_07_02",
+									"nombre":"Modelo de seguimiento presupuestario IIS",
+									"codigoBC":"AX01_IT.05-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345849/AX01_IT.11-PR.05.01+Modelo+de+seguimiento+presupuestario+IIS.xlsx/63543b46-5bbf-d587-0723-6ec8988e18b3?t=1641816872405",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+																{
+									"nivel":"3_06_07_03",
+									"nombre":"Modelo de seguimiento presupuestario OSIs y Biobanco",
+									"codigoBC":"AX02_IT.05-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345849/AX02_IT.11-PR.05.01+Modelo+de+seguimiento+presupuestario+OSIs+y+Biobanco.xlsx/3065d967-499c-7a7b-82a0-6a63a386b4de?t=1641816875382",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+																{
+									"nivel":"3_06_07_04",
+									"nombre":"Modelo de seguimiento mensual Osakidetza OSI EEC",
+									"codigoBC":"AX03_IT.05-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345849/AX03_IT.11-PR.05.01+Modelo+de+seguimiento+mensual+Osakidetza+OSI+EEC.xlsx/8c253b3d-9c97-97f8-84d5-5b552d45aa59?t=1641816875554",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								}
+							]
+						}						
 					]
 				},
 				{
@@ -1945,193 +1917,70 @@
 					"subnivel":[
 						{
 							"nivel":"3_07_01",
-							"nombre":"Solicitud y baja de tarjetas de identificación",
-							"codigoBC":"IT.01-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_01_01",
-									"nombre":"Alta y baja de tarjetas en el IIS Biocruces",
-									"codigoBC":"IT.01-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e89fd18-2b31-4845-ab3c-30dbd2681a60",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_07_02",
-							"nombre":"Gestión de nóminas en Fundanet",
-							"codigoBC":"IT.02-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_02_01",
-									"nombre":"Gestion de nóminas en Fundanet",
-									"codigoBC":"IT.02-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e4208b4e-712f-4bc5-b8fe-ade4cd5d29b7",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_07_03",
-							"nombre":"Obtencion de costes salariales de Fundanet",
-							"codigoBC":"IT.03-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_03_01",
-									"nombre":"Modelo de Certificado de Costes Salariales",
-									"codigoBC":"AX01-IT.03-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/73491f5c-e239-4b78-a125-3daf2615d3b4",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_07_03_02",
-									"nombre":"Obtención certificados costes salariales",
-									"codigoBC":"IT.03-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c3112d34-9165-43f7-8a8f-ecb7a1de0ef5",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_07_04",
-							"nombre":"Ofertas de empleo en la Web de Biocruces Bizkaia",
-							"codigoBC":"IT.04-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_04_01",
-									"nombre":"Instrucciones para sacar ofertas en la web",
-									"codigoBC":"IT.04-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c1387e60-468f-4860-9b81-bc1f46de00af",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_07_05",
-							"nombre":"Solicitar certificados a RRHH de Biocruces Bizkaia",
-							"codigoBC":"IT.05-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_05_01",
-									"nombre":"Certificado pertenencia al IIS Biocruces Bizkaia",
-									"codigoBC":"AX01_IT.05-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/40b2e83d-8f9f-4fa9-96a7-a517fe22d2f8",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_07_05_02",
-									"nombre":"Solicitar certificados a la unidad de RRHH de pertencia a Biocruces Bizkaia",
-									"codigoBC":"IT.05-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4779da2a-60c1-45ea-bd22-42a181fdded7",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_07_06",
-							"nombre":"Categorización de los miembros del Biocruces Bizkaia",
-							"codigoBC":"IT.06-PR.01",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_07_06_01",
-									"nombre":"Categorización de los miembros de Biocruces Bizkaia",
-									"codigoBC":"IT.06-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6c838594-ed2d-43b6-aea3-cd18132d411b",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_07_07",
-							"nombre":"Nuevas incorporaciones y otros movimientos de personal miembro del Instituto",
+							"nombre":"Nuevas incorporaciones y otros movimientos de personal",
 							"codigoBC":"PO.01-PR.01",
 							"url":"",
 							"tipo":"folder",
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_07_01",
+									"nivel":"3_07_01_01",
+									"nombre":"Incorporaciones y otros movimientos de personal",
+									"codigoBC":"PO.01-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312123/PO.01-PR.01.06+Incorporaciones+y+otros+movimientos+de+personal.pdf/eecec5ef-9345-935e-0519-07dfac54a33e?t=1636033493286",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_01_02",
 									"nombre":"Documento de incorporación",
 									"codigoBC":"AX01_PO.01-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/03b0cee7-32af-455a-a273-b62e4e233ef0",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312123/AX01-PO.01-PR.01.06+Documento+de+incorporaci%C3%B3n.docx/d46b5fbe-0ca0-099c-2eba-ab616c6cf314?t=1636033493515",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_07_02",
+									"nivel":"3_07_01_03",
 									"nombre":"Ficha de datos personales",
 									"codigoBC":"AX02_PO.01-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/662775f8-708a-48d2-85a1-969a4b87f747",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312123/AX02-PO.01-PR.01.04+Ficha+de+datos+personales.xls/1f0dafa2-be45-6bc1-5d67-7f097ea562ef?t=1636033489162",
 									"tipo":"file",
 									"extension":"xls",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_07_03",
+									"nivel":"3_07_01_04",
 									"nombre":"Documento de cambio coordinador de grupo",
 									"codigoBC":"AX03_PO.01-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d9f01a9c-81ec-4b24-8103-2301cda22a97",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312123/AX03-PO.01-PR.01.05+Documento+de+cambio+Jefe+de+Grupo.docx/6f8a3a7a-124e-589a-2181-28cf2f0a3198?t=1636033489305",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_07_04",
+									"nivel":"3_07_01_05",
 									"nombre":"Documento de incorporación de grupos de investigación",
 									"codigoBC":"AX04_PO.01-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2aec98d3-5e10-494a-99bb-33762fb3c019",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312123/AX04-PO.01-PR.01.02+Documento+de+incorporaci%C3%B3n+de+grupos+de+investigaci%C3%B3n.docx/816e081e-8de0-06c0-19cf-c4a2fce47a3a?t=1636033489574",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_07_05",
-									"nombre":"Nuevas Incorporaciones de personal miembro",
-									"codigoBC":"PO.01-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a1ca02a9-dc3d-43c1-9edf-9b496431c7b5",
+									"nivel":"3_07_01_06",
+									"nombre":"Normas de tratamiento de datos personales",
+									"codigoBC":"AX05_PO.01-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312123/AX05_PO.01-PR.01.02+Normas+de+tratamiento+de+datos+personales.docx/4cb4658e-6a0a-62b9-07b1-ec9e41d2b88f?t=1636033489835",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
 						},
 						{
-							"nivel":"3_07_08",
+							"nivel":"3_07_02",
 							"nombre":"Permisos y otras incidencias laborales",
 							"codigoBC":"PO.02-PR.01",
 							"url":"",
@@ -2139,28 +1988,27 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_08_01",
-									"nombre":"Solicitud de vacaciones, licencias y permisos",
-									"codigoBC":"AX01_PO.02-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d050559a-35e2-497e-9093-61f87f0870ac",
+									"nivel":"3_07_02_01",
+									"nombre":"Solicitud de permisos y otras incidencias laborales",
+									"codigoBC":"PO.02-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312126/PO.02-PR.01.04+Solicitud+de+permisos+y+otras+incidencias+laborales.pdf/76bd5d38-90ab-e3cd-3473-14a3198bee74?t=1636033515075",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_08_02",
-									"nombre":"Solicitud de permisos y otras incidencias laborales",
-									"codigoBC":"PO.02-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d557fc0d-a6d8-4340-abb6-da5f054722dd",
+									"nivel":"3_07_02_02",
+									"nombre":"Solicitud de vacaciones, licencias y permisos",
+									"codigoBC":"AX01_PO.02-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312126/AX01_PO.02-PR.01.04+Solicitud+de+vacaciones%2C+licencias+y+permisos.doc/9de3798a-f870-160f-c058-c95274ecb2d0?t=1636033515222",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
 						},
-						
 						{
-							"nivel":"3_07_10",
+							"nivel":"3_07_03",
 							"nombre":"Contratacion de personal con cargo a Proyectos",
 							"codigoBC":"PO.06-PR.01",
 							"url":"",
@@ -2168,36 +2016,36 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_10_01",
+									"nivel":"3_07_03_01",
+									"nombre":"Contratacion de personal con cargo a Proyectos",
+									"codigoBC":"PO.06-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312129/PO.06-PR.01.01+Contratacion+de+personal+con+cargo+a+Proyectos.pdf/3bdd9bf4-a709-4707-2ef8-9106a99563ae?t=1640271981409",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_03_02",
 									"nombre":"Plantilla Perfil del Puesto de Trabajo",
 									"codigoBC":"AX01_PO.06-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0c8c8e0c-31b7-40f6-b96a-6033ff048973",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312129/AX01PO.06-PR.01.01+Plantilla+Perfil+del+Puesto+de+Trabajo.docx/55d6caf5-6ec7-61b2-7da8-d5f1dd014879?t=1640271982227",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_10_02",
+									"nivel":"3_07_03_03",
 									"nombre":"Modelo ACTA",
 									"codigoBC":"AX02_PO.06-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3982044-f988-49d7-b4ee-981e843c9005",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312129/AX02PO.06-PR.01.01+Modelo+ACTA.xls/530e1819-9bc4-e37d-d897-a1ddb706d3b0?t=1640271982679",
 									"tipo":"file",
 									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_07_10_03",
-									"nombre":"Contratacion de personal con cargo a Proyectos",
-									"codigoBC":"PO.06-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/591fab8e-cf45-403e-926d-41baa69ff18d",
-									"tipo":"file",
-									"extension":"pdf",
 									"subnivel":	[]
 								}
 							]
 						},						
 						{
-							"nivel":"3_07_11",
+							"nivel":"3_07_04",
 							"nombre":"Estancias de Investigadores de IIS Biocruces Bizkaia en otras instituciones",
 							"codigoBC":"PO.07-PR.01",
 							"url":"",
@@ -2205,27 +2053,27 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_11_01",
-									"nombre":"Solicitud y aceptación de estancia investigadora formativa",
-									"codigoBC":"AX01_PO.07-PR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31b6b515-ae5e-400b-ad6a-cebbec162068",
+									"nivel":"3_07_04_01",
+									"nombre":"Estancias investigadores del Instituto Biocruces Bizkaia en otras instituciones",
+									"codigoBC":"PO.07-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312132/PO.07-PR.01.03+Estancias+investigadores+del+IIS+en+otras+instituciones.pdf/4a399eff-3abe-bcaf-f293-1fc294e7f3e9?t=1636033610761",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_11_02",
-									"nombre":"Estancias investigadores del Instituto Biocruces Bizkaia en otras instituciones",
-									"codigoBC":"PO.07-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/66e720b8-55a4-4106-8881-9a530351cc1d",
+									"nivel":"3_07_04_02",
+									"nombre":"Solicitud y aceptación de estancia investigadora formativa",
+									"codigoBC":"AX01_PO.07-PR.02",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312132/AX01_PO.01-PR.01.03+Solicitud+de+estancia.docx/1bf530e0-1bd5-63fb-39af-b135a65cdb30?t=1636033610553",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
 						},
 						{
-							"nivel":"3_07_12",
+							"nivel":"3_07_05",
 							"nombre":"Acogida profesionales en el Instituto Biocruces Bizkaia",
 							"codigoBC":"PO.08-PR.01",
 							"url":"",
@@ -2233,55 +2081,83 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_12_01",
-									"nombre":"Manual de acogida",
-									"codigoBC":"AX01_PO.08-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/35c82481-44cb-48ff-9a38-7fcb241d4f19",
+									"nivel":"3_07_05_01",
+									"nombre":"Acogida profesionales en el Instituto Biocruces Bizkaia",
+									"codigoBC":"PO.08-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/PO.08-PR.01.03+Acogida+de+profesionales+en+el+Instituto+Biocruces+Bizkaia.docx/67504312-ba73-2b59-c061-af7302faaca7?t=1636033655174",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_12_02",
+									"nivel":"3_07_05_02",
+									"nombre":"Manual de acogida",
+									"codigoBC":"AX01_PO.08-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/AX01_PO.08-PR.01.04_Manual_Acogida.pdf/4b5443f4-9838-7a07-7e58-946c20184665?t=1636033655429",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_05_03",
 									"nombre":"Normas de seguridad en el tratamiento de datos de carácter personal",
 									"codigoBC":"AX02_PO.08-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/71506eb9-2038-43de-afad-a4b70eebb91c",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/AX02_PO.08-PR.01.01+Normas+de+seguridad+en+el+tratamiento+de+datos+de+car%C3%A1cter+personal.docx/a1fb4da4-9f0d-0ec0-4e75-d992af164845?t=1636033654046",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_12_03",
-									"nombre":"Notificación al personal adscrito de la normativa de seguridad",
+									"nivel":"3_07_05_04",
+									"nombre":"Notificación de la LOPD",
 									"codigoBC":"AX03_PO.08-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/08d73a53-6b58-4ae3-9df4-9a186445cea0",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/AX03_PO.08-PR.01.03+Notificaci%C3%B3n+de+la+LOPD.docx/2c7090f7-864b-2826-6e3a-2780ad03275e?t=1636033654232",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_12_04",
-									"nombre":"Recomendacion en prevencion de riesgos laborales",
-									"codigoBC":"AX04_PO.08-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3d46b03-efe1-4a75-ade5-a0e848c4cee6",
+									"nivel":"3_07_05_05",
+									"nombre":"Hoja de entrega de riesgos laborales",
+									"codigoBC":"AX06_PO.08-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/AX06_PO.08-PR.01.01+Hoja+de+entrega+de+riesgos+laborales.docx/ac319d6d-8c6d-ff06-153e-64260e2a56b5?t=1636033654411",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_12_05",
-									"nombre":"Solicitud de acceso a aplicaciones informáticas de Osakidetza",
-									"codigoBC":"AX05_PO.08-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e77edf7c-697e-4243-867e-52d1683a5be7",
+									"nivel":"3_07_05_06",
+									"nombre":"Instrucciones configuración Inicial PC y correo",
+									"codigoBC":"AX07_PO.08-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/AX07_PO.08-PR.01.02+Instrucciones+configuraci%C3%B3n+Inicial+PC+y+correo.docx/9f6e9214-e66f-4a53-55b4-b51649b71d30?t=1636033654631",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_12_06",
-									"nombre":"Acogida profesionales en el Instituto Biocruces Bizkaia",
-									"codigoBC":"PO.08-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/87a4f898-0ed4-4037-9351-66f3d4bd4ca7",
+									"nivel":"3_07_05_07",
+									"nombre":"Instrucciones configuracion Mis Gestiones",
+									"codigoBC":"AX08_PO.08-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312135/AX08_PO.08-PR.01.01+Instrucciones+configuracion+Mis+Gestiones.docx/720b1244-41f5-d5c8-82f8-9f6cd47021a0?t=1636033654980",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_06",
+							"nombre":"Actuación en materia de prevencion laborales en IIS Biocruces",
+							"codigoBC":"PO.09-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_06_01",
+									"nombre":"Procedimiento de actuación en materia de prevencion laborales",
+									"codigoBC":"PO.09-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312138/PO.09-PR.01.01+Procedimiento+de+actuaci%C3%B3n+en+materia+de+prevencion+laborales.pdf/55d0c42b-0697-25ec-6d7b-29d545048801?t=1636033673859",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -2289,26 +2165,26 @@
 							]
 						},	
 						{
-							"nivel":"3_07_14",
-							"nombre":"Acceso de visitas",
+							"nivel":"3_07_07",
+							"nombre":"Acceso de visitas al edificio Biocruces",
 							"codigoBC":"PO.10-PR.01",
 							"url":"",
 							"tipo":"folder",
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_14_01",
+									"nivel":"3_07_07_01",
 									"nombre":"Acceso de visitas",
 									"codigoBC":"PO.10-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f6e677a4-b668-4edc-a111-5e6a794bf246",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312141/PO.10-PR.01.01+Acceso+de+visitas.pdf/9c22afb4-9e32-9118-f2ae-48942bf45fc8?t=1636033694797",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								}
 							]
-						},						
+						},	
 						{
-							"nivel":"3_07_15",
+							"nivel":"3_07_08",
 							"nombre":"Comunicación al servicio de prevención ajeno",
 							"codigoBC":"PO.14-PR.01",
 							"url":"",
@@ -2316,10 +2192,142 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_15_01",
+									"nivel":"3_07_08_01",
 									"nombre":"Comunicación con el servicio de prevención ajeno",
 									"codigoBC":"PO.14-PR.01",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d167d2f0-dcef-4c7a-8699-120acfac7b0e",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312144/PO.14-PR.01.01+Comunicaci%C3%B3n+con+el+servicio+de+prevenci%C3%B3n+ajeno.pdf/d6179f80-5b32-c5b9-abf2-e246a3f1f9b7?t=1636033716938",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_09",
+							"nombre":"Solicitud y baja de tarjetas de identificación",
+							"codigoBC":"IT.01-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_09_01",
+									"nombre":"Alta y baja de tarjetas en el IIS Biocruces",
+									"codigoBC":"IT.01-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312105/IT.01-PR.01.02+Alta+y+baja+de+tarjetas+en+el+IIS+Biocruces.pdf/e375add8-c057-4378-42f8-3f1f4c85d131?t=1636033316041",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_10",
+							"nombre":"Gestión de nóminas en Fundanet",
+							"codigoBC":"IT.02-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_10_01",
+									"nombre":"Gestion de nóminas en Fundanet",
+									"codigoBC":"IT.02-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312108/IT.02-PR.01.03+Gestion+de+nominas+en+Fundanet.pdf/b3b35c2e-d12f-952a-3e11-38b1d70063ff?t=1636033351417",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_11",
+							"nombre":"Obtencion de costes salariales de Fundanet",
+							"codigoBC":"IT.03-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_11_01",
+									"nombre":"Obtención certificados costes salariales",
+									"codigoBC":"IT.03-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312111/IT.03-PR.01.01+Obtenci%C3%B3n+certificados+costes+salariales.pdf/977fbb6f-f9d5-3744-950d-441ee035ebd2?t=1636033387791",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_11_02",
+									"nombre":"Modelo de Certificado de Costes Salariales",
+									"codigoBC":"AX01-IT.03-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312111/AX01-IT.03-PR.01.01+Modelo+de+Certificado+de+Costes+Salariales.xls/3877495d-4367-8637-db9a-44aade823bfd?t=1636033384322",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_12",
+							"nombre":"Ofertas de empleo en la Web de Biocruces Bizkaia",
+							"codigoBC":"IT.04-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_12_01",
+									"nombre":"Instrucciones para sacar ofertas en la web",
+									"codigoBC":"IT.04-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312111/AX01-IT.03-PR.01.01+Modelo+de+Certificado+de+Costes+Salariales.xls/3877495d-4367-8637-db9a-44aade823bfd?t=1636033384322",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_13",
+							"nombre":"Solicitar certificados a RRHH de Biocruces Bizkaia",
+							"codigoBC":"IT.05-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_13_01",
+									"nombre":"Solicitar certificados a la unidad de RRHH de pertencia a Biocruces Bizkaia",
+									"codigoBC":"IT.05-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312117/IT.05-PR.01.01+Solicitar+certificados+a+la+unidad+de+RRHH+de+pertencia+a+Biocruces.pdf/f410df6d-eb3b-8fda-ef97-8e6fad0c10cc?t=1636033442067",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_13_02",
+									"nombre":"Certificado pertenencia al IIS Biocruces Bizkaia",
+									"codigoBC":"AX01_IT.05-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312117/AX01_IT.05-PR.01.01+Certificado+pertenencia+al+IIS+Biocruces.docx/dfa2359c-701c-f53b-5721-6ee0a205de5a?t=1636033441662",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_14",
+							"nombre":"Categorización de los miembros del Biocruces Bizkaia",
+							"codigoBC":"IT.06-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_14_01",
+									"nombre":"Categorización de los miembros de Biocruces Bizkaia",
+									"codigoBC":"IT.06-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/312120/IT.06-PR.01.01+Categorizaci%C3%B3n+de+los+miembros+de+Biocruces.pdf/aaa37d1e-48f1-896c-2e76-b1ec20d05908?t=1636033453186",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -2344,6 +2352,15 @@
 							"tipo":"folder",
 							"extension":"",
 							"subnivel":[
+								{
+									"nivel":"3_08_01_01",
+									"nombre":"Estancias en el Instituto Biocruces Bizkaia",
+									"codigoBC":"PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/PO.01-PR.06.03+Estancias+en+el+Instituto+Biocruces+Bizkaia.pdf/37c1ca9b-6dd0-9167-b801-e307ba5709a1?t=1640273107467",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
 								{
 									"nivel":"3_08_01_01",
 									"nombre":"Solicitud practicas grado",
