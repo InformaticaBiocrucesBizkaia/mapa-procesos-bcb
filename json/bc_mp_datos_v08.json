@@ -2361,253 +2361,253 @@
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_08_01_01",
+									"nivel":"3_08_01_02",
 									"nombre":"Solicitud practicas grado",
 									"codigoBC":"AX01_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b74efc8e-44c7-4aa7-85d6-6170d8a49bc7",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_08_01_02",
-									"nombre":"Solicitud trabajo fin grado",
-									"codigoBC":"AX02_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cb1d399d-a89b-403c-81f4-b13bf904b36d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX01_PO.01-PR.06.05+Solicitud+Pr%C3%A1cticas+Grado.docm/ed552802-9d55-426c-ff5b-aecc47ce370a?t=1640273107664",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_03",
-									"nombre":"Solicitud prácticas máster",
-									"codigoBC":"AX03_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ce0ef6c6-d0aa-40b5-9ac0-717211b9b126",
+									"nombre":"Solicitud trabajo fin grado",
+									"codigoBC":"AX02_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX02_PO.01-PR.06.05+Solicitud+Trabajo+Fin+Grado.docm/f97fd028-4d5a-4477-95ed-b04e548ba7b8?t=1640273107858",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_04",
-									"nombre":"Solicitud trabajo fin máster",
-									"codigoBC":"AX04_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/24d8d6e2-21cb-4674-9eb9-5806520e1796",
+									"nombre":"Solicitud prácticas máster",
+									"codigoBC":"AX03_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX03_PO.01-PR.06.05+Solicitud+Pr%C3%A1cticas+M%C3%A1ster.docm/2d36eafb-61b6-d5e9-80a1-3f859f67230d?t=1640273108070",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_05",
-									"nombre":"Solicitud prácticas Doctorado",
-									"codigoBC":"AX05_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/87b9f0dc-feb2-47f1-8d26-96a7d0e9630f",
+									"nombre":"Solicitud trabajo fin máster",
+									"codigoBC":"AX04_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX04_PO.01-PR.06.05+Solicitud+Trabajo+Fin+M%C3%A1ster.docm/59c86b04-494d-8afd-9274-2219fdbb2973?t=1640273108270",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_06",
-									"nombre":"Solicitud dirección tesis",
-									"codigoBC":"AX06_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/629a37df-81d2-4729-9fc5-4a6f75f24a9a",
+									"nombre":"Solicitud prácticas Doctorado",
+									"codigoBC":"AX05_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX05_PO.01-PR.06.05+Solicitud+Pr%C3%A1cticas+Doctorado.docm/a720743a-041f-3c25-e01a-7952900896a2?t=1640273110846",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_07",
-									"nombre":"Solicitud otras estancias formativas",
-									"codigoBC":"AX07_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/87c7de6a-4cce-4301-9c96-e1a929168ac3",
+									"nombre":"Solicitud dirección de tesis",
+									"codigoBC":"AX06_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX06_PO.01-PR.06.05+Solicitud+direcci%C3%B3n+de+Tesis.docm/e1871c5a-134f-f1a2-b917-72c81a4bae4e?t=1640273111048",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_08",
-									"nombre":"Solicitud estancias colaborativa",
-									"codigoBC":"AX08_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/29f0467d-954c-4a09-a6f5-0beeae05e5e7",
+									"nombre":"Solicitud otras estancias formativas",
+									"codigoBC":"AX07_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX07_PO.01-PR.06.05+Solicitud+Otras+Estancias+Formativas.docm/c0fa71a4-0dc1-c2d8-005b-8ac848a0337b?t=1640273091828",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_09",
-									"nombre":"Solicitud actividad formativa y carta de servicios ",
-									"codigoBC":"AX09_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f6129cfd-2e33-4226-962a-66ed2de4f54d",
+									"nombre":"Solicitud estancias colaborativas",
+									"codigoBC":"AX08_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX08_PO.01-PR.06.05+Solicitud+Estancia+Colaborativa.docm/756e1907-8919-34ce-5e9f-0cb7b86d668b?t=1640273093502",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_10",
-									"nombre":"Aceptación estancia formativa",
-									"codigoBC":"AX10_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/19a391a1-bc41-457c-a8e7-c22b1c01c663",
+									"nombre":"Confidencialidad estancias",
+									"codigoBC":"AX09_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX09_PO.01-PR.06.05+Confidencialidad+estancias.docx/4ac1c7c3-fc70-8211-029d-ae7cd3f4c420?t=1640273093725",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_11",
-									"nombre":"Aceptación estancia colaborativa",
-									"codigoBC":"AX11_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/dde635cc-55d9-4963-ba13-f650fef26857",
+									"nombre":"Aceptación estancia formativa",
+									"codigoBC":"AX10_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX10_PO.01-PR.06.05+Aceptaci%C3%B3n+estancia+formativa.docm/bcbff769-cd90-b156-9dd2-f38466599758?t=1640273093936",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_12",
-									"nombre":"Condiciones generales de estancias",
-									"codigoBC":"AX12_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/23648c2c-a012-45e4-8926-3e077bbce588",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},			
-								{
-									"nivel":"3_08_01_13",
-									"nombre":"Acuerdo de estancia formativa",
-									"codigoBC":"AX13_PO.01_PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c2fdfc6a-6784-4296-b79a-d935bae9dcc3",
+									"nombre":"Aceptación estancia colaborativa",
+									"codigoBC":"AX11_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX11_PO.01-PR.06.03+Aceptaci%C3%B3n+estancia+colaborativa.docm/6a208ac7-dd2c-2380-205e-ab8e7b0f154b?t=1640273094187",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
+									"nivel":"3_08_01_13",
+									"nombre":"Condiciones generales de estancias",
+									"codigoBC":"AX12_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX12_PO.01-PR.06.06+Condiciones+generales+de+estancias.pdf/65c4706f-dceb-4842-7ed7-ba6fc9fb521f?t=1640273096187",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},			
+								{
 									"nivel":"3_08_01_14",
-									"nombre":"Acuerdo de estancia colaborativa",
-									"codigoBC":"AX14_PO.01_PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c513cf23-1054-4985-aa66-c4165366fa20",
+									"nombre":"Acuerdo de estancia formativa",
+									"codigoBC":"AX13_PO.01_PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX13_PO.01.PR.06.04+Acuerdo+de+estancia+formativa.docx/cf0c364a-10fd-f35d-3638-07f9739603d1?t=1640273096372",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_08_01_15",
-									"nombre":"Application form Degree Internship",
-									"codigoBC":"AX15_PO.01_PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ba0b621c-f602-4930-8e2e-ef17077505c9",
+									"nombre":"Acuerdo de estancia colaborativa",
+									"codigoBC":"AX14_PO.01_PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX14_PO.01.PR.06.03+Acuerdo+de+estancia+colaborativa.docx/aba62b98-8407-9268-8b43-0ab756d446c3?t=1640273096588",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
-								},			
+								},
 								{
 									"nivel":"3_08_01_16",
-									"nombre":"Application form Final Degree Project",
-									"codigoBC":"AX16_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f687fc04-ab4f-4fa0-8526-d73f00404077",
+									"nombre":"Application form Degree Internship",
+									"codigoBC":"AX15_PO.01_PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX15_PO.01-PR.06.05+Application+form+Degree+Internship.docm/63c6c854-305a-6c23-eef6-cb7831b16f26?t=1640273096814",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_17",
-									"nombre":"Application form for Master Degree internship",
-									"codigoBC":"AX17_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a17fa059-9562-4349-b161-ea7d91f175d2",
+									"nombre":"Application form Final Degree Project",
+									"codigoBC":"AX16_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX16_PO.01-PR.06.01+Application+form+Final+Degree+Project.docm/8865d3a9-9404-ef7e-9a40-03eb9cfcc184?t=1640273097015",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_18",
-									"nombre":"Application form Final Master Project",
-									"codigoBC":"AX18_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/89f6f987-273f-4f8b-9a9b-643c08e96542",
+									"nombre":"Application form for Master Degree internship",
+									"codigoBC":"AX17_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX17_PO.01-PR.06.01+Application+form+for+Master+Degree+internship.docm/88da77a6-29af-512b-6d42-ebc6fa3f75cc?t=1640273098950",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_19",
-									"nombre":"Application form PhD practices",
-									"codigoBC":"AX19_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5968869e-8291-4e8a-a8eb-b5caf52dd9e8",
+									"nombre":"Application form Final Master Project",
+									"codigoBC":"AX18_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX18_PO.01-PR.06.01+Application+form+Final+Master+Project.docm/75a3efa0-67eb-3cda-0502-de9a11bfe2ba?t=1640273099165",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_20",
-									"nombre":"Application form Doctoral Thesis guidance",
-									"codigoBC":"AX20_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a083d083-77eb-46b0-a484-087b176c7c2b",
+									"nombre":"Application form PhD practices",
+									"codigoBC":"AX19_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX19_PO.01-PR.06.01+Application+form+PhD+practices.docm/aa513344-bbc4-e440-b4af-47114a4aa947?t=1640273099382",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_21",
-									"nombre":"Application form other formative stays",
-									"codigoBC":"AX21_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2b096759-2dd9-47f3-99de-df4b2b9162f7",
+									"nombre":"Application form Doctoral Thesis guidance",
+									"codigoBC":"AX20_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX20_PO.01-PR.06.01+Application+form+Doctoral+Thesis+guidance.docm/5ea28c70-b325-595d-f73b-54ee956b9aae?t=1640273101394",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_22",
-									"nombre":"Application formative activity and Services chart",
-									"codigoBC":"AX22_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/af522421-73c1-43c7-bc98-8c2f33a4c6fe",
+									"nombre":"Application form other formative stays",
+									"codigoBC":"AX21_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX21_PO.01-PR.06.01+Application+form+other+formative+stays.docm/ee2ffb5c-f5b9-2b6f-f510-88500eb11c8e?t=1640273101637",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_23",
-									"nombre":"Application form research collaboration visit",
-									"codigoBC":"AX23_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6fdaee0b-e9c8-4ad8-9cb7-a1c1666d7f7f",
+									"nombre":"Confidentiality stays",
+									"codigoBC":"AX22_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX22_PO.01-PR.06.02+Confidentiality+stays.docx/734de8e9-7517-b9cb-8d2e-a3a7e3fd4901?t=1640273101891",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_24",
-									"nombre":"Acceptance formative stay",
-									"codigoBC":"AX24_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/536053b7-d487-4ce6-8538-94eecf943620",
+									"nombre":"Application form research collaboration visit",
+									"codigoBC":"AX23_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX23_PO.01-PR.06.02+Application+form+research+collaboration+visit.docm/c79a0e26-3a2a-dbf0-3084-206c5d3818e5?t=1640273102213",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_25",
-									"nombre":"Acceptance research collaboration stay",
-									"codigoBC":"AX25_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/fb046a94-7cf6-4441-8ae6-0cb2ae3dc9a4",
+									"nombre":"Acceptance formative stay",
+									"codigoBC":"AX24_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX24_PO.01-PR.06.02+Acceptance+formative+stay.docm/3ce1b8ec-c737-030b-5bc3-b21dce146e97?t=1640273104533",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_26",
-									"nombre":"General conditions for stays",
-									"codigoBC":"AX26_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c700c0ce-e3ae-44df-a46d-cc372117029a",
+									"nombre":"Acceptance research collaboration stay",
+									"codigoBC":"AX25_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX25_PO.01-PR.06.02+Acceptance+research+collaboration+stay.docm/880e13c5-4774-a885-383e-4847133bca2f?t=1640273104765",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
 									"nivel":"3_08_01_27",
+									"nombre":"General conditions for stays",
+									"codigoBC":"AX26_PO.01-PR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX26_PO.01-PR.06.01+General+conditions+for+stays.pdf/5755f9ef-8e8f-5f1b-1cb6-df6d98099203?t=1640273105019",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},			
+								{
+									"nivel":"3_08_01_28",
 									"nombre":"Agreement formative stay",
 									"codigoBC":"AX27_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e855aad5-781a-4b89-a9fd-38656c273f75",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX27_PO.01.PR.06.01+Agreement+formative+stay.docx/f8ded83f-7319-4f36-539c-6adaa8010796?t=1640273105201",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},			
 								{
-									"nivel":"3_08_01_28",
+									"nivel":"3_08_01_29",
 									"nombre":"Agreement collaborative stay",
 									"codigoBC":"AX28_PO.01-PR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/75401819-e505-4207-8fb8-dff454a6d115",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/336074/AX28_PO.01-PR.06.02+Agreement+collaborative+stay.docx/8dd2569f-959e-6a51-e057-5aaa6486d364?t=1640273107234",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -2634,6 +2634,310 @@
 					"extension":"",
 					"subnivel":	[
 						{
+							"nivel":"3_21_05",
+							"nombre":"Limpieza del laboratorio",
+							"codigoBC":"PO.01-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_05_01",
+									"nombre":"Limpieza del laboratorio de cultivos",
+									"codigoBC":"PO.01-SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346645/PO.01-SPR.04.02+-+Limpieza+del+laboratorio+de+cultivos.pdf/59ac4c19-77bc-4d4e-2faa-f18ec8d71861?t=1641895573066",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_05_02",
+									"nombre":"Programa registro limpieza Sala Area 2",
+									"codigoBC":"AX01_PO.01_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346645/AX01_PO.01_SPR.04.02+Registro+limpieza+Sala+Area2.docx/f85cf167-3506-3ca4-9849-a20a6c2e5b5e?t=1641895572407",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_05_03",
+									"nombre":"Programa registro limpieza Sala 1 Area 1",
+									"codigoBC":"AX02_PO.01_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346645/AX02_PO.01_SPR.04.02+Programa+registro+limpieza+Sala1+Area1.docx/daeae5b6-ba98-81eb-1abc-4b983eab9781?t=1641895572676",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_05_04",
+									"nombre":"Programa registro limpieza Sala 2 Area 1",
+									"codigoBC":"AX03_PO.01_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346645/AX03_PO.01_SPR.04.02+Programa+registro+limpieza+Sala2+Area1.docx/246d79b3-eb3f-4992-b7bd-6f304475e042?t=1641895572874",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_21_06",
+							"nombre":"Normas de uso de la plataforma cultivos celulares",
+							"codigoBC":"PO.03-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_06_01",
+									"nombre":"Normas uso plataforma cultivos",
+									"codigoBC":"PO.03_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346648/PO.03-SPR.04.01_Normas_uso_plataforma_cultivos.pdf/fcac9c6b-7e73-07af-4f15-f731bc4ee6ec?t=1641895606830",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_06_02",
+									"nombre":"Solicitud uso PAI Cultivos",
+									"codigoBC":"AX01_PO.03_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346648/AX01_PO.03-SPR.04.01_Solicitud_uso_PAI_Cultivos.docx/befc7e53-a3c6-ce65-8e4e-8e296f899025?t=1641895606574",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_06_03",
+									"nombre":"Normas entrada sala Presión Negativa",
+									"codigoBC":"AX02_PO.03_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346648/AX02_PO.03-SPR.04.01_+Normas_entrada_sala_Presi%C3%B3n_Negativa.docx/c07d014d-ad99-bc8e-cc01-bc3127a3254c?t=1641895606411",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_06_04",
+									"nombre":"Normas entrada sala Presión Positiva",
+									"codigoBC":"AX03_PO.03_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346648/AX03_PO.03-SPR.04.01_+Normas_entrada_sala_Presi%C3%B3n_Positiva.docx/ad87ecba-8480-f18c-2986-8664c78bf93a?t=1641895606203",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_21_07",
+							"nombre":"Control ambiental de la plataforma de cultivos celulares",
+							"codigoBC":"PO.04-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_07_01",
+									"nombre":"Control ambiental de la plataforma de cultivos celulares",
+									"codigoBC":"PO.04_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346651/PO.04.SPR.04.01+Control+ambiental+de+la+plataforma+de+cultivos+celulares.pdf/279356d2-cd99-7055-5be5-116e17cb536c?t=1641895635250",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_07_02",
+									"nombre":"Registro control ambiental",
+									"codigoBC":"AX01_PO.04_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346651/AX01_PO.04-SPR.04.01+Registro+control+ambiental.xlsx/65784d79-c3eb-4ecf-b790-429de07ee7a4?t=1641895633569",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_21_08",
+							"nombre":"Funcionamiento de las cabinas de seguridad biológicas Bio II Adavanced de Telstar",
+							"codigoBC":"PO.05-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_08_03",
+									"nombre":"Funcionamiento de las CBS Biologicas Bio II Adavanced de Telstar",
+									"codigoBC":"PO.05_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346654/PO.05-SPR.04.01+-+Funcionamiento+de+las+CBS+Biologicas+Bio+II+Adavanced+de+Telstar.pdf/c462ee3c-93d0-8b0b-2420-5d6e1a2df76b?t=1641895666440",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_08_01",
+									"nombre":"Registro Uso de las Cabinas Seguridad Biologica Área 2",
+									"codigoBC":"AX01_PO.05_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346654/AX01_PO.05-SPR.04.01+Registro+Uso+de+las+Cabinas+Seguridad+Biologica+%C3%81rea+2+.docx/5036e6aa-01bd-7d45-5e7e-bdc7f147d29e?t=1641895666086",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_08_02",
+									"nombre":"Registro Uso de las Cabina Seguridad Biologica Área 1",
+									"codigoBC":"AX02_PO.05_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346654/AX02_PO.05-SPR.04.01+Registro+Uso+de+las+Cabina+Seguridad+Biologica+%C3%81rea+1.docx/c6a4c7de-058d-301d-8beb-5d1df6e08abf?t=1641895666269",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_21_09",
+							"nombre":"Limpieza y Mantenimiento de las Cabinas Seguridad Biologicas Bio II",
+							"codigoBC":"PO.06-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_09_01",
+									"nombre":"Limpieza y Mantenimiento de las CBS Bio II",
+									"codigoBC":"PO.06_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346657/PO.06-SPR.04.01+-+Limpieza+y+Mantenimiento+de+las+CBS+Bio+II.pdf/afa883fb-525a-90ac-654f-e70dcd697ae0?t=1641895705799",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_09_02",
+									"nombre":"Registro limpieza de las Cabinas Seguridad Biologica Área 1 y 2",
+									"codigoBC":"AX01_PO.06_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346657/PO.06-SPR.04.01+-+Limpieza+y+Mantenimiento+de+las+CBS+Bio+II.pdf/afa883fb-525a-90ac-654f-e70dcd697ae0?t=1641895705799",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_09_03",
+									"nombre":"Registro preventivo de las Cabinas de Seguridad Biologica Área 1 y 2",
+									"codigoBC":"AX02_PO.06_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346657/AX02_PO.06+SPR.04.01+Registro+preventivo+Cabinas+Seguridad+Biologica+%C3%81rea+1+y+2.docx/3694d2b3-3384-caae-2cd8-0e4c4593c583?t=1641895705651",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_21_10",
+							"nombre":"Tareas Rutinarias de Control y Mantenimiento",
+							"codigoBC":"PO.07-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_10_01",
+									"nombre":"Tareas Rutinarias de Control y Mantenimiento",
+									"codigoBC":"PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/PO.07-SPR.04.01+Tareas+Rutinarias+de+Control+y+Mantenimiento.pdf/121b6728-80e8-2892-3d08-9ef03da0ccdc?t=1641895747860",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_02",
+									"nombre":"Registro de control de tareas rutinarias",
+									"codigoBC":"AX01_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX01_PO.07-SPR.04.01+Registro+de+control+de+tareas+rutinarias.xlsx/41997e38-47a9-a091-22fc-6d2d9cf2f3da?t=1641895743475",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_03",
+									"nombre":"Registro de Control del area de presion negativa",
+									"codigoBC":"AX02_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX02_PO.07-SPR.04.01+Registro+de+Control+del+area+de+presion+negativa.xlsx/b929d5d2-8252-8e95-aad5-784afe95abce?t=1641895743594",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_04",
+									"nombre":"Registro de Control del area de presion positiva",
+									"codigoBC":"AX03_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX03_PO.07-SPR.04.01+Registro+de+Control+del+area+de+presion+positiva.xlsx/04abd62c-66ae-ce91-9291-badde6ac87d5?t=1641895743718",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_05",
+									"nombre":"Hoja pedido bombona CO2-Air liquide",
+									"codigoBC":"AX04_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX04_PO.07-SPR.04.01+Hoja+pedido+bombona+CO2-Air+liquide.xlsx/6009d464-6cb2-222f-ad23-b1a7e4f2b0ad?t=1641895743827",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_06",
+									"nombre":"Hoja pedido nitrogeno-Air liquide",
+									"codigoBC":"AX05_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX05_PO.07-SPR.04.01+Hoja+pedido+nitrogeno-Air+liquide+.xlsx/e8a22847-ee79-4735-2cf5-ebfe68a336a8?t=1641895744110",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_07",
+									"nombre":"Hoja de pedido nitrogeno-Air liquide primera planta",
+									"codigoBC":"AX06_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX06_PO.07-SPR.04.01+Hoja+de+pedido+nitrogeno-Air+liquide+primera+planta.xlsx/c15b0666-27fd-5883-433c-226d92fe0f1f?t=1641895747220",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_08",
+									"nombre":"Registro de Partes",
+									"codigoBC":"AX07_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX07_PO.07-SPR.04.01+Registro+de+Partes.xlsx/032b13aa-87fe-fdc8-6abc-6aaecc9dd559?t=1641895747599",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_10_09",
+									"nombre":"Registro pedidos gases N2 y CO2",
+									"codigoBC":"AX08_PO.07_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346660/AX08_PO.07-SPR.04.01+Registro+pedidos+gases+N2+y+CO2.xlsx/d03b1097-9ea5-0422-fcda-0e9ac4d43720?t=1641895747720",
+									"tipo":"file",
+									"extension":"xls",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_21_11",
+							"nombre":"Limpieza del laboratorio de cultivos",
+							"codigoBC":"PO.09-SPR.04",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_21_11_01",
+									"nombre":"Limpieza del laboratorio de cultivos del Instituto Biocruces Bizkaia",
+									"codigoBC":"PO.09_SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346663/PO.09.SPR.04.01+Limpieza+del+laboratorio+de+cultivos+del+Instituto+Biocruces.pdf/c502113e-b0f5-ad58-6628-660e80a60895?t=1641895848204",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
 							"nivel":"3_21_01",
 							"nombre":"Normas de uso en el área de presión negativa",
 							"codigoBC":"IT.01-SPR.04",
@@ -2645,7 +2949,7 @@
 									"nivel":"3_21_01_01",
 									"nombre":"Normas uso área presión negativa",
 									"codigoBC":"IT.01-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e948a6f0-8af7-4dbf-8c76-03e030fa692f",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346666/IT.01-SPR.04.01_Normas_uso_area_presion_negativa.pdf/45238268-b48e-564c-8176-382aedc73d92?t=1641899349505",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -2664,7 +2968,7 @@
 									"nivel":"3_21_02_01",
 									"nombre":"Normas uso área presión positiva",
 									"codigoBC":"IT.02-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa6a9cd8-98ed-44b1-8a86-c6de20fb2798",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346669/IT.02-SPR.04.01_Normas_uso_area_presion_positiva.pdf/ce16cb12-c691-6a79-6c27-b364159dbde3?t=1641899368697",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -2681,29 +2985,29 @@
 							"subnivel":[
 								{
 									"nivel":"3_21_03_01",
-									"nombre":"Registro de uso del tanque Arpege 140",
-									"codigoBC":"AX01_IT.03-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c1a16cf1-7828-42d5-92c4-4793096486f2",
+									"nombre":"Instrucciones de uso de los tanques de nitrógeno",
+									"codigoBC":"IT.03-SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346672/IT.03-SPR.04.01+Instrucciones+de+uso+de+los+tanques+de+nitrogeno.pdf/2b398f5a-7237-9ea7-5fd1-97c3f5c59d11?t=1641899393631",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_21_03_02",
-									"nombre":"Registro de uso del tanque Espace 151",
-									"codigoBC":"AX02_IT.03-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/92f0b63a-b010-4766-92c0-6167f4ac832b",
+									"nombre":"Registro de uso del tanque Arpege 140",
+									"codigoBC":"AX01_IT.03-SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346672/AX01_IT.03-SPR.04.01+Registro+de+uso+del+tanque+Arpege+140.docx/cffdfa07-eca6-0156-11ea-d5c841c67921?t=1641899393359",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_21_03_03",
-									"nombre":"Instrucciones de uso de los tanques de nitrógeno",
-									"codigoBC":"IT.03-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4689370f-4a51-43c1-b601-c77fd1cfaee6",
+									"nombre":"Registro de uso del tanque Espace 151",
+									"codigoBC":"AX02_IT.03-SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346672/AX02_IT.03-SPR.04.01+Registro+de+uso+del+tanque+Espace+151.docx/fd8ef65a-8702-d890-4208-44cbdc78f4ef?t=1641899393496",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -2717,26 +3021,25 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_21_04_01",
-									"nombre":"Registro de limpieza de los tanques",
-									"codigoBC":"AX01_IT.04-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d8bbbbb8-eee9-45f0-8734-db86021ee09e",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
 									"nivel":"3_21_04_02",
 									"nombre":"Instrucciones de limpieza y mantenimiento de tanques de nitrógeno",
 									"codigoBC":"IT.04-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d0e056b9-55f6-4e82-99c8-cd1dabc6350c",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346675/IT.04-SPR.04.01+Instrucciones+de+limpieza+y+mantenimiento+de+tanques+de+nitrogeno.pdf/c27a6ca8-50d6-5ec6-d277-7b758363ca11?t=1641899419382",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
+								},
+								{
+									"nivel":"3_21_04_01",
+									"nombre":"Registro de limpieza de los tanques",
+									"codigoBC":"AX01_IT.04-SPR.04",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346675/AX01_IT.04-SPR.04.01+Registro+de+limpieza+de+los+tanques.docx/cd922077-0f5c-90a1-44df-3558506085f2?t=1641899419217",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
 								}
 							]
-						}
-						,
+						},
 						{
 							"nivel":"3_21_12",
 							"nombre":"Instrucciones de la lavadora desinfectante MAT LD500",
@@ -2746,28 +3049,28 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_21_12_03",
+									"nivel":"3_21_12_01",
 									"nombre":"Instrucciones de la lavadora desinfectante MAT LD500",
 									"codigoBC":"IT.05-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c2b0a822-a9ec-49af-a5c4-b7f4a5e1a54f",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346678/IT.05-SPR.04.01+Lavadora+desinfectadora+MAT+LD500.pdf/7e4c53b1-c3d8-f69a-c37e-620196a2d261?t=1641899443190",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_21_12_01",
+									"nivel":"3_21_12_02",
 									"nombre":"Hoja de registro de uso",
 									"codigoBC":"AX01_IT.05-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0cc8f2e1-5cb9-4973-902d-81e4e600d20a",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346678/AX01_IT.05-SPR.04.01+Hoja+de+registro+de+uso.docx/67a10fa8-057d-89b2-f2b8-ae03cd887bec?t=1641899442821",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_21_12_02",
+									"nivel":"3_21_12_03",
 									"nombre":"Hoja limpieza y mantenimiento",
 									"codigoBC":"AX02_IT.05-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1f4944f3-a736-4894-af6f-0cb127e521e4",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346678/AX02_IT.05-SPR.04.01+Hoja+limpieza+y+mantenimiento.docx/f337e949-c605-f243-12c9-d239ff31d224?t=1641899442997",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -2783,25 +3086,25 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_21_13_03",
+									"nivel":"3_21_13_01",
 									"nombre":"Estufa Memmert UF750 Plus",
 									"codigoBC":"IT.06-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ac6c1ac0-70bb-4ca8-9e21-3d027ffc8a8a",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346681/IT.06-SPR.04.01+Estufa+Memmert+UF750+Plus.pdf/80945961-4aa8-29c7-3ce2-3f7df8d1a223?t=1641899464929",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_21_13_01",
+									"nivel":"3_21_13_02",
 									"nombre":"Registro de uso",
 									"codigoBC":"AX01_IT.06-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a309a9c3-0cc4-4b2b-b78a-10b8a5b3b4d1",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346681/AX01_IT.06-SPR.04.01+Registro+de+uso.docx/a5b7ccf1-62a7-951d-0f93-3c1eafe243a9?t=1641899464573",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_21_13_02",
+									"nivel":"3_21_13_03",
 									"nombre":"Hoja de limpieza y mantenimiento",
 									"codigoBC":"AX02_IT.06-SPR.04",
 									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/107e781f-a16c-4ace-9b10-13772e158706",
@@ -2823,7 +3126,7 @@
 									"nivel":"3_21_14_04",
 									"nombre":"Uso del Esterilizador SC501",
 									"codigoBC":"IT.07-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b92ad961-f8e0-40c7-9d7c-0a84f2d97ca1",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346684/IT.07-SPR.04.01+Uso+del+Esterilizador+SC501.pdf/da677d86-e8f1-2fe7-8946-a98735fb14b8?t=1641899484792",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -2832,7 +3135,7 @@
 									"nivel":"3_21_14_01",
 									"nombre":"Registro de uso",
 									"codigoBC":"AX01_IT.07-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3beec05d-3ec5-4a82-92fd-3d1ac59510ea",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346684/AX01_IT.07-SPR.04.01+Registro+de+uso.docx/c3c8d096-7f3c-513a-dc88-ebdb2e49f111?t=1641899485036",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -2841,7 +3144,7 @@
 									"nivel":"3_21_14_02",
 									"nombre":"Hoja de limpieza y mantenimiento",
 									"codigoBC":"AX02_IT.07-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f35d62e4-0202-4f64-a5a6-f35ce7e174e4",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346684/AX02_IT.07-SPR.04.01+Hoja+de+limpieza+y+mantenimiento.docx/f28560d2-679c-83e2-3d9d-ebc4c91dd8e8?t=1641899482313",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -2850,326 +3153,13 @@
 									"nivel":"3_21_14_03",
 									"nombre":"Registro de test de vacio y Bowie y Dick",
 									"codigoBC":"AX03_IT.07-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d3b48658-35b3-4a6c-9976-20f29cddce71",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/346684/AX03_IT.07-SPR.04.01+Registro+de+test+de+vacio+y+Bowie+y+Dick.docx/7a6e48ea-9ad5-0ea7-3776-7f7c7f4fd960?t=1641899482511",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
-						},
-						{
-							"nivel":"3_21_05",
-							"nombre":"Limpieza del laboratorio",
-							"codigoBC":"PO.01-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_05_01",
-									"nombre":"Programa registro limpieza Sala Area 2",
-									"codigoBC":"AX01_PO.01_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1646d223-80c8-4f7d-b1da-9ee374672ee2",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_05_02",
-									"nombre":"Programa registro limpieza Sala 1 Area 1",
-									"codigoBC":"AX02_PO.01_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0f8240a7-57c7-4a50-96d9-44547772f539",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_05_03",
-									"nombre":"Programa registro limpieza Sala 2 Area 1",
-									"codigoBC":"AX03_PO.01_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/401df560-dcd8-4dad-a26b-2b6e7034deab",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_05_04",
-									"nombre":"Limpieza del laboratorio de cultivos",
-									"codigoBC":"PO.01_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/27e6ecce-70d0-4d04-b543-d8b9aaea3cb5",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_05_05",
-									"nombre":"Limpieza del laboratorio de cultivos",
-									"codigoBC":"PO.01-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/51ca585a-7ebb-4ac4-8087-c8e7946eb5d6",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_21_06",
-							"nombre":"Normas de uso de la plataforma cultivos celulares",
-							"codigoBC":"PO.03-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_06_01",
-									"nombre":"Solicitud uso PAI Cultivos",
-									"codigoBC":"AX01_PO.03_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/83ff8fd3-3991-48e1-8b23-390aae81392f",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_06_02",
-									"nombre":"Normas entrada sala Presión Negativa",
-									"codigoBC":"AX02_PO.03_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7f4211d0-28f0-4abf-89fa-82e219603909",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_06_03",
-									"nombre":"Normas entrada sala Presión Positiva",
-									"codigoBC":"AX03_PO.03_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3d565439-98f0-402a-ab15-8d989f940b09",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_06_04",
-									"nombre":"Normas_uso_plataforma_cultivos",
-									"codigoBC":"PO.03_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1088ede1-88b1-47ef-a894-16ef215494c2",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_21_07",
-							"nombre":"Control ambiental de la plataforma de cultivos celulares",
-							"codigoBC":"PO.04-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_07_01",
-									"nombre":"Registro control ambiental",
-									"codigoBC":"AX01_PO.04_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3972f341-cdfb-4fe2-b787-8eb02ed8c907",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_07_02",
-									"nombre":"Control ambiental de la plataforma de cultivos celulares",
-									"codigoBC":"PO.04_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/26fd9c80-a1c8-44d5-b168-e379d30cc8c9",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_21_08",
-							"nombre":"Funcionamiento de las cabinas de seguridad biológicas Bio II Adavanced de Telstar",
-							"codigoBC":"PO.05-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_08_01",
-									"nombre":"Registro Uso de las Cabinas Seguridad Biologica Área 2",
-									"codigoBC":"AX01_PO.05_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6dec377d-6915-4951-b280-ec475f81ce74",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_08_02",
-									"nombre":"Registro Uso de las Cabina Seguridad Biologica Área 1",
-									"codigoBC":"AX02_PO.05_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/82294a6e-6e47-42ba-9414-7dd927f5c27c",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_08_03",
-									"nombre":"Funcionamiento de las CBS Biologicas Bio II Adavanced de Telstar",
-									"codigoBC":"PO.05_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/09d026a0-efd2-4e19-aab0-a2c3362ae83d",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_21_09",
-							"nombre":"Limpieza y Mantenimiento de las Cabinas Seguridad Biologicas Bio II",
-							"codigoBC":"PO.06-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_09_01",
-									"nombre":"Registro limpieza de las Cabinas Seguridad Biologica Área 1 y 2",
-									"codigoBC":"AX01_PO.06_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0c9e666b-754a-4027-b6dd-8594f3a064a1",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_09_02",
-									"nombre":"Registro preventivo de las Cabinas de Seguridad Biologica Área 1 y 2",
-									"codigoBC":"AX02_PO.06_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1c8cade4-7567-4a36-be4c-5a5aad931ace",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_09_03",
-									"nombre":"Limpieza y Mantenimiento de las CBS Bio II",
-									"codigoBC":"PO.06_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/674fc7b4-a9de-4b09-8d08-f594204eff56",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_21_10",
-							"nombre":"Tareas Rutinarias de Control y Mantenimiento",
-							"codigoBC":"PO.07-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_10_01",
-									"nombre":"Registro de control de tareas rutinarias",
-									"codigoBC":"AX01_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2585dc07-e714-4a9c-86e4-747df2e65e74",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_02",
-									"nombre":"Registro de Control del area de presion negativa",
-									"codigoBC":"AX02_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2983afc3-ed2a-46c7-9e9f-78348bb1f0a1",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_03",
-									"nombre":"Registro de Control del area de presion positiva",
-									"codigoBC":"AX03_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2f6ebf2e-9b15-4503-ae3f-7f9a84216d92",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_04",
-									"nombre":"Hoja pedido bombona CO2-Air liquide",
-									"codigoBC":"AX04_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/81f38990-797f-418b-a7c1-3afca4406951",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_05",
-									"nombre":"Hoja pedido nitrogeno-Air liquide",
-									"codigoBC":"AX05_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d5b8a643-7cf5-45e6-bc61-13351db1264d",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_06",
-									"nombre":"Hoja de pedido nitrogeno-Air liquide primera planta",
-									"codigoBC":"AX06_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2dafaf16-b663-4f51-a018-e58808edff8a",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_07",
-									"nombre":"Registro de Partes",
-									"codigoBC":"AX07_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9e1074d6-924b-4db6-9e1a-c0c53af4e997",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_08",
-									"nombre":"Registro pedidos gases N2 y CO2",
-									"codigoBC":"AX08_PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/15c41298-2d4f-4cfb-9b97-14c9ac9fc566",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_10_09",
-									"nombre":"Tareas Rutinarias de Control y Mantenimiento",
-									"codigoBC":"PO.07_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/60f4239e-9552-49e5-93b5-2c37d6c0667b",
-									"tipo":"file",
-									"extension":"pdf",
-									"subnivel":	[]
-								}
-							]
-						},
-						{
-							"nivel":"3_21_11",
-							"nombre":"Limpieza del laboratorio de cultivos",
-							"codigoBC":"PO.09-SPR.04",
-							"url":"",
-							"tipo":"folder",
-							"extension":"",
-							"subnivel":[
-								{
-									"nivel":"3_21_11_01",
-									"nombre":"Limpieza del laboratorio de cultivos del Instituto Biocruces Bizkaia",
-									"codigoBC":"PO.09_SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/fe661463-6074-442c-b511-d4baaec694fa",
-									"tipo":"file",
-									"extension":"xls",
-									"subnivel":	[]
-								}
-							]
-						}
+						}						
 					]
 				},
 				{
@@ -3191,8 +3181,8 @@
 								{
 									"nivel":"3_22_01_01",
 									"nombre":"Almacenamiento de productos",
-									"codigoBC":"AX01_PO.04-SPR.06",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/44883641-c420-405b-a501-614c6ec666a0",
+									"codigoBC":"PO.04-SPR.06",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/345111/PO.04-SPR.06.01+-+Almacenamiento+de+productos.pdf/0fa76100-8afa-317e-2a6b-a5c2f15f3d21?t=1641901605683",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3221,7 +3211,7 @@
 									"nivel":"3_23_01_01",
 									"nombre":"Determinación de arginina y sus derivados metilados",
 									"codigoBC":"PO.01-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/64f7ee22-e744-4621-b816-52687c2641ea",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347573/PO.01-SPR.09.01+Determinaci%C3%B3n+de+arginina+y+sus+derivados+metilados.pdf/a5bc27c7-9284-1a45-c86f-7ac345005ea5?t=1641901903135",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3240,7 +3230,7 @@
 									"nivel":"3_23_02_01",
 									"nombre":"Determinación de aminoácidos",
 									"codigoBC":"PO.02-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7ffe912e-4b7a-401b-8995-288f783ed0ad",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347576/PO.02-SPR.09.01+Determinaci%C3%B3n+de+amino%C3%A1cidos.pdf/f501cbbe-4d08-2d9b-b8c9-ab08fbf39ecc?t=1641901926389",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3259,7 +3249,7 @@
 									"nivel":"3_23_03_01",
 									"nombre":"Determinación de glucosaminoglicanos en orina",
 									"codigoBC":"PO.03-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/90c690aa-60f3-41a7-973d-14da02a200d3",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347579/PO.03-SPR.09.01+Determinaci%C3%B3n+de+glucosaminoglicanos+en+orina.pdf/a993e2ef-5458-431b-86ea-d7ebe585db00?t=1641901940315",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3278,7 +3268,7 @@
 									"nivel":"3_23_04_01",
 									"nombre":"Determinación de nitisinona",
 									"codigoBC":"PO.04-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f7470e64-c1e8-4e08-a338-c0e47ad6deca",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347582/PO.04-SPR.09.01+Determinaci%C3%B3n+de+nitisinona.pdf/549064fa-b07e-7838-331e-51c4a8d92be0?t=1641901962716",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3297,7 +3287,7 @@
 									"nivel":"3_23_05_01",
 									"nombre":"Almacenamiento y manipulación de muestras NTBC",
 									"codigoBC":"PO.05-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8db60a37-c6f6-4347-bcff-6bac951d7d20",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347585/PO.05-SPR.09.01+Almacenamiento+y+manipulaci%C3%B3n+de+muestras+NTBC.pdf/1f2f9c41-f41a-4d5d-51d8-388e7a39ea5e?t=1641901985792",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3316,7 +3306,7 @@
 									"nivel":"3_23_06_01",
 									"nombre":"Solicitud y aceptación de análisis de NTBC",
 									"codigoBC":"PO.06-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/33c80b3c-d349-44c8-97f4-5c640e12986c",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347588/PO.06-SPR.09.01+Solicitud+y+aceptaci%C3%B3n+de+an%C3%A1lisis+de+NTBC.pdf/f37cafb4-3b7a-4526-ee0b-faf9b8e3c913?t=1641902010770",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3325,9 +3315,9 @@
 									"nivel":"3_23_06_02",
 									"nombre":"Hoja de solicitud de NTBC",
 									"codigoBC":"AX01-PO.06-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/21a727dc-7edf-4599-85dd-05923af91913",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347588/AX01_PO.06-SPR.09.01+Hoja+de+solicitud+de+NTBC.docx/d32d0a71-f897-b957-eae8-319b47eb968d?t=1641902010539",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -3344,7 +3334,7 @@
 									"nivel":"3_23_07_01",
 									"nombre":"Compras en metabolómica",
 									"codigoBC":"PO.07-SPR.09",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/61d50a34-03c1-4838-89a0-ee68f85a74db",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347591/PO.07-SPR.09.01+Compras+en+Metabol%C3%B3mica.pdf/349e6774-9afd-1390-67f4-9cf115a75c43?t=1641902022844",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3370,19 +3360,19 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_24_01_02",
+									"nivel":"3_24_01_01",
 									"nombre":"Procedimiento operativo microscopía Nikon Eclipse TE-2000E",
 									"codigoBC":"PO.02-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/980f7680-9d7e-4820-adc9-f906357f7571",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347740/PO.02-SPR.05.01+Procedimiento+operativo+microscop%C3%ADa+Nikon+Eclipse+TE-2000E.pdf/6cfe7349-4854-8697-dcb6-1e05c29f5d88?t=1641903627198",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_24_01_01",
+									"nivel":"3_24_01_02",
 									"nombre":"Registro Uso Microscopio Nikon Eclipse TE2000-E",
 									"codigoBC":"AX01_PO.02-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9615d889-441f-49a9-a452-ddbbe9e57ba5",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347740/AX01_PO.02.SPR.05.01+Registro+Uso+Microscopio+Nikon+Eclipse+TE2000-E.docx/be6a3395-58de-c75a-bb58-f311a12ecf1a?t=1641903627046",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -3401,16 +3391,16 @@
 									"nivel":"3_24_02_01",
 									"nombre":"Procedimiento operativo microscopía Leica DMI 6000B",
 									"codigoBC":"PO.03-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f798f1ab-ae72-42e6-9db2-e7dae8573852",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347743/PO.03-SPR.05.01+Procedimiento+operativo+microscop%C3%ADa+Leica+DMI+6000B.pdf/c6ff4366-52b3-71ed-88d1-520eaead984b?t=1641903651581",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_24_02_01",
+									"nivel":"3_24_02_02",
 									"nombre":"Registro Uso Microscopio Leica DMI 6000B",
 									"codigoBC":"AX01_PO.03-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0d80d8d3-77b5-4d49-89fe-6bb12336325e",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347743/AX01_PO.03.SPR.05.01+Registro+Uso+Microscopio+Leica+DMI+6000B.docx/5fe1c662-5621-a645-4f91-b1bea654f3f0?t=1641903651448",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -3426,55 +3416,55 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_24_03_06",
+									"nivel":"3_24_03_01",
 									"nombre":"Procedimiento de uso y mantenimiento de la plataforma de microscopia",
 									"codigoBC":"PO.01-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9ab0abf6-32d8-4f04-8c1d-8f3a8b1225d0",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347746/PO.04.SPR.05.01+Procedimiento+de+uso+y+mantenimiento+de+la+plataforma+de+microscopia.pdf/6d47545d-d57e-402d-422e-63db1ca3840f?t=1641903684412",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_24_03_01",
+									"nivel":"3_24_03_02",
 									"nombre":"Solicitud uso Plataforma Microscopía",
 									"codigoBC":"AX01_PO.04-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31b6e7ea-f58a-4e74-8059-248a4fb124ba",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"3_24_03_02",
-									"nombre":"Registro Uso de la Work station",
-									"codigoBC":"AX02_PO.04-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cdaffd59-ad94-4427-82ea-1ee1853994ea",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347746/AX01_PO.04.SPR.05.01+Solicitud+uso+Plataforma+Microscop%C3%ADa.docx/9ae2f1cd-e071-bfa6-9648-2ad44504026f?t=1641903683639",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_24_03_03",
-									"nombre":"Registro Uso Microscopio Zeiss Observer Apotome2",
-									"codigoBC":"AX03_PO.04-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d518e9c3-3d09-4291-988a-5cc9c519d103",
+									"nombre":"Registro Uso de la Work station",
+									"codigoBC":"AX02_PO.04-SPR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347746/AX02_PO.04.SPR.05.01+Registro+Uso+de+la+Work+station.docx/897b449c-8032-0786-639d-acf5a9996542?t=1641903683868",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_24_03_04",
+									"nombre":"Registro Uso Microscopio Zeiss Observer Apotome2",
+									"codigoBC":"AX03_PO.04-SPR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347746/AX03_PO.04.SPR.05.01+Registro+Uso+Microscopio+Zeiss+Observer+Apotome2.docx/702bdba6-b54d-2263-0cce-574c031edef0?t=1641903683986",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_24_03_05",
 									"nombre":"Registro Uso Microscopio Zeiss Observer LSM880 Airyscan",
 									"codigoBC":"AX04_PO.04-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/402ec103-1cbe-4042-b292-ba930b3a1143",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347746/AX04_PO.04.SPR.05.01+Registro+Uso+Microscopio+Zeiss+Observer+LSM880+Airyscan.docx/3f6ce152-9731-ff71-bd4a-a3749466fbb4?t=1641903684124",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},				
 								{
-									"nivel":"3_24_03_05",
+									"nivel":"3_24_03_06",
 									"nombre":"Tarifas microscopia",
 									"codigoBC":"AX05_PO.04-SPR.05",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3ec0ba58-a872-437f-b9f9-57a9b1188c46",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347746/AX05_PO.04.SPR.05.01Tarifas+microscopia.docx/b174f301-7b68-d6db-581c-c128731c1d22?t=1641903684245",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -3513,7 +3503,7 @@
 									"nivel":"3_26_01_01",
 									"nombre":"Solicitud servicio de citometria",
 									"codigoBC":"PO.01-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa6fa10e-0af4-4499-bfc5-6397e554eeb7",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347945/PO.01-SPR.02.01+Solicitud+servicio+de+citometria.pdf/77b44b17-0d19-cd52-8c17-7c34d3d4a8b6?t=1641905339970",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3522,7 +3512,7 @@
 									"nivel":"3_26_01_02",
 									"nombre":"Ficha de solicitud",
 									"codigoBC":"AX01_PO.01-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ab709959-1e45-4175-b532-f56d492ffe2d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347945/AX01_PO.01-SPR.02.01+Ficha+de+solicitud.docx/0df8cae1-394d-d42b-7a4f-db151f6934b5?t=1641905339770",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -3531,7 +3521,7 @@
 						},
 						{
 							"nivel":"3_26_02",
-							"nombre":"Estudio del ciclo celular por citometría de flujo",
+							"nombre":"Estudio del ciclo celular",
 							"codigoBC":"PO.02-SPR.02",
 							"url":"",
 							"tipo":"folder",
@@ -3542,7 +3532,7 @@
 									"nivel":"3_26_02_01",
 									"nombre":"Estudio del ciclo celular por citometría de flujo",
 									"codigoBC":"PO.02-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8438bc03-f87d-4d3c-b85b-4f48452d13db",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347948/PO.02-SPR.02.01+Estudio+del+ciclo+celular+por+citometr%C3%ADa+de+flujo.pdf/e1e59a88-90fd-2bb0-de93-c177dd37918f?t=1641905356594",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3562,7 +3552,7 @@
 									"nivel":"3_26_03_01",
 									"nombre":"Limpieza del citómetro Fortessa X20",
 									"codigoBC":"IT.01-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ae897b33-52aa-483e-857c-3aa674787d92",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347951/IT.01-SPR.02.02+Limpieza+del+cit%C3%B3metro+Fortessa+X20.pdf/54eec415-6920-1869-201e-cb65c8ac5843?t=1641905370017",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3582,7 +3572,7 @@
 									"nivel":"3_26_04_01",
 									"nombre":"Mantenimiento de fluidos del citómetro de flujo MACSQuant",
 									"codigoBC":"IT.02-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/42d6c8a7-43e3-4ce6-ba4c-2f1177dc00e5",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347954/IT.02-SPR.02.01+Mantenimiento+de+fluidos+del+cit%C3%B3metro+de+flujo+MACSQuant.pdf/004d9b3f-96b7-22e4-6440-df6efc135ea8?t=1641905396818",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3602,7 +3592,7 @@
 									"nivel":"3_26_04_01",
 									"nombre":"Calibración PMT del MACSQuant",
 									"codigoBC":"IT.03-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8a95b2dd-cec7-4d71-a51c-5ca8792d55b9",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347957/IT.03-SPR.02.01+Calibraci%C3%B3n+PMT+del+MACSQuant.pdf/e3ed0429-ec14-806b-8d55-3810032f944a?t=1641905416292",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3622,7 +3612,7 @@
 									"nivel":"3_26_06_01",
 									"nombre":"Compensación de fluorescencia MACSQuant",
 									"codigoBC":"IT.04-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9d4fff55-322a-4a19-909e-65b40aa49412",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347960/IT.04-SPR.02.01+Compensaci%C3%B3n+de+fluorescencia+MACSQuant.pdf/9ece2a81-ea12-64c2-6fcc-2eba82fbd09c?t=1641905435870",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3642,7 +3632,7 @@
 									"nivel":"3_26_07_01",
 									"nombre":"Diseño de experimento de adquisición en MACSQuant",
 									"codigoBC":"IT.05-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/73a9a8d0-7c8a-475c-8a64-b59050818e81",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347963/IT.05-SPR.02.01+Dise%C3%B1o+de+experimento+de+adquisici%C3%B3n+en+MACSQuant.pdf/a2efc4e1-dcb8-c30a-72b2-8601c4bd0df6?t=1641905460254",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3662,7 +3652,7 @@
 									"nivel":"3_26_08_01",
 									"nombre":"Encendido y apagado del MACSQuant",
 									"codigoBC":"IT.06-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9acdc847-6bc6-4a67-8ed5-9678ee5112d8",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347966/IT.06-SPR.02.01+Encendido+y+apagado+del+MACSQuant.pdf/3eedc5be-adc9-844a-aa05-ec3ee650bb45?t=1641905481521",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3682,7 +3672,7 @@
 									"nivel":"3_26_09_01",
 									"nombre":"Performance check del Fortessa",
 									"codigoBC":"IT.07-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d554714b-2425-48e5-998a-04bbbaf35a4c",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347969/IT.07-SPR.02.01+Performance+check+del+Fortessa.pdf/92e47674-2f7e-5556-0f11-2b933137ac82?t=1641905503715",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3702,7 +3692,7 @@
 									"nivel":"3_26_10_01",
 									"nombre":"Configuración de experimento en Fortessa X20",
 									"codigoBC":"IT.08-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/15edef42-c1be-4a19-8744-34549f7163ae",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347972/IT.08-SPR.02.01+Configuraci%C3%B3n+de+experimento+en+Fortessa+X20.pdf/1bb359bf-8fbf-ff89-4f3e-a85a4353f0ac?t=1641905532280",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3719,10 +3709,10 @@
 							"subnivel":[
 								{
 							
-									"nivel":"3_26_10_01",
+									"nivel":"3_26_11_01",
 									"nombre":"Compensación de fluorescencia Fortessa X20",
 									"codigoBC":"IT.09-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/18325537-195a-4f71-ad93-fe18bec32015",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347975/IT.09-SPR.02.01+Compensaci%C3%B3n+de+fluorescencia+Fortessa+X20.pdf/b5537e6c-d3d1-d241-e9c8-7d70065c5612?t=1641905554011",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3742,7 +3732,7 @@
 									"nivel":"3_26_12_01",
 									"nombre":"Encendido y apagado del fortessa X20",
 									"codigoBC":"IT.10-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/21dac938-372e-46a0-902b-24a74836198b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347978/IT.10-SPR.02.01+Encendido+y+apagado+del+fortessa+X20.pdf/d9d0f5bb-caa4-cf02-4c8e-87b8eb7f8dd8?t=1641905573478",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3762,7 +3752,7 @@
 									"nivel":"3_26_13_01",
 									"nombre":"Baseline y Reset target values en Fortessa X20",
 									"codigoBC":"IT.11-SPR.02",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4c0ed45c-df1a-4dd7-ad15-6c50f3ee27d8",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/347981/IT.11-SPR.02.01+Baseline+y+Reset+target+values+en+Fortessa+X20.pdf/d8570cf2-54d8-19d0-ae15-a544e9518ff4?t=1641905618151",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3792,7 +3782,7 @@
 									"nivel":"3_27_01_01",
 									"nombre":"Organización de la utilización de la plataforma",
 									"codigoBC":"PO.01-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31738e34-d8fb-4345-b36c-13712fcc0b7b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348236/PO.01-SPR.15.01+Organizaci%C3%B3n+de+la+utilizaci%C3%B3n+de+la+plataforma.pdf/26acb64f-151a-ae5b-9bbf-24279266abad?t=1641906550394",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3801,7 +3791,7 @@
 						},
 						{
 							"nivel":"3_27_02",
-							"nombre":"Estudio del ciclo celular por citometría de flujo",
+							"nombre":"Recepción de pacientes",
 							"codigoBC":"PO.02-SPR.15",
 							"url":"",
 							"tipo":"folder",
@@ -3810,9 +3800,9 @@
 								{
 							
 									"nivel":"3_27_02_01",
-									"nombre":"Estudio del ciclo celular por citometría de flujo",
+									"nombre":"Recepción de pacientes",
 									"codigoBC":"PO.02-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/69867d5f-bf09-41ba-b577-7f54de84c17f",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348239/PO.02-SPR.15.01+Recepci%C3%B3n+de+pacientes.pdf/987348a6-5aa2-d11c-4133-8c2f0f52e203?t=1641906580284",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3832,7 +3822,7 @@
 									"nivel":"3_27_03_01",
 									"nombre":"Procesado y comunicación de resultados Lokomat",
 									"codigoBC":"PO.03-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/703ce498-5929-4115-a1dd-8b131fffb449",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348242/PO.03-SPR.15.01+Procesado+y+comunicaci%C3%B3n+de+resultados+Lokomat.pdf/7e22a0d4-ca2b-775d-5f90-6a66dce41d46?t=1641906599321",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3841,18 +3831,17 @@
 						},
 						{
 							"nivel":"3_27_04",
-							"nombre":"Gestión de formaciones para uso del Lokomat",
+							"nombre":"Formación de usuarios de Lokomat",
 							"codigoBC":"PO.04-SPR.15",
 							"url":"",
 							"tipo":"folder",
 							"extension":"",
 							"subnivel":[
 								{
-							
 									"nivel":"3_27_04_01",
-									"nombre":"Gestión de formaciones para uso del Lokomat",
+									"nombre":"Formación de usuarios de Lokomat",
 									"codigoBC":"PO.04-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8f603043-4adc-4830-84fd-86566b8dd330",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348245/PO.04-SPR.15.02+Formaci%C3%B3n+de+usuarios+de+Lokomat.pdf/82718700-6147-291d-0543-c5af7f047830?t=1641906645916",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3861,25 +3850,43 @@
 									"nivel":"3_27_04_02",
 									"nombre":"Flujo de trabajo para la formación interna de Usuarios_as de Lokomat",
 									"codigoBC":"AX01-PO.04-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ee41391b-31db-47a9-9367-d2a73679802d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348245/AX01_PO.04-SPR.15.01+Flujo+de+trabajo+para+la+formaci%C3%B3n+interna+de+Usuarios_as+de+Lokomat.jpg/17ebad22-76ef-fc77-7e4b-ad3d551bdaa0?t=1641906643578",
 									"tipo":"file",
 									"extension":"jpg",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_27_04_03",
-									"nombre":"Formulario de evaluación de Usuario_a de Lokomat",
+									"nombre":"Examen teórico para usuarios de Lokomat",
 									"codigoBC":"AX02-PO.04-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2e234bbf-3baf-41d4-8bc6-2c85d9cabf5c",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348245/AX02_PO.04-SPR.15.02+Examen+te%C3%B3rico+para+usuarios+de+Lokomat.pdf/d84e9aaa-79fe-44dd-809c-962b6ffa79d5?t=1641906643813",
 									"tipo":"file",
-									"extension":"jpg",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_27_04_04",
-									"nombre":"Plantilla de certificado de usuario_a Lokomat",
+									"nombre":"User requirements checklist",
 									"codigoBC":"AX03-PO.04-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa7ffb58-f40b-459d-a30c-26d63a09e69b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348245/AX03_PO.04-SPR.15.02+User+requirements+checklist.pdf/1feeecbf-e594-d205-af19-154685116408?t=1641906643971",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_27_04_05",
+									"nombre":"Lista de comprobación para tutores Lokomat",
+									"codigoBC":"AX04-PO.04-SPR.15",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348245/AX04_PO.04-SPR.15.01+Lista+de+comprobaci%C3%B3n+para+tutores+Lokomat.pdf/18dc8717-e5e0-ae27-90be-56ba1327019b?t=1641906644089",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_27_04_06",
+									"nombre":"Plantilla de certificado de usuario_a Lokomat",
+									"codigoBC":"AX05-PO.04-SPR.15",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348245/AX05_PO.04-SPR.15.01+Plantilla+de+certificado+de+usuario_a+Lokomat.docx/11ce5f00-1d3d-0fa9-0b84-4384b4d2c07c?t=1641906644192",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -3896,10 +3903,10 @@
 							"subnivel":[
 								{
 							
-									"nivel":"3_27_03_01",
+									"nivel":"3_27_05_01",
 									"nombre":"Entrenamiento de la marcha mediante el sistema Lokomat",
 									"codigoBC":"IT.01-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/665b0219-2e85-47a9-b227-ea0f838bc349",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348248/IT.01-SPR.15.01+Entrenamiento+de+la+marcha+mediante+el+sistema+Lokomat.pdf/26f23088-5692-1e04-26ff-fd5ee3dc09f0?t=1641906470712",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -3916,10 +3923,10 @@
 							"subnivel":[
 								{
 							
-									"nivel":"3_27_04_01",
+									"nivel":"3_27_06_01",
 									"nombre":"Entrenamiento de la marcha en exoesqueleto EKSO GT",
 									"codigoBC":"IT.02-SPR.15",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4cf61c88-edb1-40d5-b154-3c58c2f71842",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348251/IT.02-SPR.15.01+Entrenamiento+de+la+marcha+en+exoesqueleto+EKSO+GT.pdf/0a9ca6e1-6e31-8bad-881e-783e3f18c194?t=1641906498142",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -6890,38 +6897,38 @@
 							"subnivel":[
 								{
 									"nivel":"3_31_01_01",
-									"nombre":"Solicitud acceso nube",
-									"codigoBC":"AX01_PO.01-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d0bd187f-54d4-4f3e-bd59-7d3deb6e6e5d",
+									"nombre":"Gestión de solicitudes almacenamiento nube",
+									"codigoBC":"PO.01-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348457/PO.01-SPR.14.02+Gesti%C3%B3n+de+solicitudes+almacenamiento+nube.pdf/e02b176c-5ebd-d44c-6fc5-edf749d616ef?t=1641908593135",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_01_02",
-									"nombre":"Almacenamiento nube",
-									"codigoBC":"AX02_PO.01-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a76d2091-f83f-4bf7-b29b-b18b3bdc7420",
+									"nombre":"Solicitud acceso nube",
+									"codigoBC":"AX01_PO.01-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348457/AX01_PO.01-SPR.14.03+Solicitud+de+acceso+a+la+nube.docx/5d45670d-eeb5-7a2f-b079-aa0e1353e085?t=1641908592650",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_01_03",
-									"nombre":"Solicitud OSI almacenamiento nube",
-									"codigoBC":"AX03_PO.01-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1a572835-7f29-4d60-925f-29f9ceeb4814",
+									"nombre":"Almacenamiento en la nube",
+									"codigoBC":"AX02_PO.01-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348457/AX02_PO.01-SPR.14.02+Almacenamiento+en+la+nube.docx/959087a7-3bee-4127-c13c-7b29e6c23d17?t=1641908592834",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_01_04",
-									"nombre":"Gestión de solicitudes almacenamiento nube",
-									"codigoBC":"PO.01-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/89a8060f-d75b-4cf3-9ea0-68343b89d970",
+									"nombre":"Solicitud OSI almacenamiento nube",
+									"codigoBC":"AX03_PO.01-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348457/AX03_PO.01-SPR.14.01_Solicitud_OSI_almacenamiento_nube.doc/f2c32499-ef14-1ff6-05a7-eec1a7d33200?t=1641908592973",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -6936,38 +6943,38 @@
 							"subnivel":[
 								{
 									"nivel":"3_31_02_01",
-									"nombre":"Petición creación nueva Base de Datos",
-									"codigoBC":"AX01_PO.02-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1276210f-da68-4ca3-96b7-86777b1f8333",
+									"nombre":"Diseño creación y mantenimiento de bases de datos",
+									"codigoBC":"PO.02-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348460/PO.02_SPR.14.01+Dise%C3%B1o+creacion+y+mantenimiento+de+bases+de+datos.pdf/4e0e97e8-8c77-3366-f4da-eeb7d88e0941?t=1641908614228",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_02_02",
-									"nombre":"Petición modificación Base de Datos",
-									"codigoBC":"AX02_PO.02-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/976b0381-02df-44f3-90ba-0d7a60235db7",
+									"nombre":"Petición creación nueva Base de Datos",
+									"codigoBC":"AX01_PO.02-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348460/PO.02_SPR.14.01+Dise%C3%B1o+creacion+y+mantenimiento+de+bases+de+datos.pdf/4e0e97e8-8c77-3366-f4da-eeb7d88e0941?t=1641908614228",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_02_03",
-									"nombre":"Tarifas de la Unidad Bioinformática y Estadística 2017",
-									"codigoBC":"AX03_PO.02-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/fc89ed36-0ce7-4c1d-955b-41a853cb17b1",
+									"nombre":"Petición modificación Base de Datos",
+									"codigoBC":"AX02_PO.02-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348460/AX02_PO.02-SPR.14.02_Peticion_modificacion_Base_de_Datos.docx/fdee90c4-5c52-a4f3-f582-7516a79fd9e5?t=1641908613802",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_02_04",
-									"nombre":"Diseño creación y mantenimiento de bases de datos",
-									"codigoBC":"PO.02-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d6414b77-d44e-4335-9f11-fa27f0b9feac",
+									"nombre":"Tarifas de la Unidad Bioinformática y Estadística 2017",
+									"codigoBC":"AX03_PO.02-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348460/AX03_PO.02-SPR.14.01+Tarifas+de+la+Unidad+Bioinformatica+y+Estadistica+2017.docx/2b13703a-7615-cac3-e640-1a1058e40330?t=1641908613949",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -6982,20 +6989,29 @@
 							"subnivel":[
 								{
 									"nivel":"3_31_03_01",
-									"nombre":"Petición instalación SW en Osakidetza",
+									"nombre":"Instalación de Software a peticion del personal",
+									"codigoBC":"PO.03-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348463/PO.03-SPR.14.03+Instalaci%C3%B3n+de+Software+a+peticion+del+personal.pdf/43b8f197-1a7f-387b-184b-9eafcef3adbc?t=1641908773635",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_31_03_02",
+									"nombre":"Petición de Instalación de software",
 									"codigoBC":"AX01_PO.03-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b48226fe-b745-4ca4-b5ad-c0f7feb3228d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348463/AX01_PO.03-SPR.14.03+Petici%C3%B3n+de+Instalaci%C3%B3n+de+software.docx/b4f96239-4bd9-458d-7efa-a4105d11847d?t=1641908773287",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_31_03_02",
-									"nombre":"Gestión instalación software",
-									"codigoBC":"PO.03-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/14231e96-9de9-44b8-9fc2-0252748f3f95",
+									"nivel":"3_31_03_03",
+									"nombre":"RIIs Biocruces Bizkaia",
+									"codigoBC":"AX02_PO.03-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348463/AX02_PO.03-SPR.14.01+RIIs+Biocruces+Bizkaia.xlsx/9657390d-21d2-357b-5be3-a31c62b74237?t=1641908773456",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"xls",
 									"subnivel":	[]
 								}
 							]
@@ -7010,38 +7026,38 @@
 							"subnivel":[
 								{
 									"nivel":"3_31_04_01",
-									"nombre":"Solicitud Acceso Cluster",
-									"codigoBC":"AX01_PO.04-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/af6da746-72e2-4382-95e5-69355ac5625c",
+									"nombre":"Solicitudes de accesos remotos",
+									"codigoBC":"PO.04-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348466/PO.04-PR.14.02+Solicitudes+de+accesos+remotos.pdf/8bef42e3-50f6-5357-eeb5-6ce77a73b8e8?t=1641908808320",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_04_02",
-									"nombre":"Solicitud OSI Acceso Cluster",
-									"codigoBC":"AX02_PO.04-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0e05b59e-a036-4964-abaa-2725d3ff4702",
+									"nombre":"Solicitud Acceso Cluster",
+									"codigoBC":"AX01_PO.04-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348466/AX01_PO.04-SPR.14.02+Solicitud+Accesos+Cluster.docx/fadabf19-5d8f-00a1-33b4-247b6307a358?t=1641908806226",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_04_03",
-									"nombre":"Solicitud Accesos VPN",
-									"codigoBC":"AX03_PO.04-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/28df170c-2a58-4e43-9840-ef643203ce15",
+									"nombre":"Solicitud OSI Acceso Cluster",
+									"codigoBC":"AX02_PO.04-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348466/AX02_PO.04-SPR.14.01+Solicitud+OSI+para+VPN.pdf/db7179c7-9189-4062-c3e0-84a0af68464b?t=1641908806391",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_04_04",
-									"nombre":"Solicitudes de accesos remotos",
-									"codigoBC":"PO.04-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f67d3ff3-173d-46ce-9704-8b0c6ef2e654",
+									"nombre":"Solicitud Accesos VPN",
+									"codigoBC":"AX03_PO.04-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348466/AX03_PO.04-SPR.14.02+Solicitud+Accesos+VPN.docx/14132712-f8f8-3909-3141-1f96dcc7c080?t=1641908808169",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -7058,16 +7074,16 @@
 									"nivel":"3_31_05_01",
 									"nombre":"Procedimiento de uso de almacenamiento externo",
 									"codigoBC":"PO.05-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0583463f-493d-49f6-aacd-25798705648a",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348469/PO.05-SPR.14.01+Procedimiento+de+uso+de+almacenamiento+externo.pdf/2a6798de-2030-fa69-4256-aa47e9a8e417?t=1641908828244",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_31_05_02",
-									"nombre":"Justificación adquisición y uso de dispositivos almacenamiento externo",
+									"nombre":"Justificación compra de ordenadores y tablets",
 									"codigoBC":"AX01_PO.05-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9596e54f-27b6-4e2f-a02e-67503c6d9d87",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348469/AX01_PO.05.SPR.14.03+Justificaci%C3%B3n+compra+de+ordenadores+y+tablets.docx/b4fcf7c5-33a5-9bba-1e31-f18ac920466a?t=1641908827893",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7076,7 +7092,7 @@
 									"nivel":"3_31_05_03",
 									"nombre":"Tratamiento de datos en los soportes de almacenamiento externos",
 									"codigoBC":"AX02_PO.04-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4b7512a5-f5bd-4f74-b3dd-3a6dc657675b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348469/AX02_PO.05.SPR.14.02+Tratamiento+de+datos+en+los+soportes+de+almacenamiento+externos.docx/5339abe6-8408-546d-e108-23eaf202949e?t=1641908828055",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7095,7 +7111,7 @@
 									"nivel":"3_31_06_01",
 									"nombre":"Aplicación interna de la RGPD",
 									"codigoBC":"PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa2d0fd8-8a44-4cad-8e49-70c34b521493",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/PO.06-SPR.14.02+Aplicaci%C3%B3n+interna+de+la+RGPD.pdf/8448ebc2-9700-9551-3d79-54e34be8eab7?t=1641908891037",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7104,7 +7120,7 @@
 									"nivel":"3_31_06_02",
 									"nombre":"Consentimiento informado - Personal propio",
 									"codigoBC":"AX01_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a9d21864-7dc4-4182-a97e-0f81a0f27f10",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX01_PO.06-SPR.14.01+Consentimiento+informado+-+Personal+propio.docx/0444fd15-73ed-924b-d3a1-2802890f2818?t=1641908881593",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7113,7 +7129,7 @@
 									"nivel":"3_31_06_03",
 									"nombre":"Consentimiento informado - Personal adscrito",
 									"codigoBC":"AX02_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/27a62154-d037-4e09-9a93-6c8d509d4233",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX02_PO.06-SPR.14.01+Consentimiento+informado+-+Personal+adscrito.docx/90bcd851-ef71-5e5e-7e6c-c5d1968cd2c5?t=1641908881810",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7122,7 +7138,7 @@
 									"nivel":"3_31_06_04",
 									"nombre":"Análisis de necesidad de EIPD",
 									"codigoBC":"AX03_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ab5aa08a-cb04-4086-a9cf-f4abb3093265",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX03_PO.06-SPR.14.01+An%C3%A1lisis+de+necesidad+de+EIPD.pdf/1529fb6c-f253-b47c-1860-73d4531c1e8f?t=1641908881979",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7131,7 +7147,7 @@
 									"nivel":"3_31_06_05",
 									"nombre":"Responsable - Listado Registro de actividades de tratamiento",
 									"codigoBC":"AX04_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/074010a4-e42d-491a-823f-1be64cd8df43",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX04_PO.06-SPR.14+Responsable-+Listado+Registro+de+actividades+de+tratamiento.xlsx/e9aad394-f07f-6e68-5675-34344283aec8?t=1641908882348",
 									"tipo":"file",
 									"extension":"xls",
 									"subnivel":	[]
@@ -7140,7 +7156,7 @@
 									"nivel":"3_31_06_06",
 									"nombre":"Encargado - Listado Registro de actividades de tratamiento",
 									"codigoBC":"AX05_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d56eb401-5e72-45c3-a625-58adfe2e76ce",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX05_PO.06-SPR.14+Encargado+-+Listado+Registro+de+actividades+de+tratamiento.xlsx/027092b4-f8fe-8a57-7cb4-8b344b0bdba9?t=1641908882437",
 									"tipo":"file",
 									"extension":"xls",
 									"subnivel":	[]
@@ -7149,7 +7165,7 @@
 									"nivel":"3_31_06_07",
 									"nombre":"Registro de Actividades de tratamiento RESPONSABLE",
 									"codigoBC":"AX06_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/27d72651-f296-4d0c-9653-eae900f2615f",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX06_PO.06-SPR.14+Registro+de+Actividades+de+tratamiento+RESPONSABLE.pdf/98b4c80e-281b-d63c-e61d-e564afd43583?t=1641908882521",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7158,7 +7174,7 @@
 									"nivel":"3_31_06_08",
 									"nombre":"Registro de Actividades de tratamiento ENCARGADO",
 									"codigoBC":"AX07_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5e167cd1-ac1e-45ae-a781-1af2f262a642",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX07_PO.06-SPR.14+Registro+de+Actividades+de+tratamiento+ENCARGADO.pdf/d718ed05-658b-44ff-b89e-70fc106361b2?t=1641908885564",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7167,7 +7183,7 @@
 									"nivel":"3_31_06_09",
 									"nombre":"Realización de la EIPD",
 									"codigoBC":"AX08_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2bfd70d4-b963-44f1-9a26-f4fb830c1338",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX08_PO.06-SPR.14+Realizaci%C3%B3n+de+la+EIPD.docx/d865b50f-a374-46a0-7ba4-0111f0678c43?t=1641908885830",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7176,7 +7192,7 @@
 									"nivel":"3_31_06_10",
 									"nombre":"Matriz de Riesgos",
 									"codigoBC":"AX09-PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3c0e3d5d-af85-4c12-b9a0-b5970b264618",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX09_PO.06-SPR.14+Matriz+de+Riesgos.xlsm/42444b90-0d51-3b3e-03e6-88f23d5389eb?t=1641908886030",
 									"tipo":"file",
 									"extension":"xls",
 									"subnivel":	[]
@@ -7185,7 +7201,7 @@
 									"nivel":"3_31_06_11",
 									"nombre":"Derecho de acceso",
 									"codigoBC":"AX10-PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/81ef8dcc-a609-407b-b653-44fc921b2eaf",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX10_PO.06-SPR.14.01+Derecho+de+acceso.pdf/9fa4c3a7-b207-61f3-97b4-21b4776f5674?t=1641908886221",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7194,7 +7210,7 @@
 									"nivel":"3_31_06_12",
 									"nombre":"Respuesta derecho acceso",
 									"codigoBC":"AX11_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4b120023-36ec-412f-b09c-57a4a43ada18",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX11_PO.06-SPR.14.01+Respuesta+derecho+acceso.pdf/ad175097-5d9b-840a-fa15-1277c247a38d?t=1641908886515",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7203,7 +7219,7 @@
 									"nivel":"3_31_06_13",
 									"nombre":"Derecho de cancelación",
 									"codigoBC":"AX12_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/47623c1e-b6ab-4244-a605-5a095e91abd7",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX12_PO.06-SPR.14.01+Derecho+de+cancelaci%C3%B3n.pdf/1876d78c-7bec-4515-6cfb-a880c439500a?t=1641908886673",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7212,7 +7228,7 @@
 									"nivel":"3_31_06_14",
 									"nombre":"Respuesta derecho cancelación",
 									"codigoBC":"AX13_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c26e94d1-f62f-4c74-9e7f-85e11034a214",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX13_PO.06-SPR.14.01+Respuesta+derecho+cancelaci%C3%B3n.pdf/f0469124-5477-373b-7186-440565bea75c?t=1641908889708",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7221,7 +7237,7 @@
 									"nivel":"3_31_06_15",
 									"nombre":"Derecho limitación",
 									"codigoBC":"AX14_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ee26485f-02c4-40b0-99fb-2b183a374660",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX14_PO.06-SPR.14.01+Derecho+limitaci%C3%B3n.pdf/407ed18d-48d5-b2b4-4e8a-3544c88b33fb?t=1641908889870",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7230,7 +7246,7 @@
 									"nivel":"3_31_06_16",
 									"nombre":"Respuesta derecho limitación",
 									"codigoBC":"AX15_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ec03ccc8-70ba-449c-a199-fe9f8e185353",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX15_PO.06-SPR.14.01+Respuesta+derecho+limitaci%C3%B3n.pdf/eb58d063-ada6-afc7-305e-7e87d95755ae?t=1641908890023",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7239,7 +7255,7 @@
 									"nivel":"3_31_06_17",
 									"nombre":"Derecho oposición",
 									"codigoBC":"AX16_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a81b8fee-90d6-4e01-973a-71b9c0faf5a5",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX16_PO.06-SPR.14.01+Derecho+oposici%C3%B3n.pdf/05d70643-6b13-c083-c623-dc75605aa3fa?t=1641908890143",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7248,7 +7264,7 @@
 									"nivel":"3_31_06_18",
 									"nombre":"Respuesta derecho oposición",
 									"codigoBC":"AX17_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/97513126-4252-4208-b012-d7d53b21ad20",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX17_PO.06-SPR.14.01+Respuesta+derecho+oposici%C3%B3n.pdf/a5018762-3c45-0550-1be1-14e259b124c6?t=1641908890299",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7257,7 +7273,7 @@
 									"nivel":"3_31_06_19",
 									"nombre":"Derecho portabilidad",
 									"codigoBC":"AX18_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/58d7afee-373a-42bc-a492-cc162f52d810",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX18_PO.06-SPR.14.01+Derecho+portabilidad.pdf/cf3bbcf7-9294-2666-f6b2-3b9a66dbb1e3?t=1641908890433",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7266,7 +7282,7 @@
 									"nivel":"3_31_06_20",
 									"nombre":"Respuesta derecho portabilidad",
 									"codigoBC":"AX19_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4fdff7f0-d4bf-4abc-aaf6-2f07730c3668",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX19_PO.06-SPR.14.01+Respuesta+derecho+portabilidad.pdf/6e4219dc-371f-1bd6-372b-8d6973a780fb?t=1641908890571",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7275,7 +7291,7 @@
 									"nivel":"3_31_06_21",
 									"nombre":"Derecho rectificación",
 									"codigoBC":"AX20_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f3385124-d407-42ae-be4f-f67bc5d9350b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX20_PO.06-SPR.14.01+Derecho+rectificaci%C3%B3n.pdf/b01e5e41-6670-b792-7b30-67409621b67f?t=1641908890713",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7284,7 +7300,7 @@
 									"nivel":"3_31_06_22",
 									"nombre":"Respuesta derecho rectificación",
 									"codigoBC":"AX21_PO.06-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/21dc5562-8ed0-49e3-a0ef-85094362b62f",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348472/AX21_PO.06-SPR.14.01+Respuesta+derecho+rectificaci%C3%B3n.pdf/8e714b06-9d9e-06bb-3dfe-1615e5828093?t=1641908890909",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7303,7 +7319,7 @@
 									"nivel":"3_31_07_01",
 									"nombre":"Normas Seguridad",
 									"codigoBC":"PO.07-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/47f1d1f0-f5ed-4a4f-b1f6-955e93c937eb",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348475/PO.07-SPR.14.01+Normas+Seguridad.pdf/31b3698f-f19b-6943-fea7-4a7af1a4186f?t=1641908901710",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7322,7 +7338,7 @@
 									"nivel":"3_31_08_01",
 									"nombre":"Acceso a la Historia Clínica Electrónica",
 									"codigoBC":"PO.09-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7a10d4e4-7bf6-49c4-8e08-074fad4ddf35",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348478/PO.09-SPR.14.01+Acceso+a+la+Historia+Cl%C3%ADnica+Electr%C3%B3nica.pdf/3522e993-398b-a0f7-df40-2fdc9a90698c?t=1641908933369",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7341,7 +7357,7 @@
 									"nivel":"3_31_09_01",
 									"nombre":"Instrucciones para videoconferencias",
 									"codigoBC":"IT.01-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/945a9402-7bf7-48e8-b2ac-3da21ae8788e",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348481/IT.01-SPR.14.01+Instrucciones+para+videoconferencias.pdf/0807aa0d-ace9-3a11-43d4-f399f6143715?t=1641907671388",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7350,7 +7366,7 @@
 									"nivel":"3_31_09_02",
 									"nombre":"Reserva Portatil",
 									"codigoBC":"AX01_PO.05-SPR.14",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa991cea-ab7a-431e-bf86-37f79095052b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348481/AX01_IT.01-SPR.14.01+Reserva+Portatil.docx/307bf26e-9336-e169-0357-c6d37dd67424?t=1641907671541",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7379,16 +7395,25 @@
 									"nivel":"3_32_02_01",
 									"nombre":"Solicitud de servicios a la Unidad de EECC",
 									"codigoBC":"PO.01-SPR.18",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/90d32564-cd50-4f2c-a895-81af85eedc29",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/349374/PO.01-SPR.18.01+Solicitud+de+servicios+a+la+Unidad+de+EECC.pdf/df7b5c9e-7986-e3ef-a1c1-1e148bbc2163?t=1641914154424",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"3_32_02_02",
+									"nombre":"Solicitud de servicios Unidad de EECC",
+									"codigoBC":"AX01_PO.01-SPR.18",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/349374/AX01_PO.01-SPR.18.01+Solicitud+de+servicios+UEC.pdf/b76f7ea3-82e2-d4ea-17bd-2569e9519325?t=1641914156017",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_32_02_03",
 									"nombre":"Registro material proporcionado por proveedores",
 									"codigoBC":"AX02_PO.01-SPR.18",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/32462169-b189-483c-a5a4-9bd200c3394a",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/349374/AX02_PO.01-SPR.18.01+Registro+material+proporcionado+por+proveedores.docx/4fd4b807-9e0c-9418-b7cc-44a6cf8aa1c6?t=1641914154280",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -7407,7 +7432,7 @@
 									"nivel":"3_32_02_01",
 									"nombre":"Funciones de enfermería",
 									"codigoBC":"PO.02-SPR.18",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cd3f881b-5ee1-44b9-80ed-9fa57a84bb6e",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/349377/PO.02-SPR.18.01+Funciones+de+enfermer%C3%ADa.pdf/4d10dae9-7eb5-0b8e-05b3-eecd5f584948?t=1641914170517",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -7416,7 +7441,7 @@
 									"nivel":"3_32_02_02",
 									"nombre":"Plantilla CV normalizado",
 									"codigoBC":"AX01_PO.02-SPR.18",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0b718839-05db-4a58-aa32-6f3d38c8a06e",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/349377/AX01_PO.02-SPR.18+Plantilla+CV+normalizado.docx/afefd388-9217-afcf-2c50-dda14329e123?t=1641914170382",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
