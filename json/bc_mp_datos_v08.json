@@ -3953,7 +3953,7 @@
 							"subnivel":[
 								{
 									"nivel":"3_28_01_01",
-									"nombre":" Actividades rutinarias en la sala de alojamiento de roedores",
+									"nombre":"Actividades rutinarias en la sala de alojamiento de roedores",
 									"codigoBC":"PO.11-SPR.01",
 									"url":"",
 									"tipo":"folder",
@@ -3961,20 +3961,20 @@
 									"subnivel":[
 										{
 											"nivel":"3_28_01_01_01",
-											"nombre":"Registro de actividades rutinarias en la sala de alojamiento de roedores",
-											"codigoBC":"AX01_PO.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31e638c7-4834-4d17-98af-b859f1a2a8c2",
+											"nombre":"Registro rutinarias roedores",
+											"codigoBC":"PO.11-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349747/PO.11-SPR.01.02+Actividades+rutinarias+en+la+sala+de+roedores.pdf/034d0e30-b9ae-d12b-b0b2-9ab9c90af917?t=1641995348996",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_01_02",
-											"nombre":"Actividades rutinarias en la sala de alojamiento de roedores",
-											"codigoBC":"PO.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d1f09afc-964c-4969-b0dd-1b4cfcb96701",
+											"nombre":"Registro rutinarias roedores",
+											"codigoBC":"AX01_PO.11-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349747/AX01_PO.11-SPR.01.03+Registro+rutinarias+roedores+.docx/0a364896-3c0b-ada8-4eb6-66a0a10a1193?t=1641995348997",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -3989,37 +3989,46 @@
 									"subnivel":[
 										{
 											"nivel":"3_28_01_02_01",
-											"nombre":"Registro de actividades rutinarias en la sala de alojamiento de conejos",
-											"codigoBC":"AX01_PO.12-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6195ad35-975a-415a-bd47-4770f0ef4bc5",
+											"nombre":"Actividades rutinarias en la sala de alojamiento de conejos",
+											"codigoBC":"PO.12-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349771/PO.12.SPR.01.01+Actividades+rutinarias+en+la+sala+de+alojamiento+de+conejos.pdf/e8c6f7c0-cd48-d5a6-37bb-71dda8a5f9e3?t=1641995349063",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_02_02",
-											"nombre":"Actividades rutinarias en la sala de alojamiento de conejos",
-											"codigoBC":"PO.12-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e9e5e798-02fe-43f1-92f4-379cf7649f9c",
+											"nombre":"Registro de actividades rutinarias en la sala de alojamiento de conejos",
+											"codigoBC":"AX01_PO.12-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349771/AX01_PO.12-SPR.01.01+Registro+de+actividades+rutinarias+en+la+sala+de+alojamiento+de+conejos.docx/e1848dda-e758-54f3-46ac-345287acc7c7?t=1641995349063",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
 								},
 								{
 									"nivel":"3_28_01_03",
-									"nombre":" Limpieza y desinfección del semisótano de la Plataforma de animalario",
+									"nombre":"Limpieza y desinfección del semisótano de la Plataforma de animalario",
 									"codigoBC":"PO.18-SPR.01",
 									"url":"",
 									"tipo":"folder",
 									"extension":"",
 									"subnivel":[
 										{
+											"nivel":"3_28_01_03_03",
+											"nombre":"Limpieza y desinfeccion del semisotano",
+											"codigoBC":"PO.18-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349831/PO.18-SPR.01.02+Limpieza+y+desinfeccion+del+semisotano.pdf/9d33af09-f4d2-8047-8b06-1f1e46c535b1?t=1641995349103",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
 											"nivel":"3_28_01_03_01",
 											"nombre":"Hoja de registro para el plan mensual de limpieza rutinaria y completa",
 											"codigoBC":"AX01_PO 18-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8e86a8fc-9397-450c-80f5-71738dfe9c14",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349831/AX01_PO+18.SPR.01.01+Hoja+de+registro+para+el+plan+mensual+de+limpieza+rutinaria+y+completa.docx/10bbddcd-de0a-fea3-c37d-da5bb948bdf8?t=1641995349104",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -4028,25 +4037,16 @@
 											"nivel":"3_28_01_03_02",
 											"nombre":"Hoja de registro para desinfeccion y limpiezas especiales",
 											"codigoBC":"AX02_PO 18-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3af1c135-bbae-4c16-85e8-ad9b26edbea3",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349831/AX02_PO+18.SPR.01.01+Hoja+de+registro+para+desinfeccion+y+limpiezas+especiales.docx/483f7a61-039a-30cd-c144-d20e71799ca0?t=1641995349104",
 											"tipo":"file",
 											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
-											"nivel":"3_28_01_03_03",
-											"nombre":"Limpieza y desinfección del semisótano de la Plataforma de animalario",
-											"codigoBC":"PO.18-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/faade53c-1d0c-4d03-9445-5c503af4c289",
-											"tipo":"file",
-											"extension":"pdf",
 											"subnivel":	[]
 										}
 									]
 								},
 								{
 									"nivel":"3_28_01_04",
-									"nombre":" Limpieza y desinfección del sótano 1 de la Plataforma de animalario",
+									"nombre":"Limpieza y desinfección del sótano 1 de la Plataforma de animalario",
 									"codigoBC":"PO.19-SPR.01",
 									"url":"",
 									"tipo":"folder",
@@ -4054,38 +4054,47 @@
 									"subnivel":[
 										{
 											"nivel":"3_28_01_04_01",
-											"nombre":" Hoja de registro de limpieza para la zona de barrera SPF",
-											"codigoBC":"AX01_PO.19-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/949a4c1d-7c9f-4389-ac21-3cb86a162a9e",
+											"nombre":" Limpieza y desinfección del sótano de la Plataforma de animalario",
+											"codigoBC":"PO.19-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349911/PO.19-SPR.01.02+Limpieza+y+desinfecci%C3%B3n+del+s%C3%B3tano+del+Animalario.pdf/0f72280e-46ce-731c-de45-5e55c9fbedaf?t=1641999497214",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_04_02",
-											"nombre":" Hoja de registro para la limpieza de la zona intermedia",
-											"codigoBC":"AX02_PO.19-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c58e99cd-3496-45c3-874e-a21d6da4c9d7",
+											"nombre":" Hoja de registro de limpieza para la zona de barrera SPF",
+											"codigoBC":"AX01_PO.19-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349911/AX01_PO.19.SPR.01.01+Hoja+de+registro+de+limpieza+para+la+zona+de+barrera+SPF.docx/ddec7385-69a5-409c-a189-4b7c1510d20f?t=1641995349135",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_04_03",
-											"nombre":" Hoja de registro para la limpieza de la zona convencional",
-											"codigoBC":"AX03_PO.19-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/90281184-e9e2-43a0-873b-0c16291dae2b",
+											"nombre":" Hoja de registro para la limpieza de la zona intermedia",
+											"codigoBC":"AX02_PO.19-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349911/AX02_PO.19.SPR.01.01+Hoja+de+registro+para+la+limpieza+de+la+zona+intermedia.docx/07ab65b9-eb0d-d169-5af1-1af209c4878c?t=1641995349136",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_04_04",
-											"nombre":" Limpieza y desinfección del sótano de la Plataforma de animalario",
-											"codigoBC":"PO.19-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d4cdd08a-9735-4871-b685-e4bc1b859ae0",
+											"nombre":" Hoja de registro para la limpieza de la zona convencional",
+											"codigoBC":"AX03_PO.19-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349911/AX02_PO.19.SPR.01.01+Hoja+de+registro+para+la+limpieza+de+la+zona+intermedia.docx/07ab65b9-eb0d-d169-5af1-1af209c4878c?t=1641995349136",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_01_04_05",
+											"nombre":" Uso de mopas y fiselinas",
+											"codigoBC":"AX04_PO.19-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349911/AX04_PO.19-SPR.01.01+Uso+de+mopas+y+fiselinas.docx/fa1b3cb4-75c6-44d8-9658-b6d98a65d8d3?t=1641995349136",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4102,7 +4111,7 @@
 											"nivel":"3_28_01_05_01",
 											"nombre":"Cambio de jaulas y limpieza y esterilización en el sótano 1",
 											"codigoBC":"PO.22-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8fe03805-99e3-406e-af95-519b14fae5de",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350058/PO.22.SPR.01.01+Cambio+de+jaulas+y+limpieza+y+esterilizaci%C3%B3n+en+el+s%C3%B3tano+1.pdf/1ff46f58-a9e9-1f3f-ae04-8e03a0d03202?t=1641997142243",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4119,29 +4128,29 @@
 									"subnivel":[
 										{
 											"nivel":"3_28_01_06_01",
-											"nombre":"registro de las condiciones ambientales",
-											"codigoBC":"AX01_PO.29-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/660fde0c-857a-4033-9911-ad8ca14dca72",
+											"nombre":"Actividades rutinarias en el semisótano",
+											"codigoBC":"PO.29-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350154/PO.29.SPR.01.01+Actividades+rutinarias+en+el+semis%C3%B3tano.pdf/e3a36e8f-9dd8-9a3e-41b8-a35874042e1d?t=1641997166457",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_06_02",
-											"nombre":"Hoja de control de salud",
-											"codigoBC":"AX02_PO.29-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a8d47ad0-9838-4db1-83c2-24ca2d2c0f2e",
+											"nombre":"Registro de las condiciones ambientales",
+											"codigoBC":"AX01_PO.29-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350154/AX01_PO.29-SPR.01.01+registro+de+las+condiciones+ambientales.docx/0b79571f-8d06-90e9-4eb7-61e277a64236?t=1641995349196",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_01_06_03",
-											"nombre":"Actividades rutinarias en el semisótano",
-											"codigoBC":"PO.29-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c976f4f9-8387-4ed2-877c-eb99f819c341",
+											"nombre":"Hoja de control de salud",
+											"codigoBC":"AX02_PO.29-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350154/AX02_PO.29-SPR.01.01+Hoja+de+control+de+salud.docx/672550c5-0d9c-c814-4cf5-9dec1d1a25c4?t=1641995349196",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4158,7 +4167,7 @@
 											"nivel":"3_28_01_07_01",
 											"nombre":"Limpieza y desinfección de material, instrumental y equipamiento quirúrgicos",
 											"codigoBC":"PO.30-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d0cae9f2-a7ad-43d9-b983-e4089f49625b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350206/PO.30.SPR.01.01+Limpieza+y+desinfecci%C3%B3n+de+material%2C+instrumental+y+equipamiento+quir%C3%BArgicos.pdf/ba150dd7-5685-9988-d569-ad3b3d30a3cb?t=1641997192611",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4187,7 +4196,7 @@
 											"nivel":"3_28_02_01_01",
 											"nombre":"Administración de sustancias en grandes animales",
 											"codigoBC":"PO.24-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7229dc39-33ad-426d-bb7d-a1fc7f89b5ed",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350071/PO.24.SPR.01.01+Administraci%C3%B3n+de+sustancias+en+grandes+animales.pdf/307c1f5b-89fd-46b6-4854-6f13e7f500a1?t=1641997326629",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4206,7 +4215,7 @@
 											"nivel":"3_28_02_02_01",
 											"nombre":"Administración de sustancias en pequeños animales",
 											"codigoBC":"PO.25-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5777d8ba-c26d-4935-b437-c1d00e208461",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350071/PO.24.SPR.01.01+Administraci%C3%B3n+de+sustancias+en+grandes+animales.pdf/307c1f5b-89fd-46b6-4854-6f13e7f500a1?t=1641997326629",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4225,7 +4234,7 @@
 											"nivel":"3_28_02_03_01",
 											"nombre":"Extracción de muestras sanguineas en pequeños animales",
 											"codigoBC":"PO.26-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2a8be8c7-411d-4c30-9160-a88ace07e85a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350071/PO.24.SPR.01.01+Administraci%C3%B3n+de+sustancias+en+grandes+animales.pdf/307c1f5b-89fd-46b6-4854-6f13e7f500a1?t=1641997326629",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4244,7 +4253,7 @@
 											"nivel":"3_28_02_04_01",
 											"nombre":"Extracción de muestras sanguineas en grandes animales",
 											"codigoBC":"PO.28-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d2699e05-9f64-4c1b-8c79-e2e86ee49f12",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350150/PO.28.SPR.01.01+Extracci%C3%B3n+de+muestras+sanguineas+en+grandes+animales.pdf/4b02609b-3209-9d50-0cdf-193a2aa31dca?t=1641997373931",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4273,7 +4282,7 @@
 											"nivel":"3_28_03_01_01",
 											"nombre":"Enriquecimiento ambiental en roedores",
 											"codigoBC":"PO.33-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7bd93c55-c822-4b09-963a-4d18b5347e10",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350275/PO.33.SPR.01.01+Enriquecimiento+ambiental+en+roedores.pdf/43e9e2f1-a3ff-f54d-8a1b-8f36c1f9dbb1?t=1641995413027",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4289,21 +4298,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_03_02_01",
-											"nombre":"Informe de seguimiento sanitario en grandes animales",
-											"codigoBC":"AX01_PO.34-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7ce26388-57ee-4974-8ece-4886292161af",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_03_02_02",
 											"nombre":"Control sanitario de grandes animales",
 											"codigoBC":"PO.34-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a2df2dc6-7570-499f-8245-cc4740a5f8f8",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350300/PO.34.SPR.01.01+Control+sanitario+de+grandes+animales.pdf/06521117-80fa-ad70-7097-bb695f461135?t=1641995413069",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_03_02_01",
+											"nombre":"Informe de seguimiento sanitario en grandes animales",
+											"codigoBC":"AX01_PO.34-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350300/AX01_PO.34-SPR.01.01+Informe+de+seguimiento+sanitario+en+grandes+animales.docx/0e5e2549-5a01-fb7c-f8be-8f27205b7ad7?t=1641995413068",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4318,38 +4327,38 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_03_04_01",
-											"nombre":"Agentes infecciosos a monitorizar en ratón",
-											"codigoBC":"AX01_PO.36-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/112cf6c4-4bac-40d3-a9d3-9e3be45a15e1",
+											"nombre":"Controles sanitarios en roedores y conejos",
+											"codigoBC":"PO.36-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350396/PO.36.SPR.01.01+Controles+sanitarios+en+roedores+y+conejos.pdf/a7717a95-f9be-4bf8-67d6-38352e0b944f?t=1641995413105",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_03_04_02",
-											"nombre":"Agentes infecciosos a monitorizar en rata",
-											"codigoBC":"AX02_PO.36-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ecafc4ee-6e2e-47d0-846e-e93c62f68714",
+											"nombre":"Agentes infecciosos a monitorizar en ratón",
+											"codigoBC":"AX01_PO.36-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350396/AX01_PO.36-SPR.01.01+Agentes+infecciosos+a+monitorizar+en+rat%C3%B3n.docx/a5b3d9fb-105e-789c-5f12-8694138ce181?t=1641997416117",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_03_04_03",
-											"nombre":"Agentes infecciosos a monitorizar en conejo",
-											"codigoBC":"AX03_PO.36-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/de8567fe-a65d-4fe1-8e18-da828a333b93",
+											"nombre":"Agentes infecciosos a monitorizar en rata",
+											"codigoBC":"AX02_PO.36-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350396/AX02_PO.36-SPR.01.01+Agentes+infecciosos+a+monitorizar+en+rata.docx/ee3f9333-cba0-33d4-53c4-b787f75c4651?t=1641995413104",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_03_04_04",
-											"nombre":"Controles sanitarios en roedores y conejos",
-											"codigoBC":"PO.36-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/262fbcee-23b5-4589-b57f-26d27b8f7541",
+											"nombre":"Agentes infecciosos a monitorizar en conejo",
+											"codigoBC":"AX03_PO.36-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350396/AX03_PO.36-SPR.01.01+Agentes+infecciosos+a+monitorizar+en+conejo.docx/5590e7a5-0694-1899-2475-68b6d2e0d801?t=1641995413104",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4363,21 +4372,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_03_05_01",
-											"nombre":"Registro de los controles microbiógicos en quirófanos",
-											"codigoBC":"AX01_PO.37-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ff59cbbd-3581-4a3b-95ce-143f9bdae6d2",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_03_05_02",
 											"nombre":"Control microbiolologico ambiental en quirofanos",
 											"codigoBC":"PO.37-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ecafc4ee-6e2e-47d0-846e-e93c62f68714",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350464/PO.37.SPR.01.01+Control+microbiolologico+ambiental+en+quirofanos.pdf/244fbffc-0d34-c201-5394-46264fac3856?t=1641995413138",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_03_05_01",
+											"nombre":"Registro de los controles microbiógicos en quirófanos",
+											"codigoBC":"AX01_PO.37-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350464/AX01_PO+37-SPR.01.01+Registro+de+controles+microbi%C3%B3gicos+en+quir%C3%B3fanos.docx/9937c709-d8c4-c2da-dc37-76ca1c69d994?t=1641997436872",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4392,20 +4401,20 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_03_05_01",
-											"nombre":"Registro de los controles microbiógicos del sótano 1",
-											"codigoBC":"AX01_PO.38-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5b7b9ebf-c747-435b-8848-12bf5c0ee768",
+											"nombre":"Control microbiologico ambiental del sotano 1",
+											"codigoBC":"PO.38-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349693/PO.38.SPR.01.01+Control+microbiologico+ambiental+del+sotano+1.pdf/6ff7e436-70fb-eea7-19af-2e2b0ea6bb0e?t=1641995413170",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_03_05_02",
-											"nombre":"Control microbiologico ambiental del sotano 1",
-											"codigoBC":"PO.38-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7c546a26-e43a-4b2f-81a7-565ba3a66978",
+											"nombre":"Registro de los controles microbiógicos del sótano 1",
+											"codigoBC":"AX01_PO.38-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349693/AX01_PO.38-SPR.01.01+Registro+de+los+controles+microbi%C3%B3gicos+del+s%C3%B3tano+1.docx/599930f1-8342-6ba7-5d43-b00d15bea8bf?t=1641997448956",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4430,20 +4439,20 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_04_01_01",
-											"nombre":"informe de necropsia",
-											"codigoBC":"AX01_PO.27-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/876fcb20-bda1-4116-b564-b4d3dc2c5736",
+											"nombre":"Eutanasia y necropsia en grandes animales",
+											"codigoBC":"PO.27-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350093/PO.27.SPR.01.01+Eutanasia+y+necropsia+en+grandes+animales.pdf/9162d86e-26ec-cdf7-34bd-2605f9b1727f?t=1641995441874",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_04_01_02",
-											"nombre":"Eutanasia y necropsia en grandes animales",
-											"codigoBC":"PO.27-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/680b82e5-9495-4ea5-91cb-a4a68cda429b",
+											"nombre":"informe de necropsia",
+											"codigoBC":"AX01_PO.27-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350093/AX01_PO.27-SPR.01.01+informe+de+necropsia.docx/94261fe1-4ec6-0d4e-0030-a6f7f3edf203?t=1641995441875",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4458,38 +4467,38 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_04_02_01",
-											"nombre":"Anestesia inyectable_ volúmenes en rata y ratón",
-											"codigoBC":"AX01_PO.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/beccb2c8-b288-4d21-b6ad-413ab22338cc",
+											"nombre":"Anestesia y analgesia en roedores y conejos",
+											"codigoBC":"PO.31-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350210/PO.31.SPR.01.01+Anestesia+y+analgesia+en+roedores+y+conejos.pdf/39635598-ea68-c475-fd0f-05a3b50be7fa?t=1641995441911",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_04_02_02",
-											"nombre":"Anestesia inyectable_ volúmenes en conejo",
-											"codigoBC":"AX02_PO.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bd6e48d7-9064-488f-ab9f-89093f66569a",
+											"nombre":"Anestesia inyectable - volúmenes en rata y ratón",
+											"codigoBC":"AX01_PO.31-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350210/AX01_PO.31-SPR.01.01+Anestesia+inyectable_+vol%C3%BAmenes+en+rata+y+rat%C3%B3n.docx/b58eaf5d-98d8-0903-267a-8df3bda3aba6?t=1641997540975",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_04_02_03",
-											"nombre":"Registro de la monitorización de la anestesia y analgesia",
-											"codigoBC":"AX03_PO.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/62377ca2-5f4e-4853-a862-0b0b19b66641",
+											"nombre":"Anestesia inyectable - volúmenes en conejo",
+											"codigoBC":"AX02_PO.31-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350210/AX02_PO.31-SPR.01.01+Anestesia+inyectable_+vol%C3%BAmenes+en+conejo.docx/a4acd29c-f65b-f27b-4593-c99a9942ac6d?t=1641997541529",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_04_02_04",
-											"nombre":"Anestesia y analgesia en roedores y conejos",
-											"codigoBC":"PO.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b80d3226-9d31-48c2-8320-d0ffa4f5b7bf",
+											"nombre":"Registro de la monitorización de la anestesia y analgesia",
+											"codigoBC":"AX03_PO.31-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350210/AX03_PO.31-SPR.01.01+Registro+de+la+monitorizaci%C3%B3n+de+la+anestesia+y+analgesia.docx/124b7167-8cca-35e8-0dec-6d0f736ab154?t=1641997538703",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4506,7 +4515,7 @@
 											"nivel":"3_28_04_03_01",
 											"nombre":"Eutanasia en roedores y conejos",
 											"codigoBC":"PO.32-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/999a8aaf-8590-40ee-902c-c155d1b7e21c",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350244/PO.32.SPR.01.01+Eutanasia+en+roedores+y+conejos.pdf/7f93fc99-ca8f-dfb0-1668-87865259e4cf?t=1641995441948",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4522,21 +4531,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_04_04_01",
-											"nombre":"Tipos de anestesicos, analgesicos y sedantes de uso general",
-											"codigoBC":"AX01_PO.35-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8328a4b0-1eca-4150-a67a-fb6fe6f5dde4",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_04_04_02",
 											"nombre":"Anestesia y analgesia en grandes animales",
 											"codigoBC":"PO.35-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/693ba4b9-7940-47b9-b410-be9ed30c4130",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350348/PO.35.SPR.01.01+Anestesia+y+analgesia+en+grandes+animales.pdf/d4a740ab-93ec-6dac-ce38-5079863edd02?t=1641995441980",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_04_04_01",
+											"nombre":"Tipos de anestesicos, analgesicos y sedantes de uso general",
+											"codigoBC":"AX01_PO.35-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350348/AX01_PO.35-SPR.01.01+Tipos+de+anestesicos%2C+analgesicos+y+sedantes+de+uso+general.docx/66d21f06-f83f-7e89-0ee6-1ccbd4acacf6?t=1641995441980",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4563,7 +4572,7 @@
 											"nivel":"3_28_05_01_01",
 											"nombre":"Evaluación dolor, monitorización y criterios de punto final en roedores",
 											"codigoBC":"PO.05-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7a0330e8-58ef-4f0d-adf9-9fd1f7653a0e",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349516/PO.05-SPR.01.02+Evaluaci%C3%B3n+dolor+monitorizaci%C3%B3n+y+criterios+de+punto+final+en+roedores.pdf/348a5b11-ad75-86de-3f65-1a07cc493742?t=1641997591008",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4572,7 +4581,7 @@
 											"nivel":"3_28_05_01_02",
 											"nombre":"Hoja monitorización del bienestar animal en roedores",
 											"codigoBC":"AX01_PO.05-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f0ea5357-8158-4446-a16a-9c5595bab639",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349516/AX01_PO.05-SPR.01.02+Hoja+monitorizaci%C3%B3n.docx/da06343c-57af-a156-4d8c-4a9b27da3105?t=1641995465632",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -4588,23 +4597,23 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_05_02_01",
-											"nombre":"Hoja monitorización del bienestar animal en conejos",
-											"codigoBC":"AX01_PO.06-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2b7b463a-24da-426b-b89c-8a5579796f13",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_05_02_02",
 											"nombre":"Evaluación dolor, monitorización y criterios de punto final en conejos",
 											"codigoBC":"PO.06-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cfe87b05-a0bb-4681-b97b-1f09fa0c6047",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349707/PO.06.SPR.01.01+Evaluaci%C3%B3n+de+dolor%2Cmonitorizaci%C3%B3n%2C+punto+final+en+conejos.pdf/abd7689a-d452-abfe-3e57-e937efadacf2?t=1641997610791",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
-										}				
+										},		
+										{
+											"nivel":"3_28_05_02_01",
+											"nombre":"Hoja monitorización del bienestar animal en conejos",
+											"codigoBC":"AX01_PO.06-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349707/AX01_PO.06-SPR.01.01+Hoja+monitorizaci%C3%B3n+del+bienestar+animal+en+conejos.docx/25065978-888f-2468-2663-27173e70149c?t=1641997609916",
+											"tipo":"file",
+											"extension":"doc",
+											"subnivel":	[]
+										}
 									]
 								},
 								{
@@ -4616,21 +4625,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_05_03_01",
-											"nombre":"Hoja monitorización del bienestar animal en cerdos",
-											"codigoBC":"AX01_PO.07-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7cc73522-88eb-4b01-aa04-102c8f1cb8d2",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_05_03_02",
 											"nombre":"Evaluación dolor monitorización y criterios de punto final en cerdos",
 											"codigoBC":"PO.07-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3f4e8c11-3f73-4660-81db-2d936e698703",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349711/PO.07-SPR.01.01+Evaluaci%C3%B3n+dolor+monitorizaci%C3%B3n+y+criterios+de+punto+final+en+cerdos.pdf/c156d001-9ad5-3301-6f8a-524388a9ca0d?t=1641997625801",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_05_03_01",
+											"nombre":"Hoja monitorización del bienestar animal en cerdos",
+											"codigoBC":"AX01_PO.07-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349711/AX01_PO.07-SPR.01.01+Hoja+monitorizaci%C3%B3n+del+bienestar+animal+en+cerdos.docx/f44e6a5e-d5ce-4897-2f72-44fe096b7009?t=1641997625022",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4645,20 +4654,20 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_05_04_01",
-											"nombre":"Monitorización del bienestar animal en ovinos",
-											"codigoBC":"AX01_PO.08-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f5729063-5103-4ec2-8c17-605a1ae92d57",
+											"nombre":"Evaluación del dolor, monitorización y criterios de punto final en ovinos",
+											"codigoBC":"PO.08-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349715/PO.08.SPR.01.01+Evaluaci%C3%B3n+del+dolor%2C+monitorizaci%C3%B3n+y+criterios+de+punto+final+en+ovinos.pdf/751c6dc8-a629-7d87-6cea-1a8e4a7fd61b?t=1641997650065",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_05_04_02",
-											"nombre":"Evaluación del dolor, monitorización y criterios de punto final en ovinos",
-											"codigoBC":"PO.08-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9c4b4fdb-c1b5-4fab-af6b-2c05bcb72cce",
+											"nombre":"Monitorización del bienestar animal en ovinos",
+											"codigoBC":"AX01_PO.08-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349715/AX01_PO.08-SPR.01+Monitorizaci%C3%B3n+del+bienestar+animal+en+ovinos.docx/3068f147-654d-0a0f-df25-4e2e07ea9085?t=1641997649164",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4682,21 +4691,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_06_01_01",
-											"nombre":"Registro de visitas",
-											"codigoBC":"AX01_PO.13-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ff5ad9f2-264c-429d-b456-cb97ebef6fba",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_06_01_02",
 											"nombre":"Flujo entrada y salida de personal al semisótano de la plataforma de animalario",
 											"codigoBC":"PO.13-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/20bbb9c5-a76f-4cc3-8188-a59c339e5797",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349795/PO.13-SPR.01.01+Flujo+entrada+y+salida+de+personal+al+semis%C3%B3tano+de+la+plataforma+de+animalario.pdf/0a3f0789-3c75-1e54-1ada-2beba381c548?t=1641997682983",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_01_01",
+											"nombre":"Registro de visitas",
+											"codigoBC":"AX01_PO.13-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349795/AX01_PO.13-SPR.01.01+Registro+de+visitas.docx/eb8e5d5a-6a3b-5238-fe31-8cdf8176dd2e?t=1641995517522",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4711,22 +4720,22 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_06_02_01",
-											"nombre":"Etiqueta de identificación colectiva para la estabulación de grandes animales",
-											"codigoBC":"AX01_PO.14-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e154a056-10e8-4380-b515-e391596dd3e9",
+											"nombre":"Flujo entrada y salida de grandes animales al semisótano de la plataforma de animalario",
+											"codigoBC":"PO.14-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349809/PO.14-SPR.01.01+Flujo+entrada+y+salida+de+grandes+animales+al+semis%C3%B3tano+de+la+plataforma+de+animalario.pdf/df839734-c87f-60be-b668-50a2c8b49ffe?t=1641997700891",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_06_02_02",
-											"nombre":"Flujo entrada y salida de grandes animales al semisótano de la plataforma de animalario",
-											"codigoBC":"PO.14-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/287ff24b-4e95-4bd3-9e3c-ce38ed4359d6",
+											"nombre":"Etiqueta de identificación colectiva para la estabulación de grandes animales",
+											"codigoBC":"AX01_PO.14-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349809/AX01_PO.14-SPR.01.01+Etiqueta+de+identificaci%C3%B3n+colectiva+para+la+estabulaci%C3%B3n+de+grandes+animales.docx/b443094e-c1c8-81d1-0cd0-bd61f359f9f8?t=1641997700080",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
-										}				
+										}
 									]
 								},
 								{
@@ -4767,29 +4776,20 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_06_04_01",
-											"nombre":"Plano del sótano de la Plataforma de animalario",
-											"codigoBC":"AX01_PO.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/803037c3-0e91-4c3a-8061-643bf0dec9b4",
+											"nombre":"Flujo de entrada y salida al sótano 1",
+											"codigoBC":"PO.17-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349817/PO.17-SPR.01.03+Flujo+de+entrada+y+salida+al+s%C3%B3tano+1.pdf/fc772e96-cced-c4ed-4edd-e6fb8601db65?t=1641998544185",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_06_04_02",
 											"nombre":"Libro registro visitas",
 											"codigoBC":"AX02_PO.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c0c667c5-f0bf-4d0d-8e84-f3ca7ced9f1f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349817/AX02_PO.17-SPR.01.02+Libro+registro+visitas.docx/57d1b3c8-3dab-43b5-79dd-bb0710370693?t=1641995517590",
 											"tipo":"file",
 											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
-											"nivel":"3_28_06_04_03",
-											"nombre":"Flujo de entrada y salida de personal al sótano 1 de la Plataforma de animalario",
-											"codigoBC":"PO.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/eabf408e-5bc5-490b-937d-2578b82cc6fb",
-											"tipo":"file",
-											"extension":"pdf",
 											"subnivel":	[]
 										}
 									]
@@ -4803,21 +4803,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_06_05_01",
-											"nombre":"Flujo de materiales en el sotano 1 de la Plataforma de animalario",
-											"codigoBC":"AX01_PO.21-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/467f5956-dfd8-4b1f-aa29-6b6909dd304d",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_06_05_02",
 											"nombre":"Flujo de entrada y salida de materiales y equipos al sótano 1 de la Plataforma de animalario",
 											"codigoBC":"PO.21-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cbcd3301-1181-413a-9b4d-17d64a150ae9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350025/PO.21-SPR.01.02+Flujo+entrada+y+salida+de+materiales+y+equipos+al+s%C3%B3tano.pdf/1f8d6b00-2e16-254f-3a5b-5e47871a4c8f?t=1641998561119",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_05_01",
+											"nombre":"Flujo de materiales en el sotano 1 de la Plataforma de animalario",
+											"codigoBC":"AX01_PO.21-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350025/AX01_PO.21-SPR.01.01+Flujo+de+materiales+en+el+sotano+1+de+la+Plataforma+de+animalario.docx/25e1cbf8-9aaf-556d-e592-c6b9b969d464?t=1641995517619",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -4834,7 +4834,7 @@
 											"nivel":"3_28_06_06_02",
 											"nombre":"Fujo de entrada y salida, identificación de animales en sotano 1",
 											"codigoBC":"PO.23-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8346a293-0baf-457e-a30f-c6c0624e90f1",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350062/PO.23.SPR.01.01+Fujo+de+entrada+y+salida%2C+identificaci%C3%B3n+de+animales+en+sotano+1.pdf/bb5187b5-09bc-f270-a854-112cf067c120?t=1641998575484",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6588,7 +6588,7 @@
 											"nivel":"3_28_08_01_01",
 											"nombre":"Manejo e immovilizacion de roedores",
 											"codigoBC":"PO.09-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4ecd6d45-38e1-4e5c-ab74-761ad150f175",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349719/PO.09-SPR.01.01+Manejo+e+immovilizacion+de+roedores.pdf/64e6a08f-c189-3371-46ba-b1e03cfbe314?t=1641996422761",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6607,7 +6607,7 @@
 											"nivel":"3_28_08_02_01",
 											"nombre":"Manejo e immovilizacion de conejos",
 											"codigoBC":"PO.10-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/eeeb737a-2679-4606-a546-66779a16d7b9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349733/PO.10-SPR.01.01+Manejo+e+immovilizacion+de+conejos.pdf/17198cef-844a-785b-26d5-ca0960ead215?t=1641996423101",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6626,7 +6626,7 @@
 											"nivel":"3_28_08_03_01",
 											"nombre":"Manejo e inmoviliazión de grandes animales",
 											"codigoBC":"PO.16-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2a5f6302-9bd5-4b04-a5f4-b80c639fa65a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349733/PO.10-SPR.01.01+Manejo+e+immovilizacion+de+conejos.pdf/17198cef-844a-785b-26d5-ca0960ead215?t=1641996423101",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6652,10 +6652,19 @@
 									"extension":"",
 									"subnivel":	[
 										{
+											"nivel":"3_28_09_01_03",
+											"nombre":"Gestion de residuos de la plataforma de animalario",
+											"codigoBC":"PO.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349614/PO.03.SPR.01.02+Gestion+de+residuos+de+la+plataforma+de+animalario.pdf/4c63102b-2e39-e8f7-025c-44c09f845efd?t=1641996439017",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
 											"nivel":"3_28_09_01_01",
-											"nombre":"Registro retirada cadaveres",
+											"nombre":"Registro de retirada de cadaveres de animales",
 											"codigoBC":"AX01_PO.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0be02874-149b-4fc7-a8a4-2968097393fc",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349614/AX01_PO.03-SPR.01.02+Registro+de+retirada+de+cadaveres+de+animales.docx/ae3861d3-8ed7-d07e-f2d4-f2d6dab99d22?t=1641996439018",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6664,21 +6673,11 @@
 											"nivel":"3_28_09_01_02",
 											"nombre":"Clasificación de residuos",
 											"codigoBC":"AX02_PO.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/06e2d186-4cbb-4264-8115-c50531127a3b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349614/AX02_PO+03.SPR.01.01+Clasificaci%C3%B3n+de+residuos.docx/3302e9b8-916e-e749-77ae-0c968c5589e8?t=1641998652200",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
-										},
-										{
-											"nivel":"3_28_09_01_03",
-											"nombre":"Gestión de residuos animalario",
-											"codigoBC":"PO.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/aa7023cd-8c58-4694-acde-3f1eae744681",
-											"tipo":"file",
-											"extension":"pdf",
-											"subnivel":	[]
 										}
-										
 									]
 								},
 								{
@@ -6691,36 +6690,36 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_09_02_01",
-											"nombre":"Normas básicas animalario",
-											"codigoBC":"AX01_PO.04-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f3a5e3c1-190d-4b2e-b20d-0489c0b1e136",
+											"nombre":"Normas de uso de la plataforma de animalario",
+											"codigoBC":"PO.04-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349648/PO.04.SPR.01.02+Normas+de+uso+de+la+plataforma+de+animalario.pdf/c9bbd6b6-6f80-b758-b604-d8d342baf762?t=1641996439351",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_09_02_02",
-											"nombre":"Registro de uso de las instalaciones",
-											"codigoBC":"AX02_PO.04-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a77c3f22-291f-4632-8990-e160207fccb6",
+											"nombre":"Normas basicas de la Plataforma de animalario",
+											"codigoBC":"AX01_PO.04-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349648/AX01_PO.04-SPR.01.02+Normas+basicas+de+la+Plataforma+de+animalario.docx/eaf71e50-81fd-386d-d15e-4c01fd40b093?t=1641996439350",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_09_02_03",
-											"nombre":"Normas de uso animalario",
-											"codigoBC":"PO.04-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9e956e38-cc03-4e50-b3a6-19d087c3599c",
+											"nombre":"Registro de uso de las instalaciones",
+											"codigoBC":"AX02_PO.04-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349648/AX02_PO.04-SPR.01.02+Registro+de+uso+de+las+instalaciones.docx/e1f41ad5-137e-69fc-6490-6321f5b39cbe?t=1641996439350",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
 								},
 								{
 									"nivel":"3_28_09_03",
-									"nombre":"Vestimenta del personal en el sótano 1 de la Plataforma de animalario",
+									"nombre":"Vestimenta del personal en el sótano 1",
 									"codigoBC":"PO.20-SPR.01",
 									"url":"",
 									"tipo":"folder",
@@ -6728,18 +6727,18 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_09_03_01",
-											"nombre":"Hoja de registro de la formación de vestimenta para la zona de barrera SPF",
+											"nombre":"Hoja de registro formación vestimenta de la zona SPF",
 											"codigoBC":"AX01_PO.20-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5bda6610-c69f-4eb3-8004-601b9572c49a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350000/AX01_PO.20-SPR.01.02+Hoja+de+registro+formaci%C3%B3n+vestimenta+de+la+zona+SPF.docx/eeee2e0f-f596-3bd4-175f-95a9ade07f66?t=1641998679710",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_09_03_02",
-											"nombre":"Vestimenta del personal en el sótano 1 de la Plataforma de animalario",
+											"nombre":"Vestimenta del personal en el animalario del sotano 1",
 											"codigoBC":"PO.20-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/02f732f4-44f4-4840-a1bf-6bfdd470f732",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350000/PO.20-SPR.01.02+Vestimenta+del+personal+en+el+animalario+del+sotano+1.pdf/a46ca8e9-414f-09c4-0376-771ce055884e?t=1641996439686",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6768,7 +6767,7 @@
 											"nivel":"3_28_10_01_01",
 											"nombre":"Servicios de Animalario",
 											"codigoBC":"PO.01-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/84ddb495-7bd6-4ff4-90ad-b74d3b880bc9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/352081/PO.01-SPR.01.03+Servicios+de+Animalario.pdf/b8429baa-ca3b-7cd5-cdfc-7513639af37a?t=1641996602291",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6777,7 +6776,7 @@
 											"nivel":"3_28_10_01_02",
 											"nombre":"Solicitud de animales",
 											"codigoBC":"AX02-PO.01-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/466f8832-27b0-4916-9cd8-180ef9267c85",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/352081/AX02_PO+01-SPR+01+02+Peticion+de+animales+bloqueado.docx/cb291169-2b3b-090e-438a-c223a2fec6d5?t=1641996602291",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6786,7 +6785,7 @@
 											"nivel":"3_28_10_01_03",
 											"nombre":"Formulario para importar rata o ratón de otros centros usuarios",
 											"codigoBC":"AX03-PO.01-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a1ce7252-c8ad-405d-81c9-d345887800a5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/352081/AX03_PO.01-SPR.01.01+Formulario+para+importar+rata+o+rat%C3%B3n+de+otros+cent.._.docx/cd674aa1-0293-406d-6fef-52f7a14fa102?t=1641998715310",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6802,10 +6801,19 @@
 									"extension":"",
 									"subnivel":	[
 										{
+											"nivel":"3_28_10_02_07",
+											"nombre":"Evaluacion de proyectos OEBA-CET",
+											"codigoBC":"PO.02-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/PO.02.SPR.01.06+Evaluacion+de+proyectos+OEBA-CET.pdf/100e46de-bc01-b23f-edf7-b59dc3fe2e74?t=1641996457730",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
 											"nivel":"3_28_10_02_01",
 											"nombre":"Solicitud de evaluación por el OEBA-CET",
 											"codigoBC":"AX01_PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4d5e7d1b-92aa-45b8-95b3-e07b3f44504d",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/AX01_PO.02-SPR.01.05+Solicitud+de+evaluaci%C3%B3n+por+el+OEBA-CET.docx/dd2b1c12-862d-5961-8aa2-8a0ce8595f60?t=1641998737736",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6814,7 +6822,7 @@
 											"nivel":"3_28_10_02_02",
 											"nombre":"Resumen no tecnico ANONIMO",
 											"codigoBC":"AX03_PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ebb75670-f4a0-4cb7-b84f-ed638a0ebca1",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/AX03_PO.02-SPR.01.04+Resumen+no+tecnico+ANONIMO.docx/9404dfab-8677-b78d-7cff-949f68a24f5e?t=1641996457731",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6823,7 +6831,7 @@
 											"nivel":"3_28_10_02_03",
 											"nombre":"Memoria Evaluacion Proyecto",
 											"codigoBC":"AX05_PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f07ba10e-96b2-40ba-a073-bebe4c39fbc3",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/AX05_PO.02-SPR.01.03+Memoria+Evaluacion+Proyecto.docx/2b95dcf1-4da0-3f63-23f5-2554fe64dd01?t=1641996457732",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6832,7 +6840,7 @@
 											"nivel":"3_28_10_02_04",
 											"nombre":"Solicitud de certificado del OEBA-CET",
 											"codigoBC":"AX06_PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0ea25a7d-c4e1-4b30-b52a-37a9d468dd80",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/AX06_PO.02-SPR.01.02+Solicitud+de+certificado+del+OEBA-CET.docx/b9029233-d935-8089-fa84-2c2cfb78b47d?t=1641996457732",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6841,7 +6849,7 @@
 											"nivel":"3_28_10_02_05",
 											"nombre":"Solicitud modificacion de un proyecto",
 											"codigoBC":"AX07.PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8e48e1c3-7a64-404d-8cb0-fa9244b4e07b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/AX07.PO.02-SPR.01.02+Solicitud+modificacion+de+un+proyecto.docx/3f1f33e1-028a-0c65-b101-08cf45403276?t=1641996457730",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6850,18 +6858,9 @@
 											"nivel":"3_28_10_02_06",
 											"nombre":"Informe evaluacion retrospectiva",
 											"codigoBC":"AX08.PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ff9220c6-5363-4cf4-ab4c-fe952dc16ef5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349530/AX08.PO.02-SPR.01.02+Informe+evaluacion+retrospectiva.docx/b8cfabce-f149-104f-62ba-48316cbfb503?t=1641996457731",
 											"tipo":"file",
 											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
-											"nivel":"3_28_10_02_07",
-											"nombre":"Evaluacion de proyectos OEBA-CET",
-											"codigoBC":"PO.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b848a647-cbfa-4c48-b0be-1fc6cc693ba1",
-											"tipo":"file",
-											"extension":"pdf",
 											"subnivel":	[]
 										}
 									]
