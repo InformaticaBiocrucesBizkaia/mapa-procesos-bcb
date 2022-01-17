@@ -4863,7 +4863,7 @@
 											"nivel":"3_28_07_01_01",
 											"nombre":"Instrucciones de uso de la manta homeotérmica PanLab-Harvard Apparatus",
 											"codigoBC":"IT.01-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/01bbc94b-7073-48b5-a655-40f37abe5fef",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349835/IT.01-SPR.01.02+Uso+de+la+manta+homeot%C3%A9rmica+Panlab.pdf/6db69a21-535d-5076-cce2-95132cdc9f40?t=1641995950203",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -4872,7 +4872,7 @@
 											"nivel":"3_28_07_01_02",
 											"nombre":".Registro de uso de manta homeotérmica Panlab-Harvard Apparatus",
 											"codigoBC":"AX01_IT.01-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/01bbc94b-7073-48b5-a655-40f37abe5fef",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349835/AX01_IT.01-SPR.01.02+Registro+de+uso+.docx/561dab1d-98f0-ac8e-efb8-f924cbbb0761?t=1641995950203",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -4889,40 +4889,40 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_07_02_01",
-											"nombre":"Hoja de Registro Uso Leica Wild 66-224011",
-											"codigoBC":"AX01_IT.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8ffa6fe9-d653-424d-b78b-eed5dd0986fa",
+											"nombre":"Instrucciones de uso de los Microscopios Quirúrgicos Leica Wild M650 y M651",
+											"codigoBC":"IT.02-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349858/IT.02-SPR.01.02+Uso+de+microscopios+quir%C3%BArgicos+Leica.pdf/8848fd7e-ea4b-8aa6-7062-832665ecf940?t=1641995950561",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_02_02",
-											"nombre":"Hoja de Registro Uso Leica Wild 66-221107",
-											"codigoBC":"AX02_IT.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cc11905c-0125-4613-85d5-b8534d13fdca",
+											"nombre":"Hoja de Registro Uso Leica Wild 66-224011",
+											"codigoBC":"AX01_IT.02-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349858/AX01_IT.02-SPR.01.02+Hoja+de+Registro+Uso+Leica+Wild+66-224011.docx/f39c196e-b07c-dbaf-1d30-4cccac7cbd19?t=1641995950561",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_02_03",
-											"nombre":"Hoja de Registro Uso Leica Wild 66-224003",
-											"codigoBC":"AX03_IT.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ae2494ef-5465-4303-ab8b-29d5d3bed7db",
+											"nombre":"Hoja de Registro Uso Leica Wild 66-221107",
+											"codigoBC":"AX02_IT.02-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349858/AX02_IT.02-SPR.01.02+Hoja+de+Registro+Uso+Leica+Wild+66-221107.docx/af02eb9f-13bd-a222-4c04-102e1b3ac766?t=1641995950561",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_02_04",
-											"nombre":"Instrucciones de uso de los Microscopios Quirúrgicos Leica Wild M650 y M651",
-											"codigoBC":"IT.02-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8827b25a-cda3-4420-b490-503eda7613ac",
+											"nombre":"Hoja de Registro Uso Leica Wild 66-224003",
+											"codigoBC":"AX03_IT.02-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349858/AX03_IT.02-SPR.01.02+Hoja+de+Registro+Uso+Leica+Wild+66-224003.docx/136fbc98-b2af-9857-396b-14f5149bd890?t=1641995950562",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
-										}		
+										}
 									]
 								},
 								{
@@ -4935,58 +4935,58 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_07_03_01",
-											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002922",
-											"codigoBC":"AX01_IT.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e82d3697-3dc4-43d2-ac66-389bd36fb48e",
+											"nombre":"Instrucciones de uso del microscopio Quirurgico Optomic OP-C16",
+											"codigoBC":"IT.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349937/IT.03-SPR.01.02+Uso+de+microscopio+Optomic+OP-C16.pdf/71554633-7efd-5fac-bc7a-bd0a35943f6c?t=1641995950890",
 											"tipo":"file",
-											"extension":"doc",
+											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_03_02",
-											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002923",
-											"codigoBC":"AX02_IT.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1c2e9384-95d5-4e62-b73b-9259b50b8de7",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002922",
+											"codigoBC":"AX01_IT.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349937/AX01_IT.03-SPR.01.02+Hoja+de+Registro+microscopio+66-9002922.docx/d6cf58fc-2ee6-12d9-cd4f-c6c44cb1c407?t=1641995950889",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_03_03",
-											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002924",
-											"codigoBC":"AX03_IT.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cce35ef7-eb0a-4c3f-8b4c-bcab07e82c7b",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002923",
+											"codigoBC":"AX02_IT.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349937/AX02_IT.03-SPR.01.02+Hoja+de+Registro+microscopio+66-9002923.docx/ece668d7-0a7b-6e6b-6006-c9d9506d2766?t=1641995950889",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_03_04",
-											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002925",
-											"codigoBC":"AX04_IT.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b999f869-18f8-466c-a9b3-4ea5d52ab8f6",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002924",
+											"codigoBC":"AX03_IT.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349937/AX03_IT.03-SPR.01.02+Hoja+de+Registro+microscopio+66-9002924.docx/c4565bcc-5e22-03c9-a48c-37f2edefd537?t=1641995950890",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_03_05",
-											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002926",
-											"codigoBC":"AX05_IT.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/53fc4f79-fc2f-4456-aca9-903989a77f67",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002925",
+											"codigoBC":"AX04_IT.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349937/AX04_IT.03-SPR.01.02+Hoja+de+Registro+microscopio+66-9002925.docx/3f8ad680-d525-eb36-d9a2-0324e250b8e4?t=1641995950890",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_03_06",
-											"nombre":"Instrucciones de uso del microscopio Quirurgico Optomic OP-C16",
-											"codigoBC":"IT.03-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a72d3ab3-1d88-44c5-bec1-3daeef398489",
+											"nombre":"Hoja de Registro microscopio quirúrgico optomic 66-9002926",
+											"codigoBC":"AX05_IT.03-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/349937/AX05_IT.03-SPR.01.02+Hoja+de+Registro+microscopio+66-9002926.docx/43185670-59a4-e1df-3f0e-9204bb3fc73a?t=1641995950889",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
-										}
+										},
 									]
 								},
 								{
@@ -4998,21 +4998,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_07_04_01",
-											"nombre":"Registro de uso de las camaras de CO2",
-											"codigoBC":"AX01_IT.04-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/33c0343b-599d-4ab6-b485-06e8c672902c",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_07_04_02",
 											"nombre":"Instrucciones de uso de la camara de CO2",
 											"codigoBC":"IT.04-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/503bc3a0-fb45-4548-87fa-74f30d51f4b5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350067/IT.04-SPR.01.02+Uso+de+las+c%C3%A1maras+de+CO2.pdf/2afca307-b8c2-9493-f150-5cdaee9c8858?t=1641995951225",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_04_01",
+											"nombre":"Registro de uso de las camaras de CO2",
+											"codigoBC":"AX01_IT.04-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350067/AX01_IT.04-SPR.01.02+Registro+de+uso+de+las+camaras+de+CO2.docx/40a9e277-fee5-1398-3e36-f97ff3ff017a?t=1641995951224",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5026,21 +5026,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_07_05_01",
-											"nombre":"Registro de uso del del Medidor de Flujo Transonic",
-											"codigoBC":"AX01_IT.05-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3194b5e8-f2d9-4f41-bba5-b8cf17fbafa6",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_07_05_02",
 											"nombre":"Instrucciones de uso medidor de flujo Transonic",
 											"codigoBC":"IT.05-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1178aa77-6100-48c8-b9b9-91bb1f70c15f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350116/IT.05-SPR.01.02+Uso+del+medidor+de+flujo+Transonic.pdf/04969203-8285-bbe0-8ad6-d1917fcdf745?t=1641995951559",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_05_01",
+											"nombre":"Registro de uso del del Medidor de Flujo Transonic",
+											"codigoBC":"AX01_IT.05-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350116/AX01_IT.05-SPR.01.02+Registro+de+uso+del+del+Medidor+de+Flujo+Transonic.docx/5cf502e2-6a70-7c73-6e0b-c059a2d8684a?t=1641995951559",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5054,21 +5054,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_07_06_01",
-											"nombre":"Registro de uso del Capnografo Ohmeda 5250",
-											"codigoBC":"AX01_IT.06-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/08abff7a-e56f-4c11-b3c1-b617af68d24d",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_07_06_02",
 											"nombre":"Instrucciones de uso Capnografo Ohmeda 5250",
 											"codigoBC":"IT.06-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b55fcf92-0996-42ba-95b2-8787e09e1cc4",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350159/IT.06-SPR.01.02+Uso+del+capn%C3%B3grafo+Ohmeda+5250.pdf/0ecf7e84-e6b0-46db-58ff-01462b855531?t=1641998794474",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_06_01",
+											"nombre":"Registro de uso del Capnografo Ohmeda 5250",
+											"codigoBC":"AX01_IT.06-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350159/AX01_IT.06-SPR.01.02+Registro+de+uso+del+Capnografo+Ohmeda+5250.docx/af673829-e252-89e1-8bb0-83462e756163?t=1641995951881",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5082,21 +5082,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_07_07_01",
-											"nombre":"Registro de uso del monitor de actividad cerebral Brainz",
-											"codigoBC":"AX01_IT.07-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e4fcfa7e-9e63-40c5-83d3-98cba68af4c4",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_07_07_02",
 											"nombre":"Monitor de actividad cerebral Brainz",
 											"codigoBC":"IT.07-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/444d6279-7808-4e09-86a2-cdb89737549a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350191/IT.07-SPR.01.01+Uso+del+monitor+de+actividad+cerebral+Brainz.pdf/85d36123-90ba-f42f-0a11-c77cb96a9803?t=1641995952210",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_07_01",
+											"nombre":"Registro de uso del monitor de actividad cerebral Brainz",
+											"codigoBC":"AX01_IT.07-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350191/AX01_IT.07-SPR.01.02+Registro+de+uso+del+monitor+Brainz.docx/09567c20-ee27-104e-a9ca-48f1971f34a2?t=1641995952210",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5110,21 +5110,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_07_08_01",
-											"nombre":"Registro de uso del Oximetro 5120 Ohmeda",
-											"codigoBC":"AX01_IT.08-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/261514cf-6d4d-4b7d-aebc-78537c59c8ac",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_07_08_02",
 											"nombre":"Instrucciones de uso Oximetro 5120 Ohmeda",
 											"codigoBC":"IT.08-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cc96d4e8-d0bb-4013-ab19-96865f7a41d7",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350234/IT.08-SPR.01.02+Uso+del+ox%C3%ADmetro+Ohmeda+5120.pdf/902e3583-4280-5b89-327c-a3a9818a17f9?t=1641998808872",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_07_08_01",
+											"nombre":"Registro de uso del Oximetro 5120 Ohmeda",
+											"codigoBC":"AX01_IT.08-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350234/AX01_IT.08.SPR.01.02+Registro+de+uso+del+Oximetro+5120+Ohmeda.docx/c2426c0e-4230-ab44-0924-6f5344dc030b?t=1641995952554",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5138,21 +5138,30 @@
 									"extension":"",
 									"subnivel":	[
 										{
+											"nivel":"3_28_07_09_02",
+											"nombre":"Instrucciones de la cabina Telstar Zoon 3",
+											"codigoBC":"IT.09-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350262/IT.09-SPR.01.02+Uso+de+la+cabina+Telstar+Zoon+3.pdf/4294212a-bcb0-3865-851f-bb8c501b8a9c?t=1641996367442",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
 											"nivel":"3_28_07_09_01",
 											"nombre":"Hoja de registro de mantenimiento",
 											"codigoBC":"AX01_IT.09-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2dc665df-91ca-4d0c-a421-b3762c3d90e9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350262/AX01_IT.09-SPR.01.02-Hoja+de+registro+de+mantenimiento.docx/16913e48-dd0d-0a25-ebde-8be8c95837d5?t=1641996367443",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
 										{
-											"nivel":"3_28_07_09_02",
-											"nombre":"Instrucciones de la cabina Telstar Zoon 3",
-											"codigoBC":"IT.09-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0b11df38-8b93-4c19-b567-30503c43b3ea",
+											"nivel":"3_28_07_09_01",
+											"nombre":"Registro de uso",
+											"codigoBC":"AX02_IT.09-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350262/AX02_IT.09-SPR.01.02+Registro+de+uso.docx/75645216-7e46-cd60-8fa5-6dcc495b79b0?t=1641996367443",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5169,7 +5178,7 @@
 											"nivel":"3_28_07_10_01",
 											"nombre":"Instrucciones de uso del luxómetro",
 											"codigoBC":"IT.10-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/362d0a0b-a8a3-4ac5-ae2c-aa2084c8689e",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350324/IT.10-SPR.01.02+Uso+del+Luxmeter+LM+37.pdf/dc67740f-c5b5-61e8-74c0-229393de7c30?t=1641995952884",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5185,10 +5194,19 @@
 									"extension":"",
 									"subnivel":	[
 										{
+											"nivel":"3_28_07_11_07",
+											"nombre":"Instrucciones de uso de los Surgivet-Multistation",
+											"codigoBC":"IT.11-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/IT.11-SPR.01.02+Uso+de+los+equipos+Surgivet-Multistation.pdf/66df8355-a41c-0ac7-27e7-aaaf6761cf58?t=1641995953216",
+											"tipo":"file",
+											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
 											"nivel":"3_28_07_11_01",
 											"nombre":"AX01-IT.11-SPR.01",
 											"codigoBC":"AX01-IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b8af8b05-878a-4396-9846-c2e844692f03",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/AX01-IT.11-SPR.01.02+Registro+de+uso+66-9002765.docx/061c4b00-7e75-4aaa-448c-57c02c761fc4?t=1641995953215",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5197,7 +5215,7 @@
 											"nivel":"3_28_07_11_02",
 											"nombre":"AX02-IT.11-SPR.01",
 											"codigoBC":"AX02-IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d325ec44-bafb-4cf8-a89d-d213fa66551a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/AX02-IT.11-SPR.01.02+Registro+de+uso+66-9002766+.docx/fa18215a-7223-03fd-ca6b-f6c11355735b?t=1641995953216",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5206,7 +5224,7 @@
 											"nivel":"3_28_07_11_03",
 											"nombre":"AX03-IT.11-SPR.01",
 											"codigoBC":"AX03-IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ccc23213-75e2-4b06-8205-586790350480",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/AX03-IT.11-SPR.01.02+Registro+de+uso+66-9002767.docx/8cfe5b1e-611e-2bbc-e073-c172fcdf8807?t=1641995953215",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5215,7 +5233,7 @@
 											"nivel":"3_28_07_11_04",
 											"nombre":"AX04-IT.11-SPR.01",
 											"codigoBC":"AX04-IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5be550f6-1f6e-44fd-87f8-9bec8a4258cf",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/AX04-IT.11-SPR.01.02+Gu%C3%ADa+de+flujo+para+inducci%C3%B3n+anest%C3%A9sica.docx/be9eb901-ce73-e8c6-05e5-a9f33980170c?t=1641998832310",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5224,7 +5242,7 @@
 											"nivel":"3_28_07_11_05",
 											"nombre":"AX05-IT.11-SPR.01",
 											"codigoBC":"AX05-IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8019d58e-aa27-43ec-a1c7-90006bb96ee5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/AX05-IT.11-SPR.01.02+Gu%C3%ADa+de+flujo+para+mantenimiento+de+la+anestesia.docx/2bf11649-53bf-eaff-fa08-2120f1179796?t=1641998832973",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5233,20 +5251,11 @@
 											"nivel":"3_28_07_11_06",
 											"nombre":"AX06-IT.11-SPR.01",
 											"codigoBC":"AX06-IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3ddb12a-bf1f-4495-84a3-fe19e3a804e8",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350353/AX06-IT.11-SPR.01.02+Registro+de+peso+del+carb%C3%B3n+activo.docx/bf9a6682-d998-9cc5-6762-89c7e8c81d9b?t=1641998831628",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
 										},
-										{
-											"nivel":"3_28_07_11_07",
-											"nombre":"Instrucciones de uso de los Surgivet-Multistation",
-											"codigoBC":"IT.11-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5e5ae967-5b8b-474a-808b-bd868b614e28",
-											"tipo":"file",
-											"extension":"pdf",
-											"subnivel":	[]
-										}
 									]
 								},
 								{
@@ -5261,7 +5270,7 @@
 											"nivel":"3_28_07_12_01",
 											"nombre":"Uso del monitor NIRO 200",
 											"codigoBC":"IT.12-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/74e57bec-8d34-495d-90f2-124649745572",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350450/IT.12-SPR.01.02+Uso+del+monitor+NIRO+200.pdf/7959fa72-b298-ec5c-0892-8cd4bc79736c?t=1641995953554",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5270,7 +5279,7 @@
 											"nivel":"3_28_07_12_02",
 											"nombre":"Hoja de registro del monitor Niro 200",
 											"codigoBC":"AX01.01-IT.12-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f2bbe7fc-8562-40ac-8c5d-00416200b042",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350450/AX01_IT.12-SPR.01.02+Hoja+de+Registro+Uso+NIRO+200.docx/1949d99a-ef77-9aff-6bbf-9d64337ab286?t=1641995953554",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5287,9 +5296,9 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_07_13_01",
-											"nombre":"Instrucciones de uso del analizador de gases GEM Premier 4000",
+											"nombre":"Uso del gasómtro GEM Premier 4000",
 											"codigoBC":"IT.13-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e4af9503-b35e-4df6-9b33-ed74c70834d3",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350489/IT.13-SPR.01.02+Uso+del+gas%C3%B3mtro+GEM+Premier+4000.pdf/6687cfa0-a55c-4dd0-c558-3129f101abaa?t=1641995953883",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5298,7 +5307,7 @@
 											"nivel":"3_28_07_13_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01.01-IT.13-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e28219c0-3b74-4885-a89b-7dcd92069f07",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350489/AX01_IT.13-SPR.01.02+Hoja+de+registro+de+uso.docx/27b801a0-ac65-d94d-5225-b2e4413b826f?t=1641995953884",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5315,18 +5324,18 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_07_14_01",
-											"nombre":"Hoja de registro",
+											"nombre":"Uso del electrobisturí Force 2",
 											"codigoBC":"IT.14-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b91675c1-6130-44f9-8349-2592cd5a36b0",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350513/IT.14-SPR.01.02+Uso+del+electrobistur%C3%AD+Force+2.pdf/954fcb65-0238-7695-536e-5f78125e7744?t=1641998853604",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_14_02",
-											"nombre":"Instrucciones del electrobisturí Force 2",
+											"nombre":"Hoja de registro uso",
 											"codigoBC":"AX01.01-IT.14-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/855e30c0-bcca-4142-b52e-46476222c009",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350513/AX01_IT.14-SPR.01.02+Hoja+de+registro+uso.docx/716a8076-6156-10a7-b236-e9f72e4511be?t=1641995954216",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5343,20 +5352,20 @@
 									"subnivel":	[
 										{
 											"nivel":"3_28_07_15_01",
-											"nombre":"Instrucciones de uso del circuito de refrigeración 1171MD",
+											"nombre":"Uso del circuito de refrigeración 1171MD",
 											"codigoBC":"IT.15-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e77f5dd5-5ed0-4a3a-9785-1a3358760c52",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350527/IT.15-SPR.01.02+Uso+del+circuito+de+refrigeraci%C3%B3n+1171MD.pdf/03b4417b-de15-263f-ad68-aa93b2dd4da4?t=1641998862539",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
 										},
 										{
 											"nivel":"3_28_07_15_02",
-											"nombre":"Registro de uso",
+											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01.01-IT.15-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cd54e73d-c485-476d-a3bc-bd0b40a834ed",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350527/AX01_IT.15-SPR.01.02+Hoja+de+registro+de+uso.docx/7c6f6b44-477d-ab43-01f5-45b440c6ec63?t=1641995954545",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5373,7 +5382,7 @@
 											"nivel":"3_28_07_16_01",
 											"nombre":"Instrucciones del ventilador",
 											"codigoBC":"IT.16-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/beec3611-e936-410e-b518-a746df2fc738",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350541/IT.16-SPR.01.02+Uso+del+ventilador+Hamilton+Medical.pdf/d46a3bbd-41fd-7f6c-0741-b751aa6a31ac?t=1641995954868",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5382,9 +5391,9 @@
 											"nivel":"3_28_07_16_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01.01-IT.16-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/35a18f95-9aa2-4c9e-96c5-ef94eb0999d6",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350541/AX01_IT.16-SPR.01.02+Hoja+de+Registro+Uso.docx/db488d2a-3c61-05d2-e8ec-2f1d1b9c6d8f?t=1641995954868",
 											"tipo":"file",
-											"extension":"pdf",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -5401,7 +5410,7 @@
 											"nivel":"3_28_07_17_01",
 											"nombre":"Instrucciones del analizador VetScan VS2",
 											"codigoBC":"IT.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/dd78d461-678a-4332-a0a5-5dd0fbd8d3f2",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350565/IT.17-SPR.01.01+Instrucciones+del+analizador+VetScan+VS2.pdf/c7b3730b-03b1-a557-d7ec-d708616ca898?t=1641995955217",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5410,7 +5419,7 @@
 											"nivel":"3_28_07_17_02",
 											"nombre":"Parámetros y perfiles analíticos",
 											"codigoBC":"AX01-IT.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/beec3611-e936-410e-b518-a746df2fc738",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350565/AX01-IT.17-SPR.01.01+Par%C3%A1metros+y+perfiles+anal%C3%ADticos.pdf/d6913c83-03de-c3da-ec3e-63c0c63575a9?t=1641998875766",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5419,7 +5428,7 @@
 											"nivel":"3_28_07_17_03",
 											"nombre":"Valores de referencia",
 											"codigoBC":"AX02-IT.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bb821502-b837-4104-a714-cf0e61f0a184",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350565/AX02-IT.17-SPR.01.01+Valores+de+referencia.pdf/2b10cd9a-b437-4f06-6a89-177b4fd786d9?t=1641995955218",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5428,7 +5437,7 @@
 											"nivel":"3_28_07_17_04",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX03-IT.17-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4c458a64-807c-49fd-9896-b3a9af470b47",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350565/AX03-IT.17-SPR.01.01+Registro+de+uso.docx/e5da5b48-a0e2-b5eb-a708-d26df06d0393?t=1641995955216",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5447,7 +5456,7 @@
 											"nivel":"3_28_07_18_01",
 											"nombre":"Instrucciones bomba volumétrica Infusomat Space",
 											"codigoBC":"IT.18-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/da3e7937-30ec-440c-bea4-7080dcfc6deb",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350599/IT-18-SPR.01.01+Instrucciones+bomba+volum%C3%A9trica+Infusomat+Space.pdf/da04faaf-7563-b926-b3dd-f2d18a0ad583?t=1641998885159",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5456,7 +5465,7 @@
 											"nivel":"3_28_07_18_02",
 											"nombre":"Hoja de Registro",
 											"codigoBC":"AX01-IT.18-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c63e6fc5-340a-4f69-bca5-cbbe1cb851c9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350599/AX01-IT.18-SPR.01.01+Hoja+de+Registro.docx/a099a19b-019a-1b18-c544-9aab4a2a4448?t=1641995955544",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5475,7 +5484,7 @@
 											"nivel":"3_28_07_19_01",
 											"nombre":"Instrucciones bomba Perfusor Space",
 											"codigoBC":"IT.19-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8f434a59-abdf-4a56-a249-4454d740e295",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350599/AX01-IT.18-SPR.01.01+Hoja+de+Registro.docx/a099a19b-019a-1b18-c544-9aab4a2a4448?t=1641995955544",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5484,7 +5493,7 @@
 											"nivel":"3_28_07_19_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.19-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c5dd14f1-5351-47a7-9f3d-60887d9f8764",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350613/AX01-IT.19-SPR.01.01+Hoja+de+registro+de+uso.docx/54fab997-43fc-642c-d2ec-c12ef753e34b?t=1641995955870",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5503,7 +5512,7 @@
 											"nivel":"3_28_07_20_01",
 											"nombre":"Uso de equipo de anestesia Excel 210SE",
 											"codigoBC":"IT.20-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/34fe127c-3dd5-40cd-92d2-ba3b9089b63c",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350637/IT.20-SPR.01.01+Uso+de+equipo+de+anestesia+Excel+210SE.pdf/1eec44cd-eb71-6076-b0de-2375a935aaeb?t=1641995956209",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5512,7 +5521,7 @@
 											"nivel":"3_28_07_20_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.20-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d9a6db31-c3f3-4900-91f8-7630e37afb63",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350637/AX01_IT.20-SPR.01.01+Hoja+de+registro+de+uso.docx/e2bc21fd-55f5-b3e8-35ae-6f43702e69fe?t=1641995956210",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5531,7 +5540,7 @@
 											"nivel":"3_28_07_21_01",
 											"nombre":"Uso de las bombas de jeringa Alaris",
 											"codigoBC":"IT.21-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/31fe1678-b08e-4df4-ba43-1539482516a0",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350661/IT.21-SPR.01.01+Uso+de+las+bombas+de+jeringa+Alaris.pdf/baec08dc-c7c4-74f6-7a30-168fca4bf25c?t=1641995956549",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5540,7 +5549,7 @@
 											"nivel":"3_28_07_21_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.21-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/97bb81ea-8e5b-45f7-a02c-a60ed0dd4143",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350661/AX01_IT.21-SPR.01.01+Hoja+de+registro+de+uso.docx/8ea104be-5769-8188-9be1-c2a2f6b72a27?t=1641995956544",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5559,7 +5568,7 @@
 											"nivel":"3_28_07_22_01",
 											"nombre":"Uso del equipo de centrífuga Capricorn",
 											"codigoBC":"IT.22-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5e591b15-33de-4572-b0e8-21ffd8154bf6",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350661/AX01_IT.21-SPR.01.01+Hoja+de+registro+de+uso.docx/8ea104be-5769-8188-9be1-c2a2f6b72a27?t=1641995956544",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5568,7 +5577,7 @@
 											"nivel":"3_28_07_22_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.22-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1fccabcb-3220-4f69-92ff-9440b97d56c6",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350685/AX01_IT.22-SPR.01.01+Hoja+de+registro+de+uso.docx/4c36ef82-203b-6957-f64a-9222626f717f?t=1641995956885",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5587,7 +5596,7 @@
 											"nivel":"3_28_07_23_01",
 											"nombre":"Uso del Pulsioxímetro Datex Ohmeda 3800",
 											"codigoBC":"IT.23-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4f407df1-e55f-4c59-b6d7-1f0265fee59f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350709/IT.23-SPR.01.01+Uso+del+Pulsiox%C3%ADmetro+Datex+Ohmeda+3800.pdf/5b4e637f-517b-bb5d-b3fc-b567cbb234a4?t=1641998914381",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5596,7 +5605,7 @@
 											"nivel":"3_28_07_23_02",
 											"nombre":"Hoja de registro uso pulsioxímetro 3800",
 											"codigoBC":"AX01-IT.23-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d99a52da-6b55-4612-8dec-640f78248dce",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350709/AX01_IT.23-SPR.01.01+Hoja+de+registro+uso+pulsiox%C3%ADmetro+3800.docx/8621e83d-0267-7e4a-6704-80e0a83db734?t=1641998913734",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5615,7 +5624,7 @@
 											"nivel":"3_28_07_24_01",
 											"nombre":"Uso de centrífuga de hematocrito Zipocrit",
 											"codigoBC":"IT.24-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/16eeccaf-1ab3-43d3-9680-02ecece5e429",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350713/IT.24-SPR.01.01+Uso+de+centr%C3%ADfuga+de+hematocrito+Zipocrit.pdf/dbe1b90d-5c63-8ae9-89c7-dabddfb64139?t=1641998925530",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5624,7 +5633,7 @@
 											"nivel":"3_28_07_24_02",
 											"nombre":"Hoja de Registro de uso",
 											"codigoBC":"AX01-IT.24-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/baa66d80-790a-44cf-ad94-21d6490a2354",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350713/AX01_IT.24-SPR.01.01+Hoja+de+Registro+de+uso.docx/0b16cc1d-eb9c-827d-f606-e35208fcc1d7?t=1641995957544",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5643,7 +5652,7 @@
 											"nivel":"3_28_07_25_01",
 											"nombre":"Uso de la bomba de infusión Infusomat FMS",
 											"codigoBC":"IT.25-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f0cbcc20-4f04-4bbd-bf75-0356898c1492",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350727/IT.25-SPR.01.01+Uso+de+la+bomba+de+infusi%C3%B3n+Infusomat+FMS.pdf/e7fffb02-3ff3-ffef-9205-64a6bcb430ac?t=1641998935904",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5652,7 +5661,7 @@
 											"nivel":"3_28_07_25_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.25-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bb5a6845-1f4b-4119-9a44-93bc71580ddb",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350727/AX01_IT.25-SPR.01.01+Hoja+de+resigstro+de+uso.docx/a33440da-4246-0a09-23c7-9164fc030b87?t=1641995957871",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5671,7 +5680,7 @@
 											"nivel":"3_28_07_26_01",
 											"nombre":"Uso del respirador BP200",
 											"codigoBC":"IT.26-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/76023c11-fe59-49c5-8ec4-2bba6f042b3b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350741/IT.26-SPR.01.01+Uso+del+respirador+BP200.pdf/137118d0-bdce-e30c-7dc7-afacc9ba92a0?t=1641995958208",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5680,7 +5689,7 @@
 											"nivel":"3_28_07_26_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.26-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6523df62-1c13-487c-978b-1e0ea7e5d6d5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350741/AX01_IT.26-SPR.01.01+Hoja+de+registro+de+uso.docx/e9e75752-2d43-4a9a-945a-4e2abcb8639b?t=1641995958209",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5699,7 +5708,7 @@
 											"nivel":"3_28_07_27_01",
 											"nombre":"Uso del respirador BP2001",
 											"codigoBC":"IT.27-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/387ae932-cd2a-4d37-ac22-93fe73c2d93e",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350765/IT.27-SPR.01.01+Uso+del+respirador+BP2001.pdf/0e94c651-a096-721f-9159-8f0305fb6f86?t=1641995958545",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5708,7 +5717,7 @@
 											"nivel":"3_28_07_27_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.27-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ccffbbe7-950f-46e8-be86-5da54e2cc9f7",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350765/AX01_IT.27-SPR.01.01+Registro+de+uso.docx/72f582cb-32cb-1caa-a8f2-523e5b25ce5d?t=1641995958545",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5727,7 +5736,7 @@
 											"nivel":"3_28_07_28_01",
 											"nombre":"Uso de la mesa de tallado",
 											"codigoBC":"IT.28-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b412e3ae-6a2f-43cb-bb47-2ffa8b0f57a0",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350789/IT.28-SPR.01.01+Uso+de+mesa+de+tallado.pdf/bce4c429-6e08-4335-8fc6-93444edf8588?t=1641995958876",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5736,7 +5745,7 @@
 											"nivel":"3_28_07_28_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.28-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/26f110d1-32cd-4063-9070-91c759bb0ccc",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350789/AX01_IT.28-SPR.01.01+Registro+de+uso.docx/6d3e1577-7982-3b7c-82af-09ed48afac1e?t=1641995958876",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5745,7 +5754,7 @@
 											"nivel":"3_28_07_28_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.28-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6aa2c8d4-9c48-4bee-9df2-71319ca9199b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350789/AX02_IT.28-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/1b532a69-d508-fc11-1845-240db416baeb?t=1641995958876",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5764,7 +5773,7 @@
 											"nivel":"3_28_07_29_01",
 											"nombre":"Uso de Irrigador MC 1001",
 											"codigoBC":"IT.29-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/245f80e2-26da-4ecb-83f9-502c16187297",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350823/IT.29-SPR.01.01+Uso+del+Irrigador+MC+1001.pdf/0c936ef7-bd12-9ebc-c243-2aa6a7df6ed0?t=1641995959205",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5773,7 +5782,7 @@
 											"nivel":"3_28_07_29_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.29-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/fea80e3d-e29e-49d7-9050-904fb1c19682",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350823/AX01_IT.29-SPR.01.01+Registro+de+uso.docx/3c74a5ed-d123-253c-bfd1-32d11e823198?t=1641995959206",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5782,7 +5791,7 @@
 											"nivel":"3_28_07_29_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.29-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/93931fcc-ea51-4b96-8e98-20878b7cd486",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350823/AX02_IT.29-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/cb67f3af-bdd2-704f-4723-50e0f4f84fca?t=1641995959206",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5801,7 +5810,7 @@
 											"nivel":"3_28_07_30_01",
 											"nombre":"Uso de la Termoselladora 650 D DE",
 											"codigoBC":"IT.30-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9d90b5b5-aedc-4253-9c5b-4a80c6d12b2d",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350857/IT.30-SPR.01.01+Uso+de+la+termoselladora+650+D+DE.pdf/8b26c190-9637-b4a3-d9d2-14f35091980d?t=1641995959547",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5810,7 +5819,7 @@
 											"nivel":"3_28_07_30_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.30-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/90ab49cc-3753-4595-8daa-ee40e42ea92f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350857/AX01_IT.30-SPR.01.01+Registro+de+uso.docx/8a53647f-572f-a7d6-bbed-18244186b713?t=1641995959546",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5829,7 +5838,7 @@
 											"nivel":"3_28_07_31_01",
 											"nombre":"Autoclave S100",
 											"codigoBC":"IT.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/118aa894-67b5-4e12-ae25-d9e15fbd3a40",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350881/IT.31-SPR.01.01+Autoclave+S100.pdf/6778e4c6-1eca-ebc4-a806-c951134e9c9e?t=1641995959883",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5838,7 +5847,7 @@
 											"nivel":"3_28_07_31_02",
 											"nombre":"Control de carga S100",
 											"codigoBC":"AX01-IT.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/413befbd-9dc8-4864-b32d-cc42dace50e1",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350881/AX01_IT.31-SPR.01.01+Control+de+carga+S100.docx/a9085751-0404-6c42-2634-fb58fcb254c8?t=1641995959883",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5847,7 +5856,7 @@
 											"nivel":"3_28_07_31_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.31-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/45e7463d-5424-4c2e-b757-870e71a59153",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350881/AX02_IT.31-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/72ccc401-5e7e-bda6-c94f-2bbacc5e06e8?t=1641995959882",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5866,7 +5875,7 @@
 											"nivel":"3_28_07_32_01",
 											"nombre":"Uso de Lavadora LAB 500SC",
 											"codigoBC":"IT.32-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/dfb284cf-48f1-48d1-b37d-e8c4f9ce5f02",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350915/IT.32-SPR.01.01+Uso+de+Lavadora+LAB+500SC.pdf/53c080a6-8cfa-5e89-6522-2b66dd09368e?t=1641995960216",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5875,7 +5884,7 @@
 											"nivel":"3_28_07_32_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.32-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/343f1123-128b-43ec-a933-e03450545693",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350915/AX01_IT.32-SPR.01.01+Hoja+de+registro+de+uso.docx/70e9fc37-67d1-c7b3-32d4-c607c4a5892d?t=1641995960215",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5884,7 +5893,7 @@
 											"nivel":"3_28_07_32_03",
 											"nombre":"Hoja de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.32-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5b421ad1-cd8c-4c2e-b757-141544206296",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350915/AX02_IT.32-SPR.01.01+Hoja+de+limpieza+y+mantenimiento.docx/8fa7f5ba-6162-897e-35e2-c071056bfffc?t=1641995960216",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5903,7 +5912,7 @@
 											"nivel":"3_28_07_33_01",
 											"nombre":"Termoselladora 780 DC",
 											"codigoBC":"IT.33-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4294bc9d-3de2-4577-a9e2-15de397efcf3",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350949/IT.33-SPR.01.01+Termoselladora+780+DC.pdf/d879e8d7-975b-7668-d16d-81ad631949a4?t=1641995960554",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5912,7 +5921,7 @@
 											"nivel":"3_28_07_33_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.33-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/87c6c5c0-3a06-4f6c-9a31-fca6257b960c",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350949/AX01_IT.33-SPR.01.01+Registro+de+uso.docx/c13481da-0baa-7787-72ee-b03f838a6fed?t=1641995960553",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5931,7 +5940,7 @@
 											"nivel":"3_28_07_34_01",
 											"nombre":"Uso de autoclaves SC1001",
 											"codigoBC":"IT.34-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7793a817-9272-46d2-bf5a-14a7df2a6a4b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350973/IT.34-SPR.01.01+Uso+de+autoclaves+SC1001.pdf/b992836c-faf0-fcef-05d1-333ded39e9c3?t=1641995960882",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5940,7 +5949,7 @@
 											"nivel":"3_28_07_34_02",
 											"nombre":"Control de carga",
 											"codigoBC":"AX01-IT.34-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/554b5255-973a-451b-bb29-6df7f25042eb",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350973/AX01_IT.34-SPR.01.01+Control+de+carga.docx/204c5a41-6a3b-eedf-0bb0-fa3862d7b01b?t=1641995960882",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5949,7 +5958,7 @@
 											"nivel":"3_28_07_34_02",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.34-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f1ddaf8b-9d8f-4bbe-ab2a-3b432dc372e7",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/350973/AX02_IT.34-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/61b7b0b0-b88d-e7ea-9637-58e69c352e96?t=1641995960882",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5968,7 +5977,7 @@
 											"nivel":"3_28_07_35_01",
 											"nombre":"Lavajaulas Oceanus",
 											"codigoBC":"IT.35-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4508875f-9736-4e2a-84c4-6b47cf7fadf7",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351007/IT.35-SPR.01.01+Lavajaulas+Oceanus.pdf/5b926098-a4eb-734f-5b98-dc920b14611d?t=1641995961220",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -5977,7 +5986,7 @@
 											"nivel":"3_28_07_35_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.35-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/29c536ba-282d-47ce-8aa2-b608936d2b71",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351007/AX01_IT.35-SPR.01.01+Registro+de+uso.docx/2ed6236f-ade1-3e43-5fca-af406f548ede?t=1641995961220",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -5986,7 +5995,7 @@
 											"nivel":"3_28_07_35_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.35-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f6804a35-2727-4e94-b7d6-4087ee28ec3f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351007/AX02_IT.35-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/9162b663-ca58-eb40-d1bd-0789bdd129fd?t=1641995961220",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6005,7 +6014,7 @@
 											"nivel":"3_28_07_36_01",
 											"nombre":"Uso de Báscula Salter",
 											"codigoBC":"IT.36-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/06f4b78f-7429-4d67-8245-abefc4ce64f5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351041/IT.36-SPR.01.01+Uso+de+B%C3%A1scula+Salter.pdf/ca77f6dd-473b-49ac-dbdb-680efef8c2f6?t=1641995961559",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6024,7 +6033,7 @@
 											"nivel":"3_28_07_37_01",
 											"nombre":"Uso de la cabina SAS",
 											"codigoBC":"IT.37-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1003451d-806c-4d9a-a674-8db95de50764",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351055/IT.37-SPR.01.01+Uso+de+la+cabina+SAS.pdf/efd0df4d-f5ea-df61-2b3e-fcf15704a579?t=1641995961884",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6033,7 +6042,7 @@
 											"nivel":"3_28_07_37_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.37-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/09d73ec0-572b-4dbf-8683-b49a67c9c8c3",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351055/AX01_IT.37-SPR.01.01+Registro+de+uso.docx/3dfb109d-f1eb-346f-9c37-94f3d7eac975?t=1641995961885",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6042,7 +6051,7 @@
 											"nivel":"3_28_07_37_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.37-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/93b30451-71e3-4511-b2c7-e3fead7755b2",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351055/AX02_IT.37-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/b1c7c70a-448c-a887-dbd0-eacef87244be?t=1641995961884",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6061,7 +6070,7 @@
 											"nivel":"3_28_07_38_01",
 											"nombre":"Uso de SAS ventana y UVC",
 											"codigoBC":"IT.38-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ce3668f7-05ac-44be-8a8b-6c4b84be10c0",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351089/IT.38-SPR.01.01+Uso+de+SAS+ventana+y+UVC.pdf/55495ba7-74c0-b04e-8918-534305d55c75?t=1641995962217",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6070,7 +6079,7 @@
 											"nivel":"3_28_07_38_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.38-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3a1b83c4-53de-4a18-b455-1c8936d954fa",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351089/AX01_IT.38-SPR.01.01+Registro+de+uso.docx/b7541162-d9e9-197f-a8d4-8afec80902ae?t=1641995962216",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6079,7 +6088,7 @@
 											"nivel":"3_28_07_38_03",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX02-IT.38-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/501a4fd9-7d7f-4516-bca0-8b1410087d24",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351089/AX02_IT.38-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/3b63e57e-1136-e472-928a-f3e5947faeec?t=1641995962217",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6098,7 +6107,7 @@
 											"nivel":"3_28_07_39_01",
 											"nombre":"Uso de ducha de aire ultrafiltrado",
 											"codigoBC":"IT.39-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/4e8e0450-d72a-4419-a25f-f24946b13d83",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351089/AX02_IT.38-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/3b63e57e-1136-e472-928a-f3e5947faeec?t=1641995962217",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6107,7 +6116,7 @@
 											"nivel":"3_28_07_39_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.39-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d3704959-f252-453b-97be-0db51ae514f2",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351123/AX01_IT.39-SPR.01.01+Registro+de+uso.docx/815a0852-74e8-5aa6-7115-505ed5ab9442?t=1641995962562",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6116,7 +6125,7 @@
 											"nivel":"3_28_07_39_03",
 											"nombre":"Hoja de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.39-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b11b697a-5c10-4eae-9926-18b0d9c6fa7f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351123/AX02_IT.39-SPR.01.01+Hoja+de+limpieza+y+mantenimiento.docx/af871118-5219-9f47-bab9-6b9cc012c575?t=1641995962561",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6172,7 +6181,7 @@
 											"nivel":"3_28_07_41_01",
 											"nombre":"Uso de Aspiradora CTS40",
 											"codigoBC":"IT.41-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/50b84072-31e8-4320-ae87-873f3e485caf",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351157/AX01_IT.40-SPR.01.01+Registro+de+uso.docx/1c81a4e0-809a-64df-3ddc-f5f7e59a95a0?t=1641995962893",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6181,7 +6190,7 @@
 											"nivel":"3_28_07_41_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.41-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cbabb66a-df86-4cc5-b092-807007db89db",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351191/AX01_IT.41-SPR.01.01+Registro+de+uso.docx/e86728c5-3683-4dc1-45b1-408e6165dbb6?t=1641995963219",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6200,7 +6209,7 @@
 											"nivel":"3_28_07_42_01",
 											"nombre":"Uso del rack ventilado",
 											"codigoBC":"IT.42-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/18a16e96-19a6-4d1d-85ce-d3e0f00ee723",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351225/IT.42-SPR.01.01+Uso+del+rack+ventilado.pdf/66868f5c-efb6-3891-af0c-8e2979bde1fc?t=1641995963551",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6209,7 +6218,7 @@
 											"nivel":"3_28_07_42_02",
 											"nombre":"Mantenimiento rack ventilado",
 											"codigoBC":"AX01-IT.42-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f6d533a0-2cca-4b0e-9c88-d41b761d118f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351225/AX01_IT.42-SPR.01.01+Mantenimiento+rack+ventilado.docx/b10f6870-2488-2c53-6b2d-06c3eab59793?t=1641995963551",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6228,7 +6237,7 @@
 											"nivel":"3_28_07_43_01",
 											"nombre":"Uso de las básculas Radwag",
 											"codigoBC":"IT.43-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7278031c-daf1-437c-87f6-381fe86b71bc",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351249/IT.43-SPR.01.01+Uso+de+b%C3%A1scula+Radwag.pdf/36bc4943-4245-3cb9-2d83-319aafbf8e5c?t=1641995963881",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6237,7 +6246,7 @@
 											"nivel":"3_28_07_43_02",
 											"nombre":"Registro de uso Radwag 1000",
 											"codigoBC":"AX01-IT.43-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/bf5a473a-9362-4fb7-82e2-da379e25de5c",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351249/AX01_IT.43-SPR.01.01+Registro+de+uso+Radwag+1000.docx/7dd5894d-55bd-84da-af56-a2992d55eda2?t=1641995963881",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6246,7 +6255,7 @@
 											"nivel":"3_28_07_43_03",
 											"nombre":"Registro de uso Radwag 1500",
 											"codigoBC":"AX02-IT.43-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/dc81cbd8-6a2e-4e7e-a8c5-f9568e123596",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351249/AX02_IT.43-SPR.01.01+Registro+de+uso+Radwag+1500.docx/d386a5ba-13f1-1641-5473-981f1beda855?t=1641995963881",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6265,7 +6274,7 @@
 											"nivel":"3_28_07_44_01",
 											"nombre":"Uso de Lavabiberones",
 											"codigoBC":"IT.44-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/60b92c91-b7f9-4891-9850-bf054d10daf0",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351283/IT.44-SPR.01.01+Uso+de+Lavabiberones.pdf/69d59ac1-aeeb-aafd-37a0-f9de8a2cd445?t=1641995964206",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6274,7 +6283,7 @@
 											"nivel":"3_28_07_44_02",
 											"nombre":"Registro de uso lavado ultrasónico",
 											"codigoBC":"AX01-IT.44-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d24bc87f-ae09-4628-a025-17a4367a2a50",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351283/AX01_IT.44-SPR.01.01+Registro+de+uso+lavado+ultras%C3%B3nico.docx/13faf240-7080-ce5c-0271-1caff272d585?t=1641995964207",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6283,7 +6292,7 @@
 											"nivel":"3_28_07_44_03",
 											"nombre":"Registro de uso lavado automático",
 											"codigoBC":"AX02-IT.44-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9bb18cc7-682e-4e46-bfef-7595d28e11a3",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351283/AX02_IT.44-SPR.01.01+Registro+de+uso+lavado+autom%C3%A1tico.docx/4a716cbd-e6d9-7213-6c3a-96f21d027d47?t=1641995964206",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6292,7 +6301,7 @@
 											"nivel":"3_28_07_44_04",
 											"nombre":"Registro de uso llenado automático",
 											"codigoBC":"AX03-IT.44-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/d83ece25-7a5c-4add-a87f-df6babb00730",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351283/AX03_IT.44-SPR.01.01+Registro+de+uso+llenado+autom%C3%A1tico.docx/f814495e-6e62-5e7c-d549-63e31e77f91b?t=1641995964205",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6300,7 +6309,7 @@
 											"nivel":"3_28_07_44_05",
 											"nombre":"Hoja de limpieza y mantenimiento",
 											"codigoBC":"AX04-IT.44-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a1859d02-53de-4d67-9ef0-a05dafa13ea9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351283/AX04_IT.44-SPR.01.01+Hoja+de+limpieza+y+mantenimiento.docx/bd6d442b-194a-5ed9-1423-7fabe4531b28?t=1641995964206",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6319,7 +6328,7 @@
 											"nivel":"3_28_07_45_01",
 											"nombre":"Uso de centrífuga Microfuge 22R",
 											"codigoBC":"IT.45-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1a8e66df-89f0-4c8e-ac87-3a3e53ff62cb",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351337/IT.45-SPR.01.01+Uso+de+centr%C3%ADfuga+Microfuge+22R.pdf/1fde9b1c-5b0c-5520-2827-7653d684e8eb?t=1641995964548",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6328,7 +6337,7 @@
 											"nivel":"3_28_07_45_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.45-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/367bc857-9e38-4192-96f0-b0e42aaab89a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351337/AX01_IT.45-SPR.01.01+Registro+de+uso.docx/5ac2274c-b7f9-98d3-0fc6-586463a90156?t=1641995964548",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6337,7 +6346,7 @@
 											"nivel":"3_28_07_45_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.45-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2ad733bb-61e6-49a5-9313-b984a4b4fda9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351337/AX02_IT.45-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/3e1b163d-a3cd-3abe-1a0e-572bda2a4c46?t=1641995964549",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6356,7 +6365,7 @@
 											"nivel":"3_28_07_46_01",
 											"nombre":"Uso de centrífuga Sorvall ST16R",
 											"codigoBC":"IT.46-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/7c8cf3a3-1639-4fbe-a0f6-1991fe14f00d",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351371/IT.46-SPR.01.01+Uso+de+centr%C3%ADfuga+Sorvall+ST16R.pdf/7aef84a6-4e67-cc36-a80a-2a287095f186?t=1641995964872",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6365,7 +6374,7 @@
 											"nivel":"3_28_07_46_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.46-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/806282ef-1844-4bba-ab28-9321558a6a84",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351371/AX01_IT.46-SPR.01.01+Registro+de+uso.docx/352d7bcc-2e50-d222-380d-9dcac54a8d64?t=1641995964872",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6374,7 +6383,7 @@
 											"nivel":"3_28_07_46_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX01-IT.46-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9c2a5979-4a1f-47b7-8556-e65e7fa6afe5",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351371/AX02_IT.46-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/3befcdcb-5781-94c6-1660-94c0d0f0e21d?t=1641995964872",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6393,7 +6402,7 @@
 											"nivel":"3_28_07_47_01",
 											"nombre":"Uso de bomba perfusor Compact S",
 											"codigoBC":"IT.47-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5fda4e23-5d42-4edf-bca3-726c0c89742c",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351405/IT.47-SPR.01.01+Uso+de+bomba+perfusor+Compact+S.pdf/cddec1ed-ab1c-363c-b783-91631e31d9d2?t=1641995965201",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6402,7 +6411,7 @@
 											"nivel":"3_28_07_47_02",
 											"nombre":"Anexo jeringas bomba perfusor compact S",
 											"codigoBC":"AX01-IT.47-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/250010e9-8f73-40ac-8b9b-42b7b85ec3d7",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351405/AX01_IT.47-SPR.01.01+-+Anexo+jeringas+bomba+perfusor+compact+S.docx/aa5b8718-a814-bc8a-1677-1f4df8cbb141?t=1641995965202",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6411,7 +6420,7 @@
 											"nivel":"3_28_07_47_03",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX02-IT.47-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1fad2ce6-25a5-4a7b-a72d-eebedab44d68",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351405/AX02_IT.47-SPR.01.01+-+Registro+de+uso.docx/be3d02ca-8880-19dd-cd47-98f1a88d2b22?t=1641995965201",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6430,7 +6439,7 @@
 											"nivel":"3_28_07_48_01",
 											"nombre":"Uso equipo de anestesia Anesvet XXI",
 											"codigoBC":"IT.48-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f9cc70e3-1df7-4384-bc3d-5f4d284926d7",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351439/IT.48-SPR.01.01+Uso+equipo+de+anestesia+Anesvet+XXI.pdf/a6eeebb4-dd40-62f9-8720-f6b6067d8792?t=1641995965526",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6439,7 +6448,7 @@
 											"nivel":"3_28_07_48_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.48-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c711dea3-584b-45f4-8669-4c6efebfda7b",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351439/AX01_IT.48-SPR.01.01+Registro+de+uso.docx/7994de4f-5e82-d84e-157e-736adcc72572?t=1641995965526",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6448,7 +6457,7 @@
 											"nivel":"3_28_07_48_03",
 											"nombre":"Mantenimiento y limpieza",
 											"codigoBC":"AX02-IT.48-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ec7ccb0d-6713-4683-9bc9-db245c1ce5e4",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351439/AX02_IT.48-SPR.01.01+Mantenimiento+y+limpieza.docx/80261335-b42b-19fa-341f-163ebd77889b?t=1641995965526",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6467,7 +6476,7 @@
 											"nivel":"3_28_07_49_01",
 											"nombre":"Uso del humidificador MR850",
 											"codigoBC":"IT.49-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/79b6ea4f-2cd1-4ab2-a713-be899f3e0335",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351473/IT.49-SPR.01.01+Uso+del+humidificador+MR850.pdf/6e45ba9c-dc8c-ca21-3667-dc8e2e4059c4?t=1641995965854",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6476,7 +6485,7 @@
 											"nivel":"3_28_07_49_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.49-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cd820c0a-43f6-43e6-9e24-898d3c491006",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351473/AX01_IT.49-SPR.01.01+Registro+de+uso.docx/1e83c102-065b-cfcc-5881-629997c39787?t=1641995965853",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6495,7 +6504,7 @@
 											"nivel":"3_28_07_50_01",
 											"nombre":"Uso del respirador Bird VIP Gold",
 											"codigoBC":"IT.50-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/cd3ff57d-096c-4a91-af72-93f596fc602a",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351497/IT.50-SPR.01.01+Uso+del+respirador+Bird+VIP+Gold.pdf/6b9b9644-d0dc-af52-1f84-4bd6a5eaa84d?t=1641995966209",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6504,7 +6513,7 @@
 											"nivel":"3_28_07_50_02",
 											"nombre":"Hoja de registro de uso",
 											"codigoBC":"AX01-IT.50-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/9022b64e-349c-487a-96e4-254efa5f3b1f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351497/AX01_IT.50-SPR.01.01+Hoja+de+registro+de+uso.docx/43ee2472-67d1-9ccb-b28b-c4662ea97461?t=1641995966210",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6513,7 +6522,7 @@
 											"nivel":"3_28_07_50_02",
 											"nombre":"Registro de uso de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.50-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5d95b4db-bf9f-48ed-afe0-567657cbf9d9",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351497/AX02_IT.50-SPR.01.01+Registro+de+uso+de+limpieza+y+mantenimiento.docx/232aa8f1-2acc-c161-d0ea-ea8e85253d14?t=1641995966210",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6522,7 +6531,7 @@
 											"nivel":"3_28_07_50_03",
 											"nombre":"Limpieza y esterilización de la válvula respiratoria",
 											"codigoBC":"AX03-IT.50-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ca678538-1509-44b3-9cc3-36868f79d606",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351497/AX03_IT.50-SPR.01.01+Limpieza+y+esterilizaci%C3%B3n+de+la+v%C3%A1lvula+respiratoria.docx/823f6850-feb8-d068-e82b-65b0c1dcb219?t=1641999089056",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6541,7 +6550,7 @@
 											"nivel":"3_28_07_51_01",
 											"nombre":"Uso del respirador Carescape R860",
 											"codigoBC":"IT.51-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/507fd85a-1104-46a8-8500-d28b2741e8fa",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351531/IT.51-SPR.01.01+Uso+del+respirador+Carescape+R860.pdf/ed5682e0-1290-d5a0-d09a-eb8e5a8a08dc?t=1641995966545",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6550,7 +6559,7 @@
 											"nivel":"3_28_07_51_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.51-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/907aeced-01dc-4572-8ecc-957769b9f475",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351531/AX01_IT.51-SPR.01.01+Registro+de+uso.docx/7fea41e2-0733-9709-f97b-fb9174157d90?t=1641995966544",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6559,7 +6568,7 @@
 											"nivel":"3_28_07_51_03",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX02-IT.51-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/24eedec4-a84c-46e3-8b66-38acc10f354e",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351531/AX02_IT.51-SPR.01.01+Mantenimiento+y+limpieza.docx/924168bb-7970-2429-0592-6260e502bd3d?t=1641995966544",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
