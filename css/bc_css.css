@@ -92,10 +92,13 @@
 		float: left;
 		
 		/*background-color: rgb(227, 224, 224); */
-		background-color: #f0f8ff4d;
+		
+		/*background-color: #f0f8ff4d;*/
+    	
+    	background:url(../images/snow-5707452_reduc.jpg) no-repeat 0px 0px;
 
     	/*background:url(../images/bc_nuevo_edificio_fondoazul.jpg) no-repeat 0px 0px;
-    	background-size:cover;*/
+    	background-size:cover;
 
 		min-height: 85vh;
 	}
@@ -185,7 +188,7 @@
 	}
 
 	.bc_mp_caja_borde{
-		border: 2px solid;
+		border: 0px solid;
 		text-align: center;
 		text-align: center;
 		display: flex;
@@ -194,6 +197,9 @@
 		flex-direction: column;
 		padding: 6px !important;
 		cursor: pointer;
+
+		border-radius: 20px;
+		box-shadow: 0 0 15px 10px #c4c1c1;
 	}
 
 		#mapa_2_01{
