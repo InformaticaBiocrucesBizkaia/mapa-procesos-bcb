@@ -561,7 +561,7 @@
 									"nivel":"2_04_01_01",
 									"nombre":"Formalización de contratos de estudios clinicos",
 									"codigoBC":"PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/1f797f9a-73a7-4fe1-8224-838a92010eb9",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/PO.01-SPR.12.05+Formalizaci%C3%B3n+de+contratos+de+Estudios+Cl%C3%ADnicos.pdf/7b533aa0-58bc-2d40-ff15-52b32d81f44b?t=1642519930558",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -570,34 +570,25 @@
 									"nivel":"2_04_01_02",
 									"nombre":"Modelo contrato ensayo clínico",
 									"codigoBC":"AX01-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/eb68230c-3fab-4f74-8c57-9156da2ab85d",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX01_PO.01-SPR.12.18+Modelo+Contrato+Ensayo+Cl%C3%ADnico.doc/ec4c8e9b-c393-dfef-30cd-911d50f148f1?t=1642519935185",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_01_03",
-									"nombre":"Modelo contrato EPA",
+									"nombre":"Modelo Contrato estudio observacionales con medicamentos",
 									"codigoBC":"AX02-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/ab9e4cf1-73ba-4ec8-b22f-135bf41911a2",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_04_01_04",
-									"nombre":"Modelo contrato estudio observacional de tipo No-EPA",
-									"codigoBC":"AX03-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2a8e188a-4055-4be7-be65-f270e9fe7987",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX02_PO.01-SPR.12.15+Modelo+Contrato+Estudio+Obs+con+Med.doc/3b7cd7c8-868e-258e-7005-d5d79c71d0d8?t=1642519927913",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_01_05",
-									"nombre":"Tarifas gestión EECC vigentes País Vasco",
+									"nombre":"Tarifas gestión EECC vigentes País Vasco 2022",
 									"codigoBC":"AX04-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0fb09d2b-bf4b-4c24-9a19-ec4f49414cda",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX04-PO.01-SPR.12.10+Tarifas+gesti%C3%B3n+EECC+vigentes+Pa%C3%ADs+Vasco+2022.pdf/4210e807-3ba2-9daf-c88b-60d45b6b3ad5?t=1642519920418",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -606,16 +597,16 @@
 									"nivel":"2_04_01_06",
 									"nombre":"Modelo de solicitud de exención de tarifa de gestión",
 									"codigoBC":"AX05-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/c4c76b72-2c96-46e9-823b-7b9d7bb11e4b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX05_PO.01-SPR.12.04+Solicitud+de+exenci%C3%B3n+de+tarifa+de+gesti%C3%B3n.doc/4f5ed179-c4a2-4673-9830-f00a64b8750c?t=1642519934720",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_01_07",
-									"nombre":"Clinical trial agreement_EN",
+									"nombre":"Clinical trial agreement",
 									"codigoBC":"AX06-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/3b410e08-baf9-4f97-a977-8488f08b7214",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX06_PO.01-SPR.12.17+Clinical+Trial+Agreement.doc/fc9bba54-9b39-cb28-76c6-dcea7688c6b1?t=1642519931695",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -624,7 +615,7 @@
 									"nivel":"2_04_01_08",
 									"nombre":"Agreement post-marketing study",
 									"codigoBC":"AX07-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e9f19d27-7ba5-4b59-995b-abb3e6c94eb0",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX07_PO.01-SPR.12.15+Agreement+postmarketing+study.doc/660e87b6-1b67-4477-588d-7c23f2677fe9?t=1642519936559",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -633,16 +624,7 @@
 									"nivel":"2_04_01_09",
 									"nombre":"Modelo contrato estudio post-comercialización producto sanitario",
 									"codigoBC":"AX08-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/25846cc4-3003-4472-ac4f-94f1eefe5ff9",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
-								},
-								{
-									"nivel":"2_04_01_10",
-									"nombre":"Agreement non post-authorization study",
-									"codigoBC":"AX09-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/783bb70f-90f2-4768-a4eb-2c3c35fbdf26",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX08_PO.01-SPR.12.13+Modelo+contrato+estudio+post-comProd+San.docx/5fa82fa4-296a-50fe-36ea-86da93c09993?t=1642519932321",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -651,7 +633,7 @@
 									"nivel":"2_04_01_11",
 									"nombre":"Modelo contrato proyecto investigación",
 									"codigoBC":"AX10-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/93475611-af31-416c-8f89-39e9b1baf42e",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX10_PO.01-SPR.12.14+Modelo+contrato+proyecto+investigaci%C3%B3n.doc/e09563e4-fdae-3dda-41e9-ee763959a10f?t=1642519925996",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -660,16 +642,16 @@
 									"nivel":"2_04_01_12",
 									"nombre":"Informe de pertinencia y declaración de cargas",
 									"codigoBC":"AX11-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/221ae47b-20c4-49b7-ac09-6464dadf2cb2",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX11_PO.01-SPR.12.09+Informe+de+pertinencia+y+declaraci%C3%B3n+de+cargas.doc/75a17f8a-df3f-c898-b86b-5d99335f8452?t=1642519937688",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_01_13",
-									"nombre":"Declaración idoneidad instalaciones",
+									"nombre":"Declaración idoneidad en las instalaciones",
 									"codigoBC":"AX12-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/814b0fa5-96a8-4f22-82d0-fe697d6f3a30",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX12_PO.01-SPR.12.05+Declaraci%C3%B3n+idoneidad+de+las+instalaciones.doc/315f5209-fb53-76b4-44fa-2e37c13aa24e?t=1642519917493",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -678,7 +660,43 @@
 									"nivel":"2_04_01_14",
 									"nombre":"Adenda a contrato",
 									"codigoBC":"AX13-PO.01-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/a8a316b2-8a92-4109-bb83-55fc758aad4b",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX13_PO.01-SPR.12.10+Adenda+a+contrato.docx/b331a870-fcb2-e444-2437-347d36197687?t=1642519927376",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_04_01_15",
+									"nombre":"Addendum to the agreement",
+									"codigoBC":"AX14-PO.01-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX14_PO.01-SPR.12.08+Addendum+to+the+agreement.docx/37cb400b-f918-da31-2ac1-4019bb783d13?t=1642519937161",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_04_01_16",
+									"nombre":"Contract for carrying out research projects ",
+									"codigoBC":"AX15-PO.01-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX15_PO.01-SPR.12.10+Contract+for+carrying+out+research+projects+.docx/a3f7d12d-a39f-a88b-e894-a4c367924ae9?t=1642519918080",
+									"tipo":"file",
+									"extension":"doc",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_04_01_17",
+									"nombre":"Explicación al informe de pertinencia",
+									"codigoBC":"AX16-PO.01-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX16_PO.01-SPR.12.01+Explicaci%C3%B3n+al+informe+de+pertinencia.pptx/4883db9b-21e6-717c-de0b-ea089b272f61?t=1642519921085",
+									"tipo":"file",
+									"extension":"ppt",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"2_04_01_18",
+									"nombre":"Contract for conducting post-marketing studies of a health product",
+									"codigoBC":"AX17-PO.01-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/355929/AX17_PO.01-SPR.12.02+Contract+for+conducting+post-marketing+studies+of+a+health+product.docx/17643c5e-0c79-c6c9-be3c-2372c7c11fb6?t=1642519931094",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -695,29 +713,29 @@
 							"subnivel":	[
 								{
 									"nivel":"2_04_02_01",
-									"nombre":"Modelo de Hoja de Información al Paciente",
-									"codigoBC":"AX01-PO.02-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f7f13100-3f37-411e-aa74-20b12b5b40f8",
+									"nombre":"Proceso y documentación del consentimiento informado",
+									"codigoBC":"PO.02-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357709/PO.02-SPR.12.02+Proceso+y+documentaci%C3%B3n+del+consentimiento+informado.pdf/c36c62f5-b1c2-dac0-2058-a0b74296abf1?t=1642520068368",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_02_02",
-									"nombre":"Modelo de formulario de Consentimiento Informado",
-									"codigoBC":"AX02-PO.02-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e616b826-d1fb-41a4-acd4-76789116f8e5",
+									"nombre":"Modelo de Hoja de Información al Paciente",
+									"codigoBC":"AX01-PO.02-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357709/AX01_PO.02-SPR.12.02+Modelo+de+Hoja+de+Informaci%C3%B3n+al+Paciente.docx/eed420d4-fea3-82b5-76e9-a0360227345d?t=1642520069003",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_02_03",
-									"nombre":"Proceso y documentación del consentimiento informado",
-									"codigoBC":"PO.02-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/fea5c775-3a93-4e0f-930f-e011237cb043",
+									"nombre":"Modelo de formulario de Consentimiento Informado",
+									"codigoBC":"AX02-PO.02-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357709/AX02_PO.02-SPR.12.01+Modelo+de+formulario+de+Consentimiento+Informado.docx/6200d34d-ba69-e967-d1a2-a11634845ec1?t=1642520070380",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -732,83 +750,83 @@
 							"subnivel":	[
 								{
 									"nivel":"2_04_03_01",
-									"nombre":"Documentos de la fase previa el inicio de la fase clínica",
-									"codigoBC":"AX01-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e76baada-e78d-4017-82b9-e0850196a3a7",
+									"nombre":"Documentación del ensayo",
+									"codigoBC":"PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/PO.03-SPR.12.01+Documentaci%C3%B3n+del+ensayo.pdf/2e1031a6-3aac-4324-d938-df8ea01580d3?t=1642520083151",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_02",
-									"nombre":"Documentos durante la fase clínica",
-									"codigoBC":"AX02-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/58495885-8a98-4187-9d52-4e71f653f955",
+									"nombre":"Documentos de la fase previa el inicio de la fase clínica",
+									"codigoBC":"AX01-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX01_PO.03-SPR.12.01+Documentos+de+la+fase+previa+el+inicio+de+la+fase+cl%C3%ADnica.docx/02859824-473e-e210-5ef4-e2d085bc734d?t=1642520079082",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_03",
-									"nombre":"Documentos de la fase posterior a finalizar el ensayo",
-									"codigoBC":"AX03-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e7a630d9-3c7c-4de6-a8fa-dee74299a2e3",
+									"nombre":"Documentos durante la fase clínica",
+									"codigoBC":"AX02-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX02_PO.03-SPR.12.01+Documentos+durante+la+fase+cl%C3%ADnica.docx/01efbe59-510f-5106-d1ad-079c6a95123f?t=1642520082128",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_04",
-									"nombre":"Lista de verificación del archivo del Promotor",
-									"codigoBC":"AX04-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/44a7c57b-0601-410b-b4d1-f5f5fa0ee281",
+									"nombre":"Documentos de la fase posterior a finalizar el ensayo",
+									"codigoBC":"AX03-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX03_PO.03-SPR.12.01+Documentos+de+la+fase+posterior+a+finalizar+el+ensayo.docx/e08b7b30-0a05-fdb9-886e-918221ec53c1?t=1642520083826",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_05",
-									"nombre":"Lista de verificación del archivo del investigador",
-									"codigoBC":"AX05-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/5addb9e4-2cb4-4e2f-80ea-a4ce1b9d49be",
+									"nombre":"Lista de verificación del archivo del Promotor",
+									"codigoBC":"AX04-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX04_PO.03-SPR.12.01+Lista+de+verificaci%C3%B3n+del+archivo+del+Promotor.docx/0962e82b-ea5b-eec5-6845-88e78ced9ac9?t=1642520078332",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_06",
-									"nombre":"Lista de verificación del archivo de farmacia",
-									"codigoBC":"AX06-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e3077338-7c7b-4eea-b31b-d9a7c9fe388f",
+									"nombre":"Lista de verificación del archivo del investigador",
+									"codigoBC":"AX05-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX05_PO.03-SPR.12.01+Lista+de+verificaci%C3%B3n+del+archivo+del+investigador.docx/cf70496c-da56-7db2-8f0c-a9caea3e066e?t=1642520080370",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_07",
-									"nombre":"Etiquetas identificativas",
-									"codigoBC":"AX07-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e75895ce-e0bd-4d3e-b18a-4211f9ec1a55",
+									"nombre":"Lista de verificación del archivo de farmacia",
+									"codigoBC":"AX06-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX06_PO.03-SPR.12.01+Lista+de+verificaci%C3%B3n+del+archivo+de+farmacia.docx/ba08d269-4c3f-e495-e0d1-8a668cb6e2ba?t=1642520086238",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_08",
-									"nombre":"Nota para archivo",
-									"codigoBC":"AX08-PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/24cd32bd-16a7-436e-9f1e-6f932716793f",
+									"nombre":"Etiquetas identificativas",
+									"codigoBC":"AX07-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX07_PO.03-SPR.12.01+Etiquetas+identificativas.docx/db121c4a-4313-c53d-4f58-503b16e2fda8?t=1642520075476",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_03_09",
-									"nombre":"Documentación del ensayo",
-									"codigoBC":"PO.03-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/f4fdfdaf-5ee8-46b6-ab3d-ee3ba970bafd",
+									"nombre":"Nota para archivo",
+									"codigoBC":"AX08-PO.03-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357807/AX08_PO.03-SPR.12.01+Nota+para+archivo.docx/f662df66-c9e4-f409-2508-df500ec51810?t=1642520079693",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -823,29 +841,29 @@
 							"subnivel":	[
 								{
 									"nivel":"2_04_04_01",
-									"nombre":"Nivel de riesgo",
-									"codigoBC":"AX01-PO.05-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/6168cef5-ee3a-461c-9fd3-3a6489103d24",
+									"nombre":"Proceso de elaboración, aprobación y modificación del plan de monitorización de un Ensayo Clínico",
+									"codigoBC":"PO.05-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357921/PO.05-SPR.12.01+Proceso+de+elaboraci%C3%B3n%2C+aprobaci%C3%B3n+y+modificaci%C3%B3n+del+plan+de+monitorizaci%C3%B3n+de+un+Ensayo+Cl%C3%ADnico.pdf/ff85191c-0a82-3d21-ed04-7621d98150fc?t=1642520088817",
 									"tipo":"file",
-									"extension":"doc",
+									"extension":"pdf",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_04_02",
-									"nombre":"Plan de monitorización",
-									"codigoBC":"AX02-PO.05-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/b46a4ae8-9116-40ae-94c6-374741921b99",
+									"nombre":"Nivel de riesgo",
+									"codigoBC":"AX01-PO.05-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357921/AX01_PO.05-SPR.12.01+Nivel+de+riesgo_20180917_2.docx/44232132-a2d4-1537-609b-bd53994c000f?t=1642520089525",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
 								},
 								{
 									"nivel":"2_04_04_03",
-									"nombre":"Proceso de elaboración, aprobación y modificación del plan de monitorización de un Ensayo Clínico",
-									"codigoBC":"PO.05-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/96b34f9c-9d21-45d9-a44e-1cdb8d331b19",
+									"nombre":"Plan de monitorización",
+									"codigoBC":"AX02-PO.05-SPR.12",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357921/AX02_PO.05-SPR.12.01+Plan+de+monitorizaci%C3%B3n_20180917.docx/cbbe8254-6dbd-bf9a-f740-f5f7eadd7cfa?t=1642520087150",
 									"tipo":"file",
-									"extension":"pdf",
+									"extension":"doc",
 									"subnivel":	[]
 								}
 							]
@@ -862,7 +880,7 @@
 									"nivel":"2_04_05_01",
 									"nombre":"Proceso y documentación del protocolo de estudios clínicos",
 									"codigoBC":"PO.07-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/2dadc1c0-1d51-4768-9b02-91e82259149f",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/357995/PO.07-SPR.12.01+Proceso+de+documentaci%C3%B3n+del+Protocolo+de+EECC.pdf/2f90a24e-a0ef-cd50-7ac1-b6b193f008ed?t=1642520093188",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -881,7 +899,7 @@
 									"nivel":"2_04_06_01",
 									"nombre":"Procedimiento de farmacia para estudios clínicos",
 									"codigoBC":"PO.08-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/0a7f3644-adc5-4be2-a7b0-ff7697a445d0",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/358019/PO.08-SPR.12.01+Procedimiento+de+Farmacia+para+EECC.pdf/c2381dda-60e7-5495-9d69-8ae8da561a96?t=1642520095880",
 									"tipo":"file",
 									"extension":"pdf",
 									"subnivel":	[]
@@ -890,7 +908,7 @@
 									"nivel":"2_04_06_02",
 									"nombre":"Modelo hoja de prescripción",
 									"codigoBC":"AX01_PO.08-SPR.12",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/e5ef82b8-3477-4f9b-90de-cc3a1451647a",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/358019/AX01_PO.08-SPR.12.01+Modelo+hoja+de+prescripci%C3%B3n.docx/25cef610-19da-bad9-dc90-6110a2b8596c?t=1642520096487",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -4747,21 +4765,21 @@
 									"extension":"",
 									"subnivel":	[
 										{
-											"nivel":"3_28_06_03_01",
-											"nombre":"Registro de entrada y salida de equipos y material",
-											"codigoBC":"AX01_PO.15-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/494b82c9-7347-492e-9f53-d41c7f7d0729",
-											"tipo":"file",
-											"extension":"doc",
-											"subnivel":	[]
-										},
-										{
 											"nivel":"3_28_06_03_02",
 											"nombre":"Flujo entrada y salida de equipos y material al semisótano de la plataforma de animalario",
 											"codigoBC":"PO.15-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/96c0da98-18a3-4cd4-81eb-f732c8a1e83e",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351962/PO.15-SPR.01.01+Flujo+entrada+y+salida+de+equipos+y+material+al+semis%C3%B3tano+de+la+plataforma+de+animalario.pdf/42a43c79-2e4e-7775-c860-0d303e462247?t=1641996718915",
 											"tipo":"file",
 											"extension":"pdf",
+											"subnivel":	[]
+										},
+										{
+											"nivel":"3_28_06_03_01",
+											"nombre":"Registro de entrada y salida de equipos y material",
+											"codigoBC":"AX01_PO.15-SPR.01",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351962/AX01_PO.15-SPR.01.01+Registro+de+entrada+y+salida+de+equipos+y+material.docx/f1c4d6e2-a8ad-98de-4134-6ce8bcb39dee?t=1641996812006",
+											"tipo":"file",
+											"extension":"doc",
 											"subnivel":	[]
 										}
 									]
@@ -6134,7 +6152,7 @@
 								},
 								{
 									"nivel":"3_28_07_40",
-									"nombre":"Dispensador de virutas SteelCo",
+									"nombre":"Uso del dispensador de virutas SteelCo",
 									"codigoBC":"IT.40-SPR.01",
 									"url":"",
 									"tipo":"folder",
@@ -6144,7 +6162,7 @@
 											"nivel":"3_28_07_40_01",
 											"nombre":"Dispensador de virutas SteelCo",
 											"codigoBC":"IT.40-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/8cb007fb-2b9f-4b53-8ad0-7a4c67448ccd",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351157/IT.40-SPR.01.01+Dispensador+de+virutas+SteelCo.pdf/a846bf9b-e864-26d3-cb6f-f164af6f73a0?t=1641995962893",
 											"tipo":"file",
 											"extension":"pdf",
 											"subnivel":	[]
@@ -6153,7 +6171,7 @@
 											"nivel":"3_28_07_40_02",
 											"nombre":"Registro de uso",
 											"codigoBC":"AX01-IT.40-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/40d7ab85-4bee-4457-bf3a-b1504f363c0f",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351157/AX01_IT.40-SPR.01.01+Registro+de+uso.docx/1c81a4e0-809a-64df-3ddc-f5f7e59a95a0?t=1641995962893",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
@@ -6162,7 +6180,7 @@
 											"nivel":"3_28_07_40_03",
 											"nombre":"Control de limpieza y mantenimiento",
 											"codigoBC":"AX02-IT.40-SPR.01",
-											"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/98e10542-a612-44f4-9c46-d2ad5aae3121",
+											"url":"https://www.biocrucesbizkaia.org/documents/254246/351157/AX02_IT.40-SPR.01.01+Control+de+limpieza+y+mantenimiento.docx/2c54eac2-9330-5fb1-fe3e-4b9e31da2e8d?t=1641995962892",
 											"tipo":"file",
 											"extension":"doc",
 											"subnivel":	[]
