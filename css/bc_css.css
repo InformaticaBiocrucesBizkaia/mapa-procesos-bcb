@@ -158,12 +158,15 @@
 		float: left;
 		width: 100%;
 		background-color: #f0f8ff4d;
+
+		border-radius: 20px;
+		box-shadow: 0 0 15px 10px #c4c1c1;
+		transition: transform .2s;
 	}
 
 	.bc_mp_caja:hover {
-		/*background-color: #cccbcb;*/
-		/*background-color: #f0f8ff99;*/
 		background-color: #97b5cf99;
+		transition: transform .2s;
 	}
 
 	.bc_mp_caja_borde{
@@ -639,7 +642,7 @@
 	}
 
 	.bc_mp_no_a{
-		color: #3d3f44;
+		color: white;
 		text-decoration: none !important;
 		font-weight: bold;
 	}
