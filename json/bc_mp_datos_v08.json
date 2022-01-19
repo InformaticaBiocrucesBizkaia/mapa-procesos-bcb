@@ -3120,15 +3120,6 @@
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
-								},
-								{
-									"nivel":"3_21_13_03",
-									"nombre":"Hoja de limpieza y mantenimiento",
-									"codigoBC":"AX02_IT.06-SPR.04",
-									"url":"http://www.biocruces.es:8080/share/page/site/documentacin-biocruces/document-details?nodeRef=workspace://SpacesStore/107e781f-a16c-4ace-9b10-13772e158706",
-									"tipo":"file",
-									"extension":"doc",
-									"subnivel":	[]
 								}
 							]
 						},
