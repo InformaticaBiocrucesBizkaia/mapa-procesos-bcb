@@ -71,7 +71,6 @@
 		font-size: 24px;
 		font-weight: bold;
 		text-align: left;
-		/*background-color: rgb(227, 224, 224); transparenciabbbb*/
 		padding-top: 10px;
 		width: 100% !important;
 		height: 50px;
@@ -82,10 +81,8 @@
 		font-size: 20px;
 		font-weight: bold;	
 		text-align: left;
-		/*background-color: rgb(227, 224, 224); transparenciabbbb*/
 		padding-top: 5px;
 		width: 100% !important;
-		/*height: 40px;*/
 		float: left;
 	}
 
@@ -99,30 +96,14 @@
 	#bc_mp_esquema{
 		width: 100% !important;
 		float: left;
-		
-		/*background-color: rgb(227, 224, 224); */
-		
-		/*background-color: #f0f8ff4d;*/
-    	
-    	background:url(../images/snow-5707452_reduc.jpg) no-repeat 0px 0px;
 
-    	/*background:url(../images/bc_nuevo_edificio_fondoazul.jpg) no-repeat 0px 0px;
-    	background-size:cover;*/
-
+    	background:url(../images/snow-5707452_reduc.jpg);
+		background-size: 100% 100%;
 		min-height: 85vh;
 	}
-/*
-	#bc_mp_esquema_izq{
-		width: 10% !important;
-		float: left;
-		padding: 40px 3%;
-		background-color: rgb(227, 224, 224); transparenciabbbb
-		/*min-height: 80vh;*/
-	}
-	*/
+
 	#bc_mp_esquema_parte_izq{
 		height: 500px;
-		/*background-color: #cccccc; transparenciaaaaa*/
 		width: 100% !important;
 	}
 
@@ -132,39 +113,28 @@
 		float: left;
 	}
 	#bc_mp_esquema_parte1{
-		/*height: 115px;*/
-		/*background-color: #cccccc; transparenciaaaaa*/
 		width: 100% !important;
 		float: left;
 		font-size: 18px !important;
-		/*text-shadow: 1px 1px 3px #FFFFFF;*/
 	}
 	#bc_mp_esquema_parte2{
-		/*height: 175px;*/
-		/*background-color: #cccccc; transparenciaaaaa*/
 		width: 100% !important;
 		float: left;
 		font-size: 18px !important;
-		/*text-shadow: 1px 1px 3px #FFFFFF;*/
 	}
 	#bc_mp_esquema_parte3{
-		/*height: 130px;*/
-		/*background-color: #cccccc; transparenciaaaaa*/
 		width: 100% !important;
 		float: left;
 		font-size: 18px !important;
-		/*text-shadow: 1px 1px 3px #FFFFFF;*/
 	}
 
 	#bc_mp_esquema_drcha{
 		width: 10% !important;
 		float: left;
 		padding: 40px 2%;
-		/*background-color: rgb(227, 224, 224); transparenciabbbb*/
 	}
 	#bc_mp_esquema_parte_drcha{
 		height: 500px;
-		/*background-color: #cccccc; transparenciaaaaa*/
 		width: 42% !important;
 		margin: 0px 4%;
 		float: left;
@@ -172,8 +142,6 @@
 
 	.bc_mp_internos_esquema{
 		float: left;
-		/*background-color: rgb(227, 224, 224); transparenciabbbb*/
-		/*min-height: 600px;*/
 		width: 100% !important;
 	}
 
