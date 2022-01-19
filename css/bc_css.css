@@ -213,7 +213,7 @@
 		transition: transform .2s;
 	}
 
-	.bc_mp_caja_borde: hover{
+	.bc_mp_caja_borde:hover{
 		transform: scale(1.1);
 	}
 
