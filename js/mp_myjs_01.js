@@ -54,6 +54,7 @@ $(document).ready(function(){
             $("#bc_mp_procesos").append(mapa_div);
 
             var mapa_div_div = $("<div>");
+            mapa_div_div.addClass("bc_mp_titulo");
             mapa_div_div.addClass("bc_mp_a");
             mapa_div_div.attr("id","contenedor_ppal_titulo_"+datos_mp_content[i].nivel);
             mapa_div_div.attr("onclick","func_mapa_"+datos_mp_content[i].nivel+"()");
