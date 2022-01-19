@@ -157,15 +157,14 @@
 		padding: 1%;
 		float: left;
 		width: 100%;
-		background-color: #f0f8ff4d;
-
-		border-radius: 20px;
+		background-color: #ffffffa2;
+		border-radius: 10px;
 		box-shadow: 0 0 15px 10px #c4c1c1;
 		transition: transform .2s;
 	}
 
 	.bc_mp_caja:hover {
-		background-color: #97b5cf99;
+		background-color: #ffffffe6;
 		transition: transform .2s;
 	}
 
@@ -180,7 +179,7 @@
 		padding: 6px !important;
 		cursor: pointer;
 
-		border-radius: 20px;
+		border-radius: 10px;
 		box-shadow: 0 0 15px 10px #c4c1c1;
 
 		transition: transform .2s;
