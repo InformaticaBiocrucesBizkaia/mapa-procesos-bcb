@@ -664,7 +664,8 @@
 /* Enlaces */
 	.bc_mp_a{
 		cursor: pointer;
-		color: #4d4f53;
+		/*color: #4d4f53;*/
+		color: white;
 		text-decoration: none !important;
 		font-weight: bold;
 	}
