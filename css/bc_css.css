@@ -36,6 +36,11 @@
 	}
 
 
+/* Texto home */
+	#bc_mp_esquema_parte1, #bc_mp_esquema_parte2 , #bc_mp_esquema_parte3 {
+		color: white !important;
+		text-shadow:  0px !important;
+	}
 
 
 /* Contenedor */
@@ -126,7 +131,7 @@
 		width: 100% !important;
 		float: left;
 		font-size: 18px !important;
-		text-shadow: 1px 1px 3px #FFFFFF;
+		/*text-shadow: 1px 1px 3px #FFFFFF;*/
 	}
 	#bc_mp_esquema_parte2{
 		/*height: 175px;*/
@@ -134,7 +139,7 @@
 		width: 100% !important;
 		float: left;
 		font-size: 18px !important;
-		text-shadow: 1px 1px 3px #FFFFFF;
+		/*text-shadow: 1px 1px 3px #FFFFFF;*/
 	}
 	#bc_mp_esquema_parte3{
 		/*height: 130px;*/
@@ -142,7 +147,7 @@
 		width: 100% !important;
 		float: left;
 		font-size: 18px !important;
-		text-shadow: 1px 1px 3px #FFFFFF;
+		/*text-shadow: 1px 1px 3px #FFFFFF;*/
 	}
 
 	#bc_mp_esquema_drcha{
@@ -430,10 +435,10 @@
 			background-color: #4d4f5395;
 		}
 		.bc_mp_caja_bgcolor_azulbc_0{
-			background-color: #24177370;
+			background-color: #241773ad;
 		}
 		.bc_mp_caja_bgcolor_azulbc_0:hover{
-			background-color: #24177395;
+			background-color: #241773cf;
 		}
 		.bc_mp_caja_bgcolor_azulbc_1{
 			background-color: #0071bc70;
@@ -448,10 +453,10 @@
 			background-color: #7de9f299;
 		}
 		.bc_mp_caja_bgcolor_verdebc{
-			background-color: #afce2870;
+			background-color: #afce28ba;
 		}
 		.bc_mp_caja_bgcolor_verdebc:hover{
-			background-color: #afce2895;
+			background-color: #afce28e8;
 		}
 		.bc_mp_caja_bgcolor_rosabc{
 			background-color: #dc005d70;
