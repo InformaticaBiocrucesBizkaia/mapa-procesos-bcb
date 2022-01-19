@@ -13,21 +13,25 @@
 	}
 
     html, body{
-    	font-family: 'DidactGothic';
+    	/*font-family: 'DidactGothic';*/
     	font-size: 100%;
     	background: #ffffff;
+		
+		font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     }
 
-    @font-face {
+/*    @font-face {
        font-family: 'DidactGothic';
        src: url(../fonts/DidactGothic.ttf)format('truetype');
+
+
     }
 
     @font-face {
        font-family: 'PoiretOne-Regular';
        src: url(../fonts/PoiretOne-Regular.ttf)format('truetype');
     }
-
+*/
 
 
 /* Titulo Header */
@@ -514,7 +518,7 @@
     .logo a{
         font-size: 5em;
         font-weight: bold;
-        font-family: DidactGothic;
+        /*font-family: DidactGothic;*/
         color: #FFF;
         text-decoration: none;
     }
@@ -532,7 +536,7 @@
         color: #FFF;
         font-size: 1.5em;
         margin: 0;
-        font-family: 'DidactGothic';
+        /*font-family: 'DidactGothic';*/
         text-decoration:none;
     }
     .top-nav ul li a.active{
@@ -559,7 +563,7 @@
     }
     .footer-info h3{
         color: #FFF;
-        font-family: DidactGothic;
+        /*font-family: DidactGothic;*/
         margin: 0;
         font-size: 3em;
     }
