@@ -908,7 +908,7 @@
 									"nivel":"2_04_06_02",
 									"nombre":"Modelo hoja de prescripción",
 									"codigoBC":"AX01_PO.08-SPR.12",
-									"url":"https://www.biocrucesbizkaia.org/documents/254246/358019/AX01_PO.08-SPR.12.01+Modelo+hoja+de+prescripci%C3%B3n.docx/25cef610-19da-bad9-dc90-6110a2b8596c?t=1642520096487",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/358019/AX01_PO.08-SPR.12.01+Modelo+hoja+de+prescripci%C3%B3n.docx/25cef610-19da-bad9-dc90-6110a2b8596c?t=1642679518215",
 									"tipo":"file",
 									"extension":"doc",
 									"subnivel":	[]
@@ -1455,7 +1455,7 @@
 						},
 						{
 							"nivel":"3_03_02",
-							"nombre":"Búsquedas Bibliográficas",
+							"nombre":"Búsquedas bibliográficas",
 							"codigoBC":"IT.01-PR.02",
 							"url":"",
 							"tipo":"folder",
@@ -1463,7 +1463,7 @@
 							"subnivel":[
 								{
 									"nivel":"3_03_02_01",
-									"nombre":"Búsquedas Bibliográficas",
+									"nombre":"Búsquedas bibliográficas",
 									"codigoBC":"IT.02-PR.02",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/335733/IT.01-PR.02.02+Busquedas+Bibliograficas.docx/456f885d-e603-258f-268c-20a01f48cabc?t=1640272128400",
 									"tipo":"file",
@@ -7382,10 +7382,67 @@
 								{
 									"nivel":"3_31_09_02",
 									"nombre":"Reserva Portatil",
-									"codigoBC":"AX01_PO.05-SPR.14",
+									"codigoBC":"AX01_IT.01-SPR.14",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/348481/AX01_IT.01-SPR.14.01+Reserva+Portatil.docx/307bf26e-9336-e169-0357-c6d37dd67424?t=1641907671541",
 									"tipo":"file",
 									"extension":"doc",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_31_10",
+							"nombre":"Cambio de la firma del correo en Outlook",
+							"codigoBC":"IT.02-SPR.14",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_31_10_01",
+									"nombre":"Cambio de la firma del correo en Outlook",
+									"codigoBC":"IT.02-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348481/IT.01-SPR.14.01+Instrucciones+para+videoconferencias.pdf/0807aa0d-ace9-3a11-43d4-f399f6143715?t=1641907671388",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_31_11",
+							"nombre":"Escanear documentos de gran tamaño",
+							"codigoBC":"IT.04-SPR.14",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_31_11_01",
+									"nombre":"Escanear documentos de gran tamaño",
+									"codigoBC":"IT.04-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/348487/IT.04-SPR.14.01+Escanear+documentos+de+gran+tama%C3%B1o.pdf/af88a03c-3902-26ab-5be2-f0dc7182a467?t=1641907747713",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_31_12",
+							"nombre":"Instrucciones firma electrónica",
+							"codigoBC":"IT.05-SPR.14",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_31_12_01",
+									"nombre":"Instrucciones firma electrónica",
+									"codigoBC":"IT.05-SPR.14",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/358777/IT.05_SPR.14.01+Instrucciones+firma+electr%C3%B3nica.pdf/3b7cc375-aa21-db76-0b33-7b1bf4e39a19?t=1642680616029",
+									"tipo":"file",
+									"extension":"pdf",
 									"subnivel":	[]
 								}
 							]
