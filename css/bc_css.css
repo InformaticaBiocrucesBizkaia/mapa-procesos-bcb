@@ -173,7 +173,7 @@
 
 	.bc_mp_caja:hover {
 		background-color: #2821821a;
-		transition: transform .2s;
+		transform: scale(1.1);
 	}
 
 	.bc_mp_caja_borde{
