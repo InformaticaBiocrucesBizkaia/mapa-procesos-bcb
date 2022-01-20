@@ -165,14 +165,14 @@
 		padding: 1%;
 		float: left;
 		width: 100%;
-		background-color: #ffffffa2;
+		background-color: #ffffff96;
 		border-radius: 10px;
 		box-shadow: 0 0 15px 10px #2821823d;
 		transition: transform .2s;
 	}
 
 	.bc_mp_caja:hover {
-		background-color: #2821821a;
+		background-color: #ffffffd6;
 		transform: scale(1.1);
 	}
 
