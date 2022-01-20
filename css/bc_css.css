@@ -159,7 +159,7 @@
 		width: 100%;
 		background-color: #ffffffa2;
 		border-radius: 10px;
-		box-shadow: 0 0 15px 10px #c4c1c1;
+		box-shadow: 0 0 15px 10px #d4e3fb;
 		transition: transform .2s;
 	}
 
@@ -180,7 +180,7 @@
 		cursor: pointer;
 
 		border-radius: 10px;
-		box-shadow: 0 0 15px 10px #c4c1c1;
+		box-shadow: 0 0 15px 10px #d4e3fb;
 
 		transition: transform .2s;
 	}
