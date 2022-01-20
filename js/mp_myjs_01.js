@@ -449,7 +449,7 @@ $(document).ready(function(){
                         txt_subprocesos_individual22 = $("<a/>");
                         txt_subprocesos_individual22.addClass("bc_a");
                         txt_subprocesos_individual22.addClass("bc_negrita");
-                        txt_subprocesos_individual22.addClass("bc_mp_a");
+                        txt_subprocesos_individual22.addClass("bc_mp_a_dentrocaja");
                         txt_subprocesos_individual22.attr("id","contenedor_internos_"+datos_indiv.nivel+"_"+datos_indiv.tipo);
                         txt_subprocesos_individual22.attr("href",datos_indiv.url);
                         txt_subprocesos_individual22.attr("target","_blank");
@@ -467,7 +467,7 @@ $(document).ready(function(){
                             txt_subprocesos_individual23.attr("target","_blank");
                             txt_subprocesos_individual23.addClass("bc_a");
                             txt_subprocesos_individual23.addClass("bc_negrita");
-                            txt_subprocesos_individual23.addClass("bc_mp_a");
+                            txt_subprocesos_individual23.addClass("bc_mp_a_dentrocaja");
                             txt_subprocesos_individual23.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]");
                             txt_subprocesos_individual2.append(txt_subprocesos_individual23);
                         }
@@ -482,7 +482,7 @@ $(document).ready(function(){
                                 txt_subprocesos_individual24.attr("target","_blank");
                                 txt_subprocesos_individual24.addClass("bc_a");
                                 txt_subprocesos_individual24.addClass("bc_negrita");
-                                txt_subprocesos_individual24.addClass("bc_mp_a");
+                                txt_subprocesos_individual24.addClass("bc_mp_a_dentrocaja");
                                 txt_subprocesos_individual24.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]");
                                 txt_subprocesos_individual2.append(txt_subprocesos_individual24);
                             }
@@ -497,7 +497,7 @@ $(document).ready(function(){
                                     txt_subprocesos_individual25.attr("target","_blank");
                                     txt_subprocesos_individual25.addClass("bc_a");
                                     txt_subprocesos_individual25.addClass("bc_negrita");
-                                    txt_subprocesos_individual25.addClass("bc_mp_a");
+                                    txt_subprocesos_individual25.addClass("bc_mp_a_dentrocaja");
                                     txt_subprocesos_individual25.text(datos_indiv.nombre + " ["+ datos_indiv.codigoBC +"]");
                                     txt_subprocesos_individual2.append(txt_subprocesos_individual25);
                                 }
