@@ -165,12 +165,12 @@
 		width: 100%;
 		background-color: #ffffffa2;
 		border-radius: 10px;
-		box-shadow: 0 0 15px 10px #d4e3fb;
+		box-shadow: 0 0 15px 10px #2821823d;
 		transition: transform .2s;
 	}
 
 	.bc_mp_caja:hover {
-		background-color: #ffffffe6;
+		background-color: #2821821a;
 		transition: transform .2s;
 	}
 
