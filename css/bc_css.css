@@ -39,6 +39,12 @@
 	    height: 8vh;
 	}
 
+	
+/* Titulo Header */
+	.class_esquema_titulo {
+	    background-color: #282182;
+	    padding: 6px;
+	}
 
 /* Texto home */
 	#bc_mp_esquema_parte1, #bc_mp_esquema_parte2 , #bc_mp_esquema_parte3 {
@@ -97,7 +103,7 @@
 		width: 100% !important;
 		float: left;
 
-    	background:url(../images/snow-5707452_reduc.jpg);
+    	/*background:url(../images/snow-5707452_reduc.jpg);*/
 		background-size: 100% 100%;
 		min-height: 85vh;
 	}
