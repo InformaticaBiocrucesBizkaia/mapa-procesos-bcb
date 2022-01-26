@@ -2221,6 +2221,43 @@
 						},
 						{
 							"nivel":"3_07_09",
+							"nombre":"Estabilización del personal",
+							"codigoBC":"PO.15-PR.01",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_07_09_01",
+									"nombre":"Estabilización del personal",
+									"codigoBC":"PO.15-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/360991/PO.15-PR.01.01+Estabilizaci%C3%B3n+del+personal+F.pdf/b90bed7d-bed4-78ed-a448-b88b9b1d9dc6?t=1643190672371",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_09_02",
+									"nombre":"Formulario de solicitud de estabilizacion.pdf",
+									"codigoBC":"AX01-PO.15-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/360991/AX01_PO15-PR.01.01+Formulario+de+solicitud+de+estabilizacion.pdf/f2b6c55a-e45f-e840-b3c5-f52982e98c83?t=1643190672037",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								},
+								{
+									"nivel":"3_07_09_03",
+									"nombre":"Compromiso de financiación MODELO.pdf",
+									"codigoBC":"AX02-PO.15-PR.01",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/360991/AX02_PO.15-PR.01.01+Compromiso+de+financiaci%C3%B3n+MODELO.pdf/fde19bb0-69a9-bee9-c55e-8911872f9e6c?t=1643190672211",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						},
+						{
+							"nivel":"3_07_10",
 							"nombre":"Solicitud y baja de tarjetas de identificación",
 							"codigoBC":"IT.01-PR.01",
 							"url":"",
@@ -2228,7 +2265,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_09_01",
+									"nivel":"3_07_10_01",
 									"nombre":"Alta y baja de tarjetas en el IIS Biocruces",
 									"codigoBC":"IT.01-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312105/IT.01-PR.01.02+Alta+y+baja+de+tarjetas+en+el+IIS+Biocruces.pdf/e375add8-c057-4378-42f8-3f1f4c85d131?t=1636033316041",
@@ -2239,7 +2276,7 @@
 							]
 						},
 						{
-							"nivel":"3_07_10",
+							"nivel":"3_07_11",
 							"nombre":"Gestión de nóminas en Fundanet",
 							"codigoBC":"IT.02-PR.01",
 							"url":"",
@@ -2247,7 +2284,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_10_01",
+									"nivel":"3_07_11_01",
 									"nombre":"Gestion de nóminas en Fundanet",
 									"codigoBC":"IT.02-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312108/IT.02-PR.01.03+Gestion+de+nominas+en+Fundanet.pdf/b3b35c2e-d12f-952a-3e11-38b1d70063ff?t=1636033351417",
@@ -2258,7 +2295,7 @@
 							]
 						},
 						{
-							"nivel":"3_07_11",
+							"nivel":"3_07_12",
 							"nombre":"Obtencion de costes salariales de Fundanet",
 							"codigoBC":"IT.03-PR.01",
 							"url":"",
@@ -2266,7 +2303,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_11_01",
+									"nivel":"3_07_12_01",
 									"nombre":"Obtención certificados costes salariales",
 									"codigoBC":"IT.03-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312111/IT.03-PR.01.01+Obtenci%C3%B3n+certificados+costes+salariales.pdf/977fbb6f-f9d5-3744-950d-441ee035ebd2?t=1636033387791",
@@ -2275,7 +2312,7 @@
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_11_02",
+									"nivel":"3_07_12_02",
 									"nombre":"Modelo de Certificado de Costes Salariales",
 									"codigoBC":"AX01-IT.03-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312111/AX01-IT.03-PR.01.01+Modelo+de+Certificado+de+Costes+Salariales.xls/3877495d-4367-8637-db9a-44aade823bfd?t=1636033384322",
@@ -2286,7 +2323,7 @@
 							]
 						},
 						{
-							"nivel":"3_07_12",
+							"nivel":"3_07_13",
 							"nombre":"Ofertas de empleo en la Web de Biocruces Bizkaia",
 							"codigoBC":"IT.04-PR.01",
 							"url":"",
@@ -2294,7 +2331,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_12_01",
+									"nivel":"3_07_13_01",
 									"nombre":"Instrucciones para sacar ofertas en la web",
 									"codigoBC":"IT.04-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312111/AX01-IT.03-PR.01.01+Modelo+de+Certificado+de+Costes+Salariales.xls/3877495d-4367-8637-db9a-44aade823bfd?t=1636033384322",
@@ -2305,7 +2342,7 @@
 							]
 						},
 						{
-							"nivel":"3_07_13",
+							"nivel":"3_07_14",
 							"nombre":"Solicitar certificados a RRHH de Biocruces Bizkaia",
 							"codigoBC":"IT.05-PR.01",
 							"url":"",
@@ -2313,7 +2350,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_13_01",
+									"nivel":"3_07_14_01",
 									"nombre":"Solicitar certificados a la unidad de RRHH de pertencia a Biocruces Bizkaia",
 									"codigoBC":"IT.05-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312117/IT.05-PR.01.01+Solicitar+certificados+a+la+unidad+de+RRHH+de+pertencia+a+Biocruces.pdf/f410df6d-eb3b-8fda-ef97-8e6fad0c10cc?t=1636033442067",
@@ -2322,7 +2359,7 @@
 									"subnivel":	[]
 								},
 								{
-									"nivel":"3_07_13_02",
+									"nivel":"3_07_14_02",
 									"nombre":"Certificado pertenencia al IIS Biocruces Bizkaia",
 									"codigoBC":"AX01_IT.05-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312117/AX01_IT.05-PR.01.01+Certificado+pertenencia+al+IIS+Biocruces.docx/dfa2359c-701c-f53b-5721-6ee0a205de5a?t=1636033441662",
@@ -2333,7 +2370,7 @@
 							]
 						},
 						{
-							"nivel":"3_07_14",
+							"nivel":"3_07_15",
 							"nombre":"Categorización de los miembros del Biocruces Bizkaia",
 							"codigoBC":"IT.06-PR.01",
 							"url":"",
@@ -2341,7 +2378,7 @@
 							"extension":"",
 							"subnivel":[
 								{
-									"nivel":"3_07_14_01",
+									"nivel":"3_07_15_01",
 									"nombre":"Categorización de los miembros de Biocruces Bizkaia",
 									"codigoBC":"IT.06-PR.01",
 									"url":"https://www.biocrucesbizkaia.org/documents/254246/312120/IT.06-PR.01.01+Categorizaci%C3%B3n+de+los+miembros+de+Biocruces.pdf/aaa37d1e-48f1-896c-2e76-b1ec20d05908?t=1636033453186",
