@@ -1921,7 +1921,26 @@
 									"subnivel":	[]
 								}
 							]
-						}						
+						},
+						{
+							"nivel":"3_06_08",
+							"nombre":"Gestión de cobros",
+							"codigoBC":"IT.09-PR.05",
+							"url":"",
+							"tipo":"folder",
+							"extension":"",
+							"subnivel":[
+								{
+									"nivel":"3_06_08_01",
+									"nombre":"Gestión de cobros",
+									"codigoBC":"IT.09-PR.05",
+									"url":"https://www.biocrucesbizkaia.org/documents/254246/361056/IT.09-PR.05.01+-+Gesti%C3%B3n+de+cobros.pdf/6221c4a8-5530-0963-4ad2-00ee0cf4a3dd?t=1643191944443",
+									"tipo":"file",
+									"extension":"pdf",
+									"subnivel":	[]
+								}
+							]
+						}
 					]
 				},
 				{
